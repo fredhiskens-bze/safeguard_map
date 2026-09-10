@@ -1,0 +1,10 @@
+# internal working document (per-row match/geocode confidence, review flags) --
+# not meant for the public repo; the clean output lives in data/processed/ and map/
+docs/facility_coordinates_review.xlsx
+~$*.xlsx
+
+__pycache__/
+*.pyc
+
+.DS_Store
+Thumbs.db

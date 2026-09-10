@@ -1,0 +1,75 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<title>Safeguard Mechanism Facilities Map</title>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.css" />
+<link rel="stylesheet" href="style.css" />
+</head>
+<body>
+<div id="app">
+
+  <header id="topbar">
+    <div id="brand">Safeguard Mechanism <span>Facility Map</span></div>
+
+    <div id="search-wrap">
+      <input id="search-input" type="text" placeholder="Search facilities or owners…" autocomplete="off" />
+      <div id="search-results" hidden></div>
+    </div>
+
+    <div id="mode-toggles">
+      <div class="toggle-group" id="color-mode-group">
+        <span class="toggle-label">Sector</span>
+        <button class="toggle-btn active" data-color-mode="basic">Basic</button>
+        <button class="toggle-btn" data-color-mode="advanced">Advanced</button>
+      </div>
+      <div class="toggle-group" id="size-mode-group">
+        <span class="toggle-label">Size</span>
+        <button class="toggle-btn active" data-size-mode="fixed">Fixed</button>
+        <button class="toggle-btn" data-size-mode="emissions">By emissions</button>
+      </div>
+    </div>
+  </header>
+
+  <div id="map"></div>
+
+  <div id="legend" hidden>
+    <div id="legend-anzsic" hidden></div>
+    <div id="legend-size" hidden></div>
+  </div>
+
+  <aside id="detail-panel" hidden>
+    <button id="detail-close" aria-label="Close">×</button>
+    <div id="detail-body"></div>
+  </aside>
+
+  <footer id="timebar">
+    <div id="legacy-toggle-wrap">
+      <label class="switch">
+        <input type="checkbox" id="legacy-toggle" checked />
+        <span class="slider-track"></span>
+      </label>
+      <span id="legacy-toggle-label">Include pre-reform years (2020-21 – 2022-23)</span>
+    </div>
+
+    <div id="year-slider-wrap">
+      <div id="year-slider-track">
+        <div id="year-slider-divider"></div>
+        <input type="range" id="year-slider" min="0" max="4" step="1" value="4" />
+        <div id="year-ticks"></div>
+      </div>
+      <div id="year-readout">
+        <span id="year-readout-value">2024-25</span>
+        <span id="year-readout-mechanism"></span>
+      </div>
+    </div>
+  </footer>
+
+</div>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/leaflet/1.9.4/leaflet.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

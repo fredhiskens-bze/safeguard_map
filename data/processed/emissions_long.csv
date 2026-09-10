@@ -1,0 +1,1116 @@
+facility_id,year,mechanism,facility_name,responsible_emitter,state,anzsic,baseline,covered_emissions,net_emissions,mymp_baseline,mymp_net_emissions,notes
+F0246,2020-21,legacy,Moranbah,INCITEC PIVOT LIMITED,QLD,,,528383.0,,1928645.0,1928645.0,"Please refer to the Multi-year monitoring period reported emissions data table for more information.
+The facility's net emissions number for 2020-21 was adjusted to include ACCUs issued in relation to an Emissions Reduction Fund project at the facility.
+"
+F0077,2020-21,legacy,Grosvenor Mine,ANGLO COAL (MORANBAH NORTH MANAGEMENT) PTY LIMITED,QLD,,1767156.0,348998.0,348998.0,,,"The facility transferred operational control to a new responsible emitter during the 2020-2021 financial year, covered emissions under each period of operational control are presented separately, the combined baseline for both periods is equivalent to the applicable baseline determination for the facility in the full 2020-2021 financial year"
+F0072,2020-21,legacy,Goonyella Broadmeadow Mine,BM ALLIANCE COAL OPERATIONS PTY LIMITED,QLD,,1736739.0,1577160.0,1577160.0,,, - 
+F0077,2020-21,legacy,Grosvenor Mine,ANGLO COAL (GROSVENOR MANAGEMENT) PTY LTD,QLD,,1540597.0,439896.0,439896.0,,,"The facility transferred operational control to a new responsible emitter during 2020-21, covered emissions under each period of operational control are presented separately, the combined baseline for both periods is equivalent to the applicable baseline determination for the facility in the full 2020-2021 financial year"
+F0167,2020-21,legacy,QGC Upstream ,QGC PTY LIMITED,QLD,,1186518.0,877296.0,877296.0,,, - 
+F0250,2020-21,legacy,Phosphate Hill,INCITEC PIVOT LIMITED,QLD,,591456.0,501331.0,501331.0,,,
+F0266,2020-21,legacy,Aurizon Rail Freight QLD,AURIZON OPERATIONS LIMITED,QLD,,558855.0,234875.0,234875.0,,,"Following a merger of the Aurizon Rail Freight QLD and AER Rail Freight QLD facilities into a single facility, the reported baseline determination for the facilities have been revoked under section 56 of the National Greenhouse and Energy Reporting (Safeguard Mechanism) Rule 2015 and a replacement reported baseline determination has been made for the merged facility. The covered emissions for 2020-21 also represents the combined emissions from the merged facility."
+F0061,2020-21,legacy,Fairview,SANTOS LIMITED,QLD,,549476.0,347549.0,347549.0,,, - 
+F0194,2020-21,legacy,Spring Gully,ORIGIN ENERGY UPSTREAM OPERATOR PTY LTD,QLD,,438595.0,241555.0,241555.0,,, - 
+F0005,2020-21,legacy,APU01 Pyrenees - AOA Facility,BHP PETROLEUM PTY LTD,WA,,399596.0,188815.0,188815.0,,,
+F0052,2020-21,legacy,Daunia Mine,BM ALLIANCE COAL OPERATIONS PTY LIMITED,QLD,,310899.0,244552.0,244552.0,,, - 
+F0044,2020-21,legacy,Talinga,ORIGIN ENERGY UPSTREAM OPERATOR PTY LTD,QLD,,261084.0,219146.0,219146.0,,, - 
+F0181,2020-21,legacy,Roma Hub,SANTOS LIMITED,QLD,,225019.0,103696.0,103696.0,,, - 
+F0264,2020-21,legacy,ATCO Gas Australia Pty Ltd,ATCO GAS AUSTRALIA GP PTY LTD,WA,,187220.0,114623.0,114623.0,,, - 
+F0056,2020-21,legacy,Dongara Operations,ADBRI LIMITED,WA,,,100087.0,,303952.0,303952.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0048,2020-21,legacy,CTC WA Facility,CENTURION TRANSPORT CO. PTY LTD,WA,,,104196.0,,306804.0,306804.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0271,2020-21,legacy,NGP,JEMENA NORTHERN GAS PIPELINE PTY LTD,NT/QLD,,,99288.0,,436361.0,384918.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0204,2020-21,legacy,TT-Line - Victorian Operation,TT-LINE COMPANY PTY. LTD.,VIC,,,129262.0,,466754.0,440113.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0084,2020-21,legacy,Liberty OneSteel Laverton Steel Mill,THE AUSTRALIAN STEEL COMPANY (OPERATIONS) PTY LTD,VIC,,,113227.0,,479639.0,446626.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0142,2020-21,legacy,ODS01 Olympic Dam - UOD Facility,BHP OLYMPIC DAM CORPORATION PTY LTD,SA,,,234786.0,,721489.0,667558.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0191,2020-21,legacy,South Walker Creek,BHP MITSUI COAL PTY LTD,QLD,,,304815.0,,941068.0,819759.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0091,2020-21,legacy,Jimblebar Mine,BHP IRON ORE PTY LTD,WA,,,305260.0,,1021985.0,909521.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0019,2020-21,legacy,Bengalla Operations,BENGALLA MINING COMPANY PTY LIMITED,NSW,,,449399.0,,1029724.0,988256.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0189,2020-21,legacy,Solomon Mine,FMG SOLOMON PTY LTD,WA,,,436846.0,,1278347.0,1268643.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0182,2020-21,legacy,Roy Hill Mine,ROY HILL HOLDINGS PTY LTD,WA,,,430818.0,,1325271.0,1271493.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0006,2020-21,legacy,ARC01 Mining Area C - MNG Facility,BHP IRON ORE PTY LTD,WA,,,406944.0,,1332214.0,1197355.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0035,2020-21,legacy,Caval Ridge Mine,BM ALLIANCE COAL OPERATIONS PTY LIMITED,QLD,,,590564.0,,1731537.0,1657652.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0121,2020-21,legacy,Mount Pleasant Operations,MACH ENERGY AUSTRALIA PTY LTD,NSW,,,675893.0,,2062091.0,1310497.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0161,2020-21,legacy,Portland Aluminium Smelter,ALCOA PORTLAND ALUMINIUM PTY LTD,VIC,,,594849.0,,2316290.0,2316290.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0202,2020-21,legacy,Tomago Aluminium Smelter,TOMAGO ALUMINIUM COMPANY PTY LTD,NSW,,,1181106.0,,3824778.0,3570795.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0119,2020-21,legacy,Moranbah North Mine,ANGLO COAL (MORANBAH NORTH MANAGEMENT) PTY LIMITED,QLD,,,2529216.0,,11238062.0,9129609.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0031,2020-21,legacy,Capcoal Mine,ANGLO COAL (CAPCOAL MANAGEMENT) PTY LIMITED,QLD,,,3245172.0,,11797035.0,11339278.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0014,2020-21,legacy,Baralaba Coal Mine,BARALABA COAL COMPANY PTY LTD,QLD,,,102549.0,,,,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0049,2020-21,legacy,Curragh Mine,CORONADO AUSTRALIA HOLDINGS PTY LTD,QLD,,,852964.0,,,,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0051,2020-21,legacy,Darwin LNG Plant,SANTOS LIMITED,NT,,,1590829.0,,,,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0053,2020-21,legacy,Dawson Mine,ANGLO COAL (DAWSON MANAGEMENT) PTY LTD,QLD,,,435649.0,,,,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0060,2020-21,legacy,Ensham Resources Minesite,ENSHAM RESOURCES PTY. LIMITED,QLD,,,551171.0,,,,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0071,2020-21,legacy,Goldfields Gas Transmission Pipeline,GOLDFIELDS GAS TRANSMISSION PTY LTD,WA,,,121535.0,,,,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0083,2020-21,legacy,HVY01 Hunter Valley Energy Coal - CCL Facility,HUNTER VALLEY ENERGY COAL PTY LTD,NSW,,,546521.0,,,,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0242,2020-21,legacy,Mesa A Mine,ROBE RIVER MINING CO. PTY. LTD.,WA,,,114654.0,,,,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0129,2020-21,legacy,Newman Operations,BHP IRON ORE PTY LTD,WA,,,349146.0,,,,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0138,2020-21,legacy,North West Shelf Project,WOODSIDE ENERGY LTD.,WA,,,6784581.0,,,,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0156,2020-21,legacy,Pluto LNG,WOODSIDE BURRUP PTY. LTD.,WA,,,1945741.0,,,,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0157,2020-21,legacy,Poitrel Mine,BHP MITSUI COAL PTY LTD,QLD,,,201368.0,,,,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0160,2020-21,legacy,Port Latta Pelletising Plant,GRANGE RESOURCES (TASMANIA) PTY LTD,TAS,,,118637.0,,,,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0263,2020-21,legacy,Queensland,ALLIANCE AVIATION SERVICES LIMITED,QLD,,,101464.0,,,,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0184,2020-21,legacy,Saraji Mine,BM ALLIANCE COAL OPERATIONS PTY LIMITED,QLD,,,438393.0,,,,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0185,2020-21,legacy,Savage River Mine,GRANGE RESOURCES (TASMANIA) PTY LTD,TAS,,,96414.0,,,,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0195,2020-21,legacy,Start up and Operations of the Ichthys LNG Project,INPEX OPERATIONS AUSTRALIA PTY LTD,NT,,,6351245.0,,14039314.0,13974927.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0274,2020-21,legacy,Victoria,CSL AUSTRALIA PTY LTD,VIC,,,47125.0,,,,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0209,2020-21,legacy,Vincent Project Venture,WOODSIDE ENERGY LTD.,WA,,,353008.0,,,,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0213,2020-21,legacy,Wambo Coal Mine,WAMBO COAL PTY LIMITED,NSW,,,395641.0,,,,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0254,2020-21,legacy,Western Australia,ALLIANCE AVIATION SERVICES LIMITED,WA,,,103394.0,,,,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0159,2020-21,legacy,Port Kembla Steelworks,BLUESCOPE STEEL (AIS) PTY. LTD.,NSW,,11040213.0,6260763.0,6260763.0,,, - 
+F0073,2020-21,legacy,Gorgon Operations,CHEVRON AUSTRALIA PTY LTD,WA,,8365831.0,5460144.0,5460144.0,,, - 
+F0164,2020-21,legacy,Qantas Airways Limited National Transport Facility,QANTAS AIRWAYS LIMITED,National,,4693619.0,2466674.0,2466674.0,,, - 
+F0218,2020-21,legacy,Wheatstone Operations,CHEVRON AUSTRALIA PTY LTD,WA,,4343119.0,4025254.0,4025254.0,,, - 
+F0004,2020-21,legacy,APN01 Appin Colliery - ICH Facility,ENDEAVOUR COAL PTY LIMITED,NSW,,3960227.0,1940513.0,1940513.0,,, - 
+F0222,2020-21,legacy,WOR01 Worsley Alumina Refinery/Mine,SOUTH32 WORSLEY ALUMINA PTY LTD,WA,,3718777.0,3657800.0,3657800.0,,, - 
+F0168,2020-21,legacy,Queensland Alumina Limited Refinery,QUEENSLAND ALUMINA LIMITED,QLD,,3434256.0,3300358.0,3300358.0,,, - 
+F0155,2020-21,legacy,Pinjarra Alumina Refinery,ALCOA OF AUSTRALIA LIMITED,WA,,3056433.0,1576697.0,1576697.0,,, - 
+F0070,2020-21,legacy,Gippsland Basin facility,ESSO AUSTRALIA RESOURCES PTY LTD,VIC,,2740315.0,1565319.0,1565319.0,,, - 
+F0104,2020-21,legacy,Liberty Primary Steel Whyalla Steelworks,ONESTEEL MANUFACTURING PTY LIMITED,SA,,2690509.0,2346007.0,2346007.0,,, - 
+F0003,2020-21,legacy,APLNG Facility,CONOCOPHILLIPS AUSTRALIA OPERATIONS PTY LTD,QLD,,2604999.0,2070938.0,2070938.0,,, - 
+F0116,2020-21,legacy,Moomba Plant,SANTOS LIMITED,SA,,2501037.0,2371988.0,2371988.0,,, - 
+F0210,2020-21,legacy,Virgin Australia Holdings National Transport Facility,VIRGIN AUSTRALIA HOLDINGS LIMITED,National,,2397885.0,845653.0,845653.0,,, - 
+F0179,2020-21,legacy,Rio Tinto Yarwun,RTA YARWUN PTY LTD,QLD,,2295467.0,2130417.0,2186619.0,,,The facility's net emissions number for 2020-21 was adjusted to include ACCUs issued in relation to an Emissions Reduction Fund project at the facility.
+F0065,2020-21,legacy,FLNG,SHELL AUSTRALIA PTY LTD,WA,,2263910.0,1506548.0,1506548.0,,, - 
+F0169,2020-21,legacy,Queensland Curtis LNG Plant,QCLNG OPERATING COMPANY PTY LTD,QLD,,2244528.0,1786718.0,1786718.0,,, - 
+F0197,2020-21,legacy,TAHMOOR COAL MINE,TAHMOOR COAL PTY LTD,NSW,,2008287.0,1124934.0,1124934.0,,, - 
+F0212,2020-21,legacy,Wagerup Alumina Refinery,ALCOA OF AUSTRALIA LIMITED,WA,,1894645.0,1415989.0,1415989.0,,, - 
+F0050,2020-21,legacy,Curtis Island GLNG Plant,SANTOS LIMITED,QLD,,1888177.0,1730328.0,1730328.0,,, - 
+F0042,2020-21,legacy,Cockburn Operations,ADBRI LIMITED,WA,,1839526.0,1044918.0,1044918.0,,, - 
+F0064,2020-21,legacy,Fisherman's Landing,CEMENT AUSTRALIA (QUEENSLAND) PTY LIMITED,QLD,,1795018.0,1618328.0,1618328.0,,, - 
+F0188,2020-21,legacy,Sino Iron Project - Cape Preston,CITIC PACIFIC MINING MANAGEMENT PTY LTD,WA,,1639229.0,1241225.0,1241225.0,,, - 
+F0228,2020-21,legacy,YPF AMMONIA PLANT,YARA PILBARA FERTILISERS PTY LTD,WA,,1512283.0,1456927.0,1456927.0,,, - 
+F0106,2020-21,legacy,Mandalong Mine,CENTENNIAL MANDALONG PTY LIMITED,NSW,,1443304.0,1184162.0,1184162.0,,, - 
+F0239,2020-21,legacy,Kestrel Coal Pty Ltd,KESTREL COAL GROUP PTY LTD,QLD,,1342468.0,1178560.0,1178560.0,,, - 
+F0099,2020-21,legacy,Kwinana Alumina Refinery,ALCOA OF AUSTRALIA LIMITED,WA,,1323436.0,1292269.0,1292269.0,,, - 
+F0098,2020-21,legacy,Kooragang Island,ORICA AUSTRALIA PTY LTD,NSW,,1291767.0,1029334.0,1029334.0,,, - 
+F0047,2020-21,legacy,CSBP Kwinana Facility,CSBP LIMITED,WA,,1219470.0,697197.0,697197.0,,, - 
+F0172,2020-21,legacy,Railton,CEMENT AUSTRALIA (GOLIATH) PTY LIMITED,TAS,,1118359.0,1047925.0,1047925.0,,, - 
+F0127,2020-21,legacy,Narrabri Underground Mine,NARRABRI COAL OPERATIONS PTY LTD,NSW,,1116113.0,384304.0,384304.0,,, - 
+F0067,2020-21,legacy,Geelong Refinery,VIVA ENERGY REFINING PTY LTD,VIC,,1106986.0,912997.0,912997.0,,, - 
+F0036,2020-21,legacy,CEM NSW Berrima,BORAL LIMITED,NSW,,1051888.0,1019669.0,1019669.0,,, - 
+F0214,2020-21,legacy,Warkworth Mine,WARKWORTH MINING LTD,NSW,,1018733.0,779189.0,779189.0,,, - 
+F0148,2020-21,legacy,Pacific National National Transport Facility,PACIFIC NATIONAL PTY LTD,National,,967777.0,912770.0,912770.0,,,The facility's net emissions number for 2020-21 was adjusted to include ACCUs issued in relation to an Emissions Reduction Fund project at the facility.
+F0020,2020-21,legacy,Birkenhead Operations,ADBRI LIMITED,SA,,944222.0,772545.0,772545.0,,,The facility's net emissions number for 2020-21 was adjusted to include ACCUs issued in relation to an Emissions Reduction Fund project at the facility.
+F0024,2020-21,legacy,Boyne Smelters Limited,RIO TINTO ALUMINIUM LIMITED,QLD,,918989.0,898887.0,898887.0,,, - 
+F0141,2020-21,legacy,Oaky Creek Coal Complex,OAKY CREEK HOLDINGS PTY LIMITED,QLD,,871315.0,778695.0,778695.0,,, - 
+F0176,2020-21,legacy,Refinery Qld Lytton,AMPOL LIMITED,QLD,,856595.0,539067.0,539067.0,,, - 
+F0032,2020-21,legacy,Carborough Downs Coal Mine,FITZROY (CQ) PTY LTD,QLD,,850080.0,708618.0,708618.0,,, - 
+F0126,2020-21,legacy,Myuna Colliery,CENTENNIAL MYUNA PTY LIMITED,NSW,,825052.0,402866.0,402866.0,,, - 
+F0245,2020-21,legacy,Mobil Altona Refinery,MOBIL REFINING AUSTRALIA PTY. LTD.,VIC,,811594.0,678318.0,678318.0,,, - 
+F0280,2020-21,legacy,Kwinana Refinery,BP REFINERY (KWINANA) PROPRIETARY LIMITED,WA,,739256.0,413542.0,413542.0,,, - 
+F0021,2020-21,legacy,Blackwater Mine,BM ALLIANCE COAL OPERATIONS PTY LIMITED,QLD,,733663.0,688951.0,688951.0,,, - 
+F0085,2020-21,legacy,Integra Underground Mine,HV COKING COAL PTY LIMITED,NSW,,721813.0,553209.0,553209.0,,, - 
+F0027,2020-21,legacy,Bulga Coal Complex,BULGA COAL MANAGEMENT PTY LIMITED,NSW,,707250.0,516616.0,516616.0,,, - 
+F0153,2020-21,legacy,Pilbara Rail Operations,PILBARA IRON PTY LTD,WA,,666720.0,656605.0,656605.0,,, - 
+F0112,2020-21,legacy,Metropolitan Colliery,METROPOLITAN COLLIERIES PTY. LTD.,NSW,,663700.0,401341.0,401341.0,,, - 
+F0082,2020-21,legacy,Hunter Valley Operations mine,HV OPERATIONS PTY LTD,NSW,,633681.0,563127.0,563127.0,,, - 
+F0198,2020-21,legacy,Telfer Gold Mine,NEWCREST MINING LIMITED,WA,,626808.0,500048.0,500048.0,,, - 
+F0125,2020-21,legacy,Murrin Murrin Operations,MURRIN MURRIN OPERATIONS PTY LTD,WA,,617082.0,486498.0,486498.0,,, - 
+F0120,2020-21,legacy,Mount Isa Mines Copper and Zinc Operations,MOUNT ISA MINES LIMITED,QLD,,610598.0,300397.0,300397.0,,, - 
+F0130,2020-21,legacy,Newman Power Station,ALINTA ENERGY TRANSMISSION (ROY HILL) PTY LTD,WA,,604378.0,202430.0,202430.0,,, - 
+F0039,2020-21,legacy,Christmas Creek Mine,CHICHESTER METALS PTY LTD,WA,,596884.0,574485.0,574485.0,,, - 
+F0079,2020-21,legacy,Hail Creek Mine,HAIL CREEK COAL PTY LTD,QLD,,587896.0,539784.0,539784.0,,, - 
+F0151,2020-21,legacy,Peak Downs Mine,BM ALLIANCE COAL OPERATIONS PTY LIMITED,QLD,,586447.0,513581.0,513581.0,,, - 
+F0163,2020-21,legacy,PRL03 Rail - IOR Facility,BHP IRON ORE PTY LTD,WA,,585410.0,548215.0,548215.0,,, - 
+F0273,2020-21,legacy,Toll National Transport Facility,TOLL HOLDINGS LIMITED,National,,573297.0,444449.0,444449.0,,, - 
+F0166,2020-21,legacy,Qenos Botany Manufacturing,QENOS PTY LTD,NSW,,551253.0,461734.0,461734.0,,, - 
+F0140,2020-21,legacy,Nyrstar Port Pirie Smelter,NYRSTAR PORT PIRIE PTY LTD,SA,,547081.0,342966.0,342966.0,,, - 
+F0090,2020-21,legacy,JGN,JEMENA GAS NETWORKS (NSW) LTD,NSW,,528234.0,401980.0,401980.0,,, - 
+F0103,2020-21,legacy,TEM01,TASMANIAN ELECTRO METALLURGICAL COMPANY PROPRIETARY LIMITED,TAS,,505063.0,275453.0,275453.0,,, - 
+F0236,2020-21,legacy,Gibson Island,INCITEC PIVOT LIMITED,QLD,,503185.0,444731.0,444731.0,,, - 
+F0009,2020-21,legacy,Ashton Coal Mine (Underground),ASHTON COAL OPERATIONS PTY LIMITED,NSW,,489864.0,411570.0,411570.0,,, - 
+F0139,2020-21,legacy,Nowra Plant,SHOALHAVEN STARCHES PTY LTD,NSW,,477214.0,361874.0,361874.0,,, - 
+F0208,2020-21,legacy,Varanus Hub,SANTOS LIMITED,WA,,463700.0,301925.0,301925.0,,, - 
+F0029,2020-21,legacy,Byerwen  Mine,BYERWEN COAL PTY LTD,QLD,,456929.0,333362.0,333362.0,,, - 
+F0128,2020-21,legacy,Newlands Coal Complex including Newlands Northern UG,NC COAL COMPANY PTY LIMITED,QLD,,454339.0,390714.0,390714.0,,, - 
+F0055,2020-21,legacy,DEN01,DENDROBIUM COAL PTY LTD,NSW,,447048.0,234807.0,234807.0,,, - 
+F0040,2020-21,legacy,Clermont Coal Operations,CLERMONT COAL OPERATIONS PTY LIMITED,QLD,,437255.0,340056.0,340056.0,,, - 
+F0145,2020-21,legacy,Opal Australian Paper Maryvale Mill,PAPER AUSTRALIA PTY LTD,VIC,,406527.0,320852.0,320852.0,,, - 
+F0041,2020-21,legacy,Cloudbreak Mine,CHICHESTER METALS PTY LTD,WA,,405681.0,422427.0,405681.0,,, - 
+F0225,2020-21,legacy,Yarnima Power Station,BHP IRON ORE PTY LTD,WA,,402910.0,343639.0,343639.0,,, - 
+F0026,2020-21,legacy,Brockman 4 Mine,HAMERSLEY IRON PTY. LIMITED,WA,,395901.0,165655.0,165655.0,,, - 
+F0165,2020-21,legacy,Qenos Altona Manufacturing,QENOS PTY LTD,VIC,,394357.0,347300.0,347300.0,,, - 
+F0101,2020-21,legacy,Lake Vermont Mine,THIESS PTY LTD,QLD,,394117.0,393671.0,393671.0,,, - 
+F0223,2020-21,legacy,YAN01 Yandi/Marillana Creek Mine - MNG Facility,BHP IRON ORE PTY LTD,WA,,379160.0,190343.0,190343.0,,, - 
+F0038,2020-21,legacy,Chandala Processing Plant,TRONOX MANAGEMENT PTY LTD,WA,,374904.0,206709.0,206709.0,,, - 
+F0018,2020-21,legacy,Bell Bay Smelter,RIO TINTO ALUMINIUM (BELL BAY) LIMITED,TAS,,370510.0,355698.0,355698.0,,, - 
+F0109,2020-21,legacy,Maules Creek Open Cut Mine,MAULES CREEK COAL PTY LTD,NSW,,367513.0,304625.0,304625.0,,, - 
+F0115,2020-21,legacy,Moolarben Coal Mine (Open Cut & Underground),MOOLARBEN COAL OPERATIONS PTY LTD,NSW,,361814.0,164989.0,164989.0,,, - 
+F0124,2020-21,legacy,Multinet Principal Distribution Network and South Gippsland Pipeline,MULTINET GAS (DB NO. 2) PTY LTD,NSW/VIC,,358206.0,215224.0,215224.0,,, - 
+F0150,2020-21,legacy,Parkhurst Magnesia Manufacturing Plant,QMAG PTY LIMITED,QLD,,357739.0,240525.0,240525.0,,, - 
+F0131,2020-21,legacy,Newmont Boddington Gold Operation,NEWMONT BODDINGTON PTY LTD,WA,,354726.0,219576.0,219576.0,,, - 
+F0190,2020-21,legacy,Solomon Power Station,FMG SOLOMON PTY LTD,WA,,345831.0,183646.0,183646.0,,, - 
+F0175,2020-21,legacy,Ravensworth Operations,RAVENSWORTH OPERATIONS PTY LIMITED,NSW,,345281.0,324204.0,324204.0,,, - 
+F0114,2020-21,legacy,Montara Operations,JADESTONE ENERGY (EAGLE) PTY LTD,NT,,332536.0,247895.0,247895.0,,, - 
+F0215,2020-21,legacy,West Angelas Mine,ROBE RIVER MINING CO. PTY. LTD.,WA,,331789.0,287475.0,287475.0,,, - 
+F0173,2020-21,legacy,Ravensthorpe Nickel Operation,FQM AUSTRALIA NICKEL PTY LTD,WA,,324093.0,175361.0,175361.0,,, - 
+F0193,2020-21,legacy,South West Synthetic Rutile Operations,ILUKA RESOURCES LIMITED,WA,,323579.0,212351.0,212351.0,,, - 
+F0203,2020-21,legacy,Tropicana Gold Mine,ANGLOGOLD ASHANTI AUSTRALIA LIMITED,WA,,323180.0,294418.0,294418.0,,, - 
+F0025,2020-21,legacy,Brockman 2 / Nammuldi Mines,HAMERSLEY IRON PTY. LIMITED,WA,,321494.0,301307.0,301307.0,,, - 
+F0227,2020-21,legacy,Yarwun Nitrates,ORICA AUSTRALIA PTY LTD,QLD,,321343.0,289722.0,289722.0,,, - 
+F0012,2020-21,legacy,Australian Gas Networks (Vic) Pty Ltd,AUSTRALIAN GAS NETWORKS LIMITED,VIC,,317176.0,179603.0,179603.0,,, - 
+F0100,2020-21,legacy,Kwinana Pigment Plant,TRONOX MANAGEMENT PTY LTD,WA,,308615.0,301915.0,301915.0,,, - 
+F0268,2020-21,legacy,Australian Gas Networks (SA) Ltd,AUSTRALIAN GAS NETWORKS LIMITED,SA,,300947.0,116466.0,116466.0,,, - 
+F0123,2020-21,legacy,Mt Owen Glendell Complex,MT OWEN PTY LIMITED,NSW,,286172.0,278984.0,278984.0,,, - 
+F0066,2020-21,legacy,Foxleigh Mine,FOXLEIGH MANAGEMENT PTY LTD,QLD,,281190.0,181815.0,181815.0,,, - 
+F0171,2020-21,legacy,Rail,THE PILBARA INFRASTRUCTURE PTY LTD,WA,,279793.0,285206.0,273430.0,,, - 
+F0170,2020-21,legacy,Queensland Nitrates Ammonium Nitrate Plant,QUEENSLAND NITRATES PTY LTD,QLD,,271190.0,170277.0,170277.0,,, - 
+F0224,2020-21,legacy,Yandicoogina Mine,HAMERSLEY IRON - YANDI PTY LIMITED,WA,,269097.0,158406.0,158406.0,,, - 
+F0113,2020-21,legacy,Middlemount Coal Mine,MIDDLEMOUNT COAL PTY LTD,QLD,,268480.0,255612.0,255612.0,,, - 
+F0178,2020-21,legacy,Rio Tinto Weipa,RTA WEIPA PTY LTD,QLD,,262591.0,245840.0,245840.0,,, - 
+F0089,2020-21,legacy,Jellinbah Mine,JELLINBAH MINING PTY LTD,QLD,,256527.0,253099.0,253099.0,,, - 
+F0229,2020-21,legacy,New Illawarra Road Landfill,SUEZ RECYCLING & RECOVERY HOLDINGS PTY LIMITED,NSW,,253528.0,127540.0,127540.0,,, - 
+F0054,2020-21,legacy,DBNGP,DBNGP (WA) TRANSMISSION PTY LIMITED,WA,,246362.0,243269.0,243269.0,,, - 
+F0078,2020-21,legacy,Gruyere Mine Site,GRUYERE MINING COMPANY PTY LTD,WA,,243584.0,181509.0,181509.0,,, - 
+F0062,2020-21,legacy,Fimiston,KALGOORLIE CONSOLIDATED GOLD MINES PTY LTD,WA,,242659.0,155548.0,155548.0,,, - 
+F0015,2020-21,legacy,Batchfire Resources No.1,BATCHFIRE RESOURCES PTY LTD,QLD,,241186.0,159113.0,159113.0,,, - 
+F0117,2020-21,legacy,Moorvale Coal Mine,PEABODY ENERGY AUSTRALIA PCI (C&M MANAGEMENT) PTY LTD,QLD,,239233.0,111734.0,111734.0,,, - 
+F0122,2020-21,legacy,Mt Keith Power Station,TEC DESERT PTY LTD,WA,,233797.0,189293.0,189293.0,,, - 
+F0146,2020-21,legacy,Orora Glass Plant Gawler ,ORORA LIMITED,SA,,230909.0,209186.0,211578.0,,,The facility's net emissions number for 2020-21 was adjusted to include ACCUs issued in relation to an Emissions Reduction Fund project at the facility.
+F0037,2020-21,legacy,North Goonyella Coal Mine,PEABODY (BOWEN) PTY LTD,QLD,,225651.0,194427.0,194427.0,,, - 
+F0267,2020-21,legacy,Aurizon Rail Freight WA,AURIZON OPERATIONS LIMITED,WA,,216374.0,137340.0,137340.0,,, - 
+F0132,2020-21,legacy,Newmont Tanami Operation,NEWMONT TANAMI PTY LTD,NT,,215737.0,187685.0,187685.0,,, - 
+F0108,2020-21,legacy,Marandoo Mine,HAMERSLEY IRON PTY. LIMITED,WA,,214614.0,169927.0,169927.0,,, - 
+F0219,2020-21,legacy,Wilpinjong Coal Mine,WILPINJONG COAL PTY LTD,NSW,,208562.0,141409.0,141409.0,,, - 
+F0046,2020-21,legacy,Coppabella Coal Mine,PEABODY ENERGY AUSTRALIA PCI (C&M MANAGEMENT) PTY LTD,QLD,,203763.0,171567.0,171567.0,,, - 
+F0023,2020-21,legacy,Boggabri Coal Minesite,BOGGABRI COAL PTY LIMITED,NSW,,202244.0,184492.0,184492.0,,, - 
+F0057,2020-21,legacy,Drake Mine,DRAKE MINE MANAGEMENT PTY LTD,QLD,,201231.0,183171.0,183171.0,,, - 
+F0013,2020-21,legacy,Ballera,SANTOS LIMITED,QLD,,200749.0,176097.0,176097.0,,, - 
+F0147,2020-21,legacy,Otway,BEACH ENERGY (OPERATIONS) LIMITED,VIC,,200355.0,129055.0,129055.0,,, - 
+F0068,2020-21,legacy,GEM01,GROOTE EYLANDT MINING COMPANY PROPRIETARY LIMITED,NT,,195344.0,197582.0,195344.0,,, - 
+F0226,2020-21,legacy,Yarrabee Coal Mine (Open Cut),YARRABEE COAL COMPANY PTY. LTD.,QLD,,190339.0,171635.0,171635.0,,, - 
+F0011,2020-21,legacy,AusNet Gas Services Pty Ltd,AUSNET SERVICES HOLDINGS PTY LTD,VIC,,189563.0,185277.0,185277.0,,, - 
+F0201,2020-21,legacy,Tom Price Mine / WTS,HAMERSLEY IRON PTY. LIMITED,WA,,188447.0,220784.0,188447.0,,, - 
+F0058,2020-21,legacy,Duketon South Operations,REGIS RESOURCES LIMITED,WA,,186157.0,178940.0,178940.0,,, - 
+F0283,2020-21,legacy,Lang Lang,BEACH ENERGY (OPERATIONS) LIMITED,VIC,,185553.0,119571.0,119571.0,,, - 
+F0248,2020-21,legacy,Norske Skog Boyer Mill,NORSKE SKOG PAPER MILLS (AUSTRALIA) LIMITED,TAS,,183056.0,160293.0,160293.0,,,The facility's net emissions number for 2020-21 was adjusted to include ACCUs issued in relation to an Emissions Reduction Fund project at the facility.
+F0111,2020-21,legacy,McArthur River Power Station,EDL NGD (NT) PTY LTD,NT,,177023.0,168784.0,168784.0,,, - 
+F0260,2020-21,legacy,Liddell Coal Mine,LIDDELL COAL OPERATIONS PTY. LIMITED,NSW,,176827.0,168540.0,168540.0,,, - 
+F0135,2020-21,legacy,NKW01 Nickel West Kwinana Facility,BHP BILLITON NICKEL WEST PTY LTD,WA,,176382.0,170612.0,170612.0,,, - 
+F0192,2020-21,legacy,South West Queensland Pipeline,APA (SWQP) PTY LIMITED,QLD/SA,,176381.0,129592.0,129592.0,,, - 
+F0241,2020-21,legacy,Koolyanobbing Iron Ore Operations,YILGARN IRON PTY LTD,WA,,176116.0,137803.0,137803.0,,, - 
+F0272,2020-21,legacy,Ravensworth Underground Coal Mine,RESOURCE PACIFIC PTY LIMITED,NSW,,173779.0,155993.0,155993.0,,, - 
+F0102,2020-21,legacy,Leinster Power Station,TEC DESERT PTY LTD,WA,,173336.0,151147.0,151147.0,,, - 
+F0092,2020-21,legacy,Jundee Gold Mine,NORTHERN STAR RESOURCES LTD,WA,,173116.0,127944.0,127944.0,,, - 
+F0196,2020-21,legacy,Sunrise Dam,ANGLOGOLD ASHANTI AUSTRALIA LIMITED,WA,,171958.0,163853.0,163853.0,,, - 
+F0134,2020-21,legacy,NKS01 Nickel West Kalgoorlie Facility,BHP BILLITON NICKEL WEST PTY LTD,WA,,166573.0,157960.0,157960.0,,, - 
+F0265,2020-21,legacy,Aurizon Rail Freight NSW,AURIZON OPERATIONS LIMITED,NSW,,166082.0,122234.0,122234.0,,, - 
+F0180,2020-21,legacy,Rolleston Coal Mine,ROLLESTON COAL HOLDINGS PTY LIMITED,QLD,,163725.0,143655.0,143655.0,,, - 
+F0252,2020-21,legacy,Ranger Mine,ENERGY RESOURCES OF AUSTRALIA LTD.,NT,,158654.0,107382.0,107382.0,,, - 
+F0136,2020-21,legacy,NMK01 Nickel West Mt Keith Facility,BHP BILLITON NICKEL WEST PTY LTD,WA,,152368.0,123040.0,123040.0,,, - 
+F0080,2020-21,legacy,Hope Downs 1 Mine,HAMERSLEY HMS PTY LTD,WA,,152296.0,155883.0,152296.0,,, - 
+F0186,2020-21,legacy,Sewerage West,MELBOURNE WATER CORPORATION,VIC,,151472.0,146326.0,146326.0,,, - 
+F0177,2020-21,legacy,Rio Tinto Marine - Qld,RIO TINTO SHIPPING (ASIA) PTE LTD,QLD,,144297.0,108109.0,108109.0,,, - 
+F0043,2020-21,legacy,Collinsville Mine,NC COAL COMPANY PTY LIMITED,QLD,,144171.0,112115.0,112115.0,,, - 
+F0030,2020-21,legacy,CAN01,SOUTH32 CANNINGTON PROPRIETARY LIMITED,QLD,,143326.0,124037.0,124037.0,,, - 
+F0158,2020-21,legacy,Port Bonython Plant,SANTOS LIMITED,SA,,142034.0,120592.0,120592.0,,, - 
+F0206,2020-21,legacy,V/Line,V/LINE CORPORATION,VIC,,140686.0,120324.0,120324.0,,, - 
+F0074,2020-21,legacy,Gove Operations,RTA GOVE PTY LIMITED,NT,,131943.0,113073.0,131943.0,,,The facility's net emissions number for 2020-21 was adjusted to include ACCUs issued in relation to an Emissions Reduction Fund project at the facility.
+F0217,2020-21,legacy,Western Port Works,BLUESCOPE STEEL LIMITED,VIC,,131238.0,111141.0,111141.0,,, - 
+F0075,2020-21,legacy,Granny Smith Mine Site,GSM MINING COMPANY PTY LTD,WA,,126385.0,118138.0,124188.0,,,The facility's net emissions number for 2020-21 was adjusted to include ACCUs issued in relation to an Emissions Reduction Fund project at the facility.
+F0110,2020-21,legacy,McArthur River Mine Operations,MCARTHUR RIVER MINING PTY. LTD.,NT,,126141.0,114423.0,114423.0,,, - 
+F0233,2020-21,legacy,Dandenong,OCEANIA GLASS PTY LTD,VIC,,123348.0,111372.0,111372.0,,, - 
+F0284,2020-21,legacy,Daandine Operations,ARROW (DAANDINE) PTY. LTD.,QLD,,122650.0,116417.0,116417.0,,, - 
+F0187,2020-21,legacy,SIMEC Mining - Middleback Range Iron Ore Mine (Whyalla),ONESTEEL MANUFACTURING PTY LIMITED,SA,,121547.0,101894.0,101894.0,,, - 
+F0149,2020-21,legacy,Paraburdoo Mine,HAMERSLEY IRON PTY. LIMITED,WA,,120836.0,133434.0,120836.0,,, - 
+F0285,2020-21,legacy,Huntly Mine,ALCOA OF AUSTRALIA LIMITED,WA,,109357.0,100475.0,100475.0,,, - 
+F0034,2020-21,legacy,Carosue Dam,NORTHERN STAR (CAROSUE DAM) PTY LTD,WA,,108460.0,108388.0,108388.0,,, - 
+F0081,2020-21,legacy,Hope Downs 4 Mine,HAMERSLEY HMS PTY LTD,WA,,106522.0,105625.0,105625.0,,, - 
+F0001,2021-22,legacy,1. Solid Waste Services - MRL,Cleanaway Waste Management Limited,VIC,,222121.0,101761.0,110987.0,,,The facility's net emissions number for 2021-22 was adjusted to include ACCUs issued in relation to an Emissions Reduction Fund project at the facility.
+F0002,2021-22,legacy,Angaston Operations,ADBRI LIMITED,SA,,103285.0,114588.0,103285.0,,,-
+F0003,2021-22,legacy,APLNG Facility,CONOCOPHILLIPS AUSTRALIA OPERATIONS PTY LTD,QLD,,2381120.0,2132240.0,2132240.0,,,-
+F0004,2021-22,legacy,APN01 Appin Colliery - ICH Facility,ENDEAVOUR COAL PTY LIMITED,NSW,,2470574.0,1589755.0,1589755.0,,,-
+F0005,2021-22,legacy,APU01 Pyrenees - AOA Facility,WOODSIDE ENERGY GLOBAL PTY LTD,WA,,388666.0,181810.0,181810.0,,,-
+F0006,2021-22,legacy,ARC01 Mining Area C - MNG Facility,BHP IRON ORE PTY LTD,WA,,763972.0,412089.0,412089.0,,,-
+F0009,2021-22,legacy,Ashton Coal Mine (Underground),ASHTON COAL OPERATIONS PTY LIMITED,NSW,,871793.0,596235.0,596235.0,,,-
+F0264,2021-22,legacy,ATCO Gas Australia Pty Ltd,ATCO Gas Australia GP Pty Ltd,WA,,187220.0,103813.0,103813.0,,,-
+F0265,2021-22,legacy,Aurizon Rail Freight NSW,AURIZON OPERATIONS LIMITED,NSW,,151367.0,120406.0,120406.0,,,-
+F0266,2021-22,legacy,Aurizon Rail Freight QLD,AURIZON OPERATIONS LIMITED,QLD,,263233.0,223097.0,223097.0,,,-
+F0267,2021-22,legacy,Aurizon Rail Freight WA,AURIZON OPERATIONS LIMITED,WA,,156679.0,141227.0,141227.0,,,-
+F0011,2021-22,legacy,AusNet Gas Services Pty Ltd,AusNet Services Holdings Pty Ltd,VIC,,220372.0,185931.0,185931.0,,,-
+F0268,2021-22,legacy,Australian Gas Networks (SA) Ltd,Australian Gas Networks Limited,SA,,120932.0,107063.0,107063.0,,,-
+F0012,2021-22,legacy,Australian Gas Networks (Vic) Pty Ltd,Australian Gas Networks Limited,VIC,,301675.0,158211.0,158211.0,,,-
+F0013,2021-22,legacy,Ballera,Santos Limited,QLD,,200749.0,172435.0,172435.0,,,-
+F0014,2021-22,legacy,Baralaba Coal Mine,BARALABA COAL COMPANY PTY LTD ,QLD,,,110125.0,,,,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0015,2021-22,legacy,Batchfire Resources No.1,BATCHFIRE RESOURCES PTY LTD,QLD,,241186.0,188124.0,188124.0,,,-
+F0018,2021-22,legacy,Bell Bay Smelter,RIO TINTO ALUMINIUM (BELL BAY) LIMITED,TAS,,370510.0,357496.0,357496.0,,,-
+F0019,2021-22,legacy,Bengalla Operations,Bengalla Mining Company Pty Limited,NSW,,730869.0,725774.0,725774.0,,,-
+F0020,2021-22,legacy,Birkenhead Operations,ADBRI LIMITED,SA,,1106181.0,829478.0,854264.0,,,The facility's net emissions number for 2021-22 was adjusted to include ACCUs issued in relation to an Emissions Reduction Fund project at the facility.
+F0021,2021-22,legacy,Blackwater Mine,BM Alliance Coal Operations Pty Limited,QLD,,733663.0,643597.0,643597.0,,,-
+F0023,2021-22,legacy,Boggabri Coal Minesite,BOGGABRI COAL PTY LIMITED,NSW,,202244.0,177437.0,177437.0,,,-
+F0024,2021-22,legacy,Boyne Smelters Limited,RIO TINTO ALUMINIUM LIMITED,QLD,,918989.0,895814.0,895814.0,,,-
+F0025,2021-22,legacy,Brockman 2 / Nammuldi Mines,Hamersley Iron Pty. Limited,WA,,321494.0,326461.0,321494.0,,,-
+F0026,2021-22,legacy,Brockman 4 Mine,Hamersley Iron Pty. Limited,WA,,395901.0,208674.0,208674.0,,,-
+F0027,2021-22,legacy,Bulga Coal Complex,BULGA COAL MANAGEMENT PTY LIMITED,NSW,,707250.0,474479.0,474479.0,,,-
+F0029,2021-22,legacy,Byerwen  Mine,BYERWEN COAL PTY LTD,QLD,,456929.0,338093.0,338093.0,,,-
+F0030,2021-22,legacy,CAN01,South32 Cannington Proprietary Limited,QLD,,132240.0,117901.0,117901.0,,,-
+F0031,2021-22,legacy,Capcoal Mine,ANGLO COAL (CAPCOAL MANAGEMENT) PTY LIMITED,QLD,,4544066.0,1879565.0,1879565.0,,,-
+F0032,2021-22,legacy,Carborough Downs Coal Mine,FITZROY (CQ) PTY LTD,QLD,,,968784.0,,,,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0033,2021-22,legacy,Carmichael Coal Mine,Adani Mining Pty Ltd,QLD,,740457.0,190781.0,190781.0,,,-
+F0034,2021-22,legacy,Carosue Dam Operations,NORTHERN STAR (CAROSUE DAM) PTY LTD,WA,,,115517.0,,,,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0035,2021-22,legacy,Caval Ridge Mine,BM Alliance Coal Operations Pty Limited,QLD,,644129.0,264848.0,264848.0,,,-
+F0036,2021-22,legacy,CEM NSW Berrima,Boral Limited,NSW,,1054904.0,1012081.0,1012081.0,,,-
+F0038,2021-22,legacy,Chandala Processing Plant,Tronox Management Pty Ltd,WA,,280203.0,233786.0,233786.0,,,-
+F0039,2021-22,legacy,Christmas Creek Mine,CHICHESTER METALS PTY LTD,WA,,596884.0,373646.0,373646.0,,,-
+F0040,2021-22,legacy,Clermont Coal Operations,Clermont Coal Operations Pty Limited,QLD,,437255.0,361701.0,361701.0,,,-
+F0041,2021-22,legacy,Cloudbreak Mine,CHICHESTER METALS PTY LTD,WA,,405681.0,362034.0,362034.0,,,-
+F0042,2021-22,legacy,Cockburn Operations,ADBRI LIMITED,WA,,789018.0,785376.0,785376.0,,,-
+F0043,2021-22,legacy,Collinsville Mine,NC COAL COMPANY PTY LIMITED,QLD,,144171.0,126725.0,126725.0,,,-
+F0046,2021-22,legacy,Coppabella Coal Mine,PEABODY ENERGY AUSTRALIA PCI (C&M MANAGEMENT) PTY LTD,QLD,,203763.0,194038.0,194038.0,,,-
+F0232,2021-22,legacy,Cowal Operations,EVOLUTION MINING (COWAL) PTY LIMITED,NSW,,,101373.0,,,,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0047,2021-22,legacy,CSBP Kwinana Facility,CSBP Limited,WA,,885913.0,629391.0,629391.0,,,-
+F0048,2021-22,legacy,CTC WA Facility,CENTURION TRANSPORT CO. PTY LTD,WA,,126062.0,109567.0,109567.0,,,-
+F0049,2021-22,legacy,Curragh Mine,CORONADO AUSTRALIA HOLDINGS PTY LTD,QLD,,,861201.0,,3117281.0,2329133.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0050,2021-22,legacy,Curtis Island GLNG Plant,Santos Limited,QLD,,1888177.0,1685966.0,1685966.0,,,-
+F0233,2021-22,legacy,Dandenong,OCEANIA GLASS PTY LTD,VIC,,123348.0,116420.0,116420.0,,,-
+F0051,2021-22,legacy,Darwin LNG Plant,Santos Limited,NT,,,1241038.0,,,,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0052,2021-22,legacy,Daunia Mine,BM Alliance Coal Operations Pty Limited,QLD,,310899.0,163888.0,163888.0,,,-
+F0053,2021-22,legacy,Dawson Mine,ANGLO COAL (DAWSON MANAGEMENT) PTY LTD,QLD,,,432807.0,,2035987.0,1439012.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0054,2021-22,legacy,DBNGP,DBNGP (WA) Transmission Pty Limited,WA,,246362.0,224323.0,224323.0,,,-
+F0055,2021-22,legacy,DEN01,Dendrobium Coal Pty Ltd,NSW,,386274.0,232076.0,232076.0,,,-
+F0056,2021-22,legacy,Dongara Operations,ADBRI LIMITED,WA,,122883.0,112536.0,112536.0,,,-
+F0057,2021-22,legacy,Drake Mine,Drake Mine Management Pty Ltd,QLD,,,208972.0,,,,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0058,2021-22,legacy,Duketon South Operations,Regis Resources Limited,WA,,186157.0,171680.0,171680.0,,,-
+F0235,2021-22,legacy,EGP,Jemena Eastern Gas Pipeline (1) Pty Ltd,NSW; VIC,,145997.0,108209.0,108209.0,,,-
+F0059,2021-22,legacy,Eliwana Mine,FMG SOLOMON PTY LTD,WA,,199022.0,156384.0,156384.0,,,-
+F0060,2021-22,legacy,Ensham Resources Minesite,ENSHAM RESOURCES PTY. LIMITED,QLD,,,307273.0,,,,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0061,2021-22,legacy,Fairview,Santos Limited,QLD,,549476.0,341841.0,341841.0,,,-
+F0062,2021-22,legacy,Fimiston Operations,KALGOORLIE CONSOLIDATED GOLD MINES PTY LTD,WA,,242659.0,192325.0,192325.0,,,-
+F0064,2021-22,legacy,Fisherman's Landing,CEMENT AUSTRALIA (QUEENSLAND) PTY LIMITED,QLD,,1795018.0,1678126.0,1678126.0,,,-
+F0065,2021-22,legacy,FLNG,SHELL AUSTRALIA PTY LTD,WA,,2263910.0,1840672.0,1840672.0,,,-
+F0066,2021-22,legacy,Foxleigh Mine,FOXLEIGH MANAGEMENT PTY LTD,QLD,,281190.0,218686.0,218686.0,,,-
+F0067,2021-22,legacy,Geelong Refinery,Viva Energy Refining Pty Ltd,VIC,,1094298.0,1076739.0,1076739.0,,,-
+F0068,2021-22,legacy,GEM01,Groote Eylandt Mining Company Proprietary Limited,NT,,195344.0,192995.0,192995.0,,,-
+F0236,2021-22,legacy,Gibson Island,Incitec Pivot Limited,QLD,,544910.0,396976.0,396976.0,,,-
+F0070,2021-22,legacy,Gippsland Basin facility,ESSO AUSTRALIA RESOURCES PTY LTD,VIC,,2740315.0,1746940.0,1746940.0,,,-
+F0071,2021-22,legacy,Goldfields Gas Transmission Pipeline,Goldfields Gas Transmission Pty Ltd,WA,,,131592.0,,396090.0,366301.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0072,2021-22,legacy,Goonyella Broadmeadow Mine,BM Alliance Coal Operations Pty Limited,QLD,,1736739.0,1314139.0,1314139.0,,,-
+F0073,2021-22,legacy,Gorgon Operations,CHEVRON AUSTRALIA PTY LTD,WA,,8336476.0,8318842.0,8318842.0,,,-
+F0074,2021-22,legacy,Gove Operations,RTA GOVE PTY LIMITED,NT,,132111.0,118473.0,132111.0,,,The facility's net emissions number for 2021-22 was adjusted to include ACCUs issued in relation to an Emissions Reduction Fund project at the facility.
+F0075,2021-22,legacy,Granny Smith Mine Site,GSM MINING COMPANY PTY LTD,WA,,126385.0,120157.0,126385.0,,,The facility's net emissions number for 2021-22 was adjusted to include ACCUs issued in relation to an Emissions Reduction Fund project at the facility.
+F0077,2021-22,legacy,Grosvenor Mine,ANGLO COAL (MORANBAH NORTH MANAGEMENT) PTY LIMITED,QLD,,3307753.0,775806.0,775806.0,,,-
+F0078,2021-22,legacy,Gruyere Mine Site,Gruyere Mining Company Pty Ltd,WA,,243584.0,197497.0,197497.0,,,-
+F0079,2021-22,legacy,Hail Creek Mine,HAIL CREEK COAL PTY LTD,QLD,,587896.0,543611.0,543611.0,,,-
+F0080,2021-22,legacy,Hope Downs 1 Mine,Hamersley HMS Pty Ltd,WA,,152296.0,165509.0,152296.0,,,-
+F0081,2021-22,legacy,Hope Downs 4 Mine,Hamersley HMS Pty Ltd,WA,,116192.0,117658.0,116192.0,,,-
+F0082,2021-22,legacy,Hunter Valley Operations mine,HV OPERATIONS PTY LTD,NSW,,633681.0,577874.0,577874.0,,,-
+F0083,2021-22,legacy,HVY01 Hunter Valley Energy Coal - CCL Facility,Hunter Valley Energy Coal Pty Ltd,NSW,,,503403.0,,,,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0084,2021-22,legacy,InfraBuild Steel Laverton Steel Mill,THE AUSTRALIAN STEEL COMPANY (OPERATIONS) PTY LTD,VIC,,123412.0,112731.0,112731.0,,,-
+F0085,2021-22,legacy,Integra Underground Mine,HV Coking Coal Pty Limited,NSW,,721813.0,277236.0,277236.0,,,-
+F0089,2021-22,legacy,Jellinbah Mine,JELLINBAH MINING PTY LTD,QLD,,256527.0,241538.0,241538.0,,,-
+F0090,2021-22,legacy,JGN,Jemena Gas Networks (NSW) Ltd,NSW,,477774.0,400018.0,400018.0,,,-
+F0091,2021-22,legacy,Jimblebar Mine,BHP IRON ORE PTY LTD,WA,,,305973.0,,,,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0092,2021-22,legacy,Jundee Gold Mine,NORTHERN STAR RESOURCES LIMITED,WA,,173116.0,141316.0,141316.0,,,-
+F0094,2021-22,legacy,Kemerton Silicon Smelter,SIMCOA OPERATIONS PTY. LTD.,WA,,100000.0,110437.0,100000.0,,,-
+F0239,2021-22,legacy,Kestrel Coal Pty Ltd,Kestrel Coal Group Pty Ltd,QLD,,1655916.0,1236654.0,1236654.0,,,-
+F0241,2021-22,legacy,Koolyanobbing Iron Ore Operations,Yilgarn Iron Pty Ltd,WA,,176116.0,131692.0,131692.0,,,-
+F0098,2021-22,legacy,Kooragang Island,ORICA AUSTRALIA PTY LTD,NSW,,1291767.0,1092155.0,1092155.0,,,-
+F0099,2021-22,legacy,Kwinana Alumina Refinery,Alcoa of Australia Limited,WA,,1366709.0,1253485.0,1253485.0,,,-
+F0100,2021-22,legacy,Kwinana Pigment Plant,Tronox Management Pty Ltd,WA,,333169.0,314557.0,314557.0,,,-
+F0101,2021-22,legacy,Lake Vermont Mine,THIESS PTY LTD,QLD,,394117.0,369934.0,369934.0,,,-
+F0102,2021-22,legacy,Leinster Power Station,TEC DESERT PTY LTD,WA,,154495.0,139326.0,139326.0,,,-
+F0103,2021-22,legacy,Liberty Bell Bay,Liberty Bell Bay Pty Ltd,TAS,,398933.0,350535.0,350535.0,,,-
+F0104,2021-22,legacy,Liberty Primary Steel Whyalla Steelworks,ONESTEEL MANUFACTURING PTY LIMITED,SA,,2690509.0,2150574.0,2150574.0,,,-
+F0260,2021-22,legacy,Liddell Coal Mine,LIDDELL COAL OPERATIONS PTY. LIMITED,NSW,,176827.0,168363.0,168363.0,,,-
+F0106,2021-22,legacy,Mandalong Mine,CENTENNIAL MANDALONG PTY LIMITED,NSW,,1443304.0,1401895.0,1401895.0,,,-
+F0107,2021-22,legacy,Mangoola,MANGOOLA COAL OPERATIONS PTY LIMITED,NSW,,122507.0,100044.0,100044.0,,,-
+F0108,2021-22,legacy,Marandoo Mine,Hamersley Iron Pty. Limited,WA,,214614.0,159346.0,159346.0,,,-
+F0109,2021-22,legacy,Maules Creek Open Cut Mine,MAULES CREEK COAL PTY LTD,NSW,,367513.0,266464.0,266464.0,,,-
+F0111,2021-22,legacy,McArthur River Power Station,EDL NGD (NT) Pty Ltd,NT,,153748.0,135796.0,135796.0,,,-
+F0242,2021-22,legacy,Mesa A Mine,Robe River Mining Co. Pty. Ltd.,WA,,,88004.0,,,,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0112,2021-22,legacy,Metropolitan Colliery,METROPOLITAN COLLIERIES PTY. LTD.,NSW,,663700.0,433633.0,433633.0,,,-
+F0113,2021-22,legacy,Middlemount Coal Mine,Middlemount Coal Pty Ltd,QLD,,268480.0,246523.0,246523.0,,,-
+F0244,2021-22,legacy,Millicent Mill,Kimberly-Clark Australia Pty. Limited,SA,,121846.0,104395.0,104395.0,,,-
+F0245,2021-22,legacy,Mobil Altona Refinery,MOBIL REFINING AUSTRALIA PTY. LTD.,VIC,,,110446.0,,,,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0114,2021-22,legacy,Montara Operations,JADESTONE ENERGY (EAGLE) PTY LTD,NT,,332536.0,262068.0,262068.0,,,-
+F0115,2021-22,legacy,Moolarben Coal Mine (Open Cut & Underground),MOOLARBEN COAL OPERATIONS PTY LTD,NSW,,361814.0,181893.0,181893.0,,,-
+F0116,2021-22,legacy,Moomba Plant,Santos Limited,SA,,2252960.0,2175400.0,2175400.0,,,-
+F0117,2021-22,legacy,Moorvale Coal Mine,PEABODY ENERGY AUSTRALIA PCI (C&M MANAGEMENT) PTY LTD,QLD,,239233.0,112364.0,112364.0,,,-
+F0246,2021-22,legacy,Moranbah,Incitec Pivot Limited,QLD,,610520.0,601867.0,601867.0,,,-
+F0119,2021-22,legacy,Moranbah North Mine,ANGLO COAL (MORANBAH NORTH MANAGEMENT) PTY LIMITED,QLD,,4533701.0,2006377.0,2006377.0,,,-
+F0120,2021-22,legacy,Mount Isa Mines Copper and Zinc Operations,MOUNT ISA MINES LIMITED,QLD,,610598.0,335200.0,335200.0,,,-
+F0121,2021-22,legacy,Mount Pleasant Operations,MACH Energy Australia Pty Ltd,NSW,,752950.0,716841.0,716841.0,,,-
+F0122,2021-22,legacy,Mt Keith Power Station,TEC DESERT PTY LTD,WA,,,185892.0,,,,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0123,2021-22,legacy,Mt Owen Glendell Complex,MT OWEN PTY LIMITED,NSW,,286172.0,264736.0,264736.0,,,-
+F0124,2021-22,legacy,Multinet Principal Distribution Network and South Gippsland Pipeline,MULTINET GAS (DB NO. 2) PTY LTD,VIC,,315124.0,204713.0,204713.0,,,-
+F0125,2021-22,legacy,Murrin Murrin Operations,MURRIN MURRIN OPERATIONS PTY LTD,WA,,617082.0,512537.0,512537.0,,,-
+F0126,2021-22,legacy,Myuna Colliery,CENTENNIAL MYUNA PTY LIMITED,NSW,,825052.0,320525.0,320525.0,,,-
+F0127,2021-22,legacy,Narrabri Underground Mine,Narrabri Coal Operations Pty Ltd,NSW,,1116113.0,519704.0,519704.0,,,-
+F0229,2021-22,legacy,New Illawarra Road Landfill,Cleanaway Waste Management Limited,NSW,,129952.0,54091.0,54091.0,,,-
+F0229,2021-22,legacy,New Illawarra Road Landfill,VEOLIA RECYCLING & RECOVERY ANZ PTY LIMITED,NSW,,176707.0,73574.0,73574.0,,,-
+F0128,2021-22,legacy,Newlands Coal Complex including Newlands Northern UG,NC COAL COMPANY PTY LIMITED,QLD,,454339.0,414271.0,414271.0,,,-
+F0129,2021-22,legacy,Newman Operations,BHP IRON ORE PTY LTD,WA,,,305076.0,,1102168.0,1006396.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0130,2021-22,legacy,Newman Power Station,ALINTA ENERGY TRANSMISSION (ROY HILL) PTY LTD,WA,,604378.0,389496.0,389496.0,,,-
+F0131,2021-22,legacy,Newmont Boddington Gold Operation,Newmont Boddington Pty Ltd,WA,,330487.0,198355.0,198355.0,,,-
+F0132,2021-22,legacy,Newmont Tanami Operation,Newmont Tanami Pty Ltd,NT,,215737.0,187794.0,187794.0,,,-
+F0271,2021-22,legacy,NGP,JEMENA NORTHERN GAS PIPELINE PTY LTD,NT; QLD,,115783.0,107606.0,107606.0,,,-
+F0133,2021-22,legacy,Ningaloo Vision FPSO,Santos Limited,WA,,546091.0,381472.0,381472.0,,,-
+F0134,2021-22,legacy,NKS01 Nickel West Kalgoorlie Facility,BHP NICKEL WEST PTY LTD,WA,,158794.0,140234.0,140234.0,,,-
+F0135,2021-22,legacy,NKW01 Nickel West Kwinana Facility,BHP NICKEL WEST PTY LTD,WA,,,161918.0,,,,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0136,2021-22,legacy,NMK01 Nickel West Mt Keith Facility,BHP NICKEL WEST PTY LTD,WA,,209693.0,129880.0,129880.0,,,-
+F0248,2021-22,legacy,Norske Skog Boyer Mill,Norske Skog Paper Mills (Australia) Limited,TAS,,183056.0,171463.0,171463.0,,,The facility's net emissions number for 2021-22 was adjusted to include ACCUs issued in relation to an Emissions Reduction Fund project at the facility.
+F0037,2021-22,legacy,North Goonyella Coal Mine,PEABODY (BOWEN) PTY LTD,QLD,,225651.0,171698.0,171698.0,,,-
+F0138,2021-22,legacy,North West Shelf Project,Woodside Energy Ltd.,WA,,,6418032.0,,,,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0139,2021-22,legacy,Nowra Plant,Shoalhaven Starches Pty Ltd,NSW,,477214.0,370956.0,370956.0,,,-
+F0221,2021-22,legacy,NSW - Woodlawn Bioreactor,Veolia Environmental Services (Australia) Pty Ltd,NSW,,140540.0,101881.0,101881.0,,,-
+F0140,2021-22,legacy,Nyrstar Port Pirie Facility,Nyrstar Port Pirie Pty Ltd,SA,,547081.0,428561.0,428561.0,,,-
+F0141,2021-22,legacy,Oaky Creek Coal Complex,OAKY CREEK HOLDINGS PTY LIMITED,QLD,,1747736.0,859792.0,859792.0,,,-
+F0142,2021-22,legacy,ODS01 Olympic Dam – UOD Facility,BHP OLYMPIC DAM CORPORATION PTY LTD,SA,,241243.0,182302.0,182302.0,,,-
+F0145,2021-22,legacy,Opal Australian Paper Maryvale Mill,PAPER AUSTRALIA PTY LTD,VIC,,519332.0,324164.0,324164.0,,,-
+F0146,2021-22,legacy,Orora Glass Plant Gawler ,Orora Limited,SA,,230073.0,206339.0,206339.0,,,-
+F0147,2021-22,legacy,Otway,BEACH ENERGY (OPERATIONS) LIMITED,VIC,,200355.0,142025.0,142025.0,,,-
+F0148,2021-22,legacy,Pacific National Transport Facility,PACIFIC NATIONAL PTY LTD,National,,,871855.0,,,,"Please refer to the Multi-year monitoring period reported emissions data table for more information.
+The facility's net emissions number for 2021-22 was adjusted to include ACCUs issued in relation to an Emissions Reduction Fund project at the facility."
+F0149,2021-22,legacy,Paraburdoo Mine,Hamersley Iron Pty. Limited,WA,,120836.0,116170.0,116170.0,,,-
+F0150,2021-22,legacy,Parkhurst Magnesia Manufacturing Plant,QMAG PTY LIMITED,QLD,,238915.0,235791.0,235791.0,,,-
+F0151,2021-22,legacy,Peak Downs Mine,BM Alliance Coal Operations Pty Limited,QLD,,586447.0,448708.0,448708.0,,,-
+F0250,2021-22,legacy,Phosphate Hill,Incitec Pivot Limited,QLD,,591456.0,464031.0,464031.0,,,-
+F0153,2021-22,legacy,Pilbara Rail Operations,PILBARA IRON PTY LTD,WA,,661171.0,650881.0,650881.0,,,-
+F0155,2021-22,legacy,Pinjarra Alumina Refinery,Alcoa of Australia Limited,WA,,2881289.0,1508614.0,1508614.0,,,-
+F0156,2021-22,legacy,Pluto LNG,Woodside Burrup Pty. Ltd.,WA,,,1943418.0,,,,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0157,2021-22,legacy,Poitrel Mine,STANMORE SMC PTY LTD,QLD,,,185364.0,,575850.0,575850.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0159,2021-22,legacy,Port Kembla Steelworks,BLUESCOPE STEEL (AIS) PTY. LTD.,NSW,,6920344.0,6198685.0,6198685.0,,,-
+F0160,2021-22,legacy,Port Latta Pelletising Plant,GRANGE RESOURCES (TASMANIA) PTY LTD,TAS,,,125019.0,,377127.0,368068.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0161,2021-22,legacy,Portland Aluminium Smelter,Alcoa Portland Aluminium Proprietary Limited,VIC,,526325.0,561106.0,526325.0,,,-
+F0163,2021-22,legacy,PRL03 Rail - IOR Facility,BHP IRON ORE PTY LTD,WA,,576420.0,560092.0,560092.0,,,-
+F0164,2021-22,legacy,Qantas Airways Limited National Transport Facility,Qantas Airways Limited,National,,5285611.0,3057585.0,3057585.0,,,-
+F0165,2021-22,legacy,Qenos Altona Manufacturing,QENOS PTY LTD,VIC,,339177.0,273777.0,273777.0,,,-
+F0166,2021-22,legacy,Qenos Botany Manufacturing,QENOS PTY LTD,NSW,,551253.0,516301.0,516301.0,,,-
+F0167,2021-22,legacy,QGC Upstream ,QGC PTY LIMITED,QLD,,1186518.0,842456.0,842456.0,,,-
+F0263,2021-22,legacy,Queensland,Alliance Aviation Services Limited,QLD,,,81118.0,,,,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0168,2021-22,legacy,Queensland Alumina Limited Refinery,QUEENSLAND ALUMINA LIMITED,QLD,,3434256.0,3129823.0,3129823.0,,,-
+F0169,2021-22,legacy,Queensland Curtis LNG Plant,QCLNG Operating Company Pty Ltd,QLD,,1896711.0,1846755.0,1846755.0,,,-
+F0170,2021-22,legacy,Queensland Nitrates Ammonium Nitrate Plant,Queensland Nitrates Pty Ltd,QLD,,271190.0,170118.0,170118.0,,,-
+F0171,2021-22,legacy,Rail,THE PILBARA INFRASTRUCTURE PTY LTD,WA,,310731.0,245338.0,245338.0,,,-
+F0172,2021-22,legacy,Railton,CEMENT AUSTRALIA (GOLIATH) PTY LIMITED,TAS,,1118359.0,988167.0,988167.0,,,-
+F0173,2021-22,legacy,Ravensthorpe Nickel Operation,FQM Australia Nickel Pty Ltd,WA,,324093.0,204177.0,204177.0,,,-
+F0175,2021-22,legacy,Ravensworth Operations,RAVENSWORTH OPERATIONS PTY LIMITED,NSW,,345281.0,268698.0,268698.0,,,-
+F0272,2021-22,legacy,Ravensworth Underground Coal Mine,Resource Pacific Pty Limited,NSW,,173779.0,126640.0,126640.0,,,-
+F0176,2021-22,legacy,Refinery Qld Lytton,Ampol Limited,QLD,,856595.0,717291.0,717291.0,,,-
+F0177,2021-22,legacy,Rio Tinto Marine - Qld,Rio Tinto Shipping (Asia) Pte Limited ,QLD,,144297.0,122674.0,122674.0,,,-
+F0178,2021-22,legacy,Rio Tinto Weipa,RTA WEIPA PTY LTD,QLD,,271438.0,259515.0,259515.0,,,-
+F0179,2021-22,legacy,Rio Tinto Yarwun,RTA Yarwun Pty Ltd,QLD,,2141939.0,2128344.0,2128344.0,,,-
+F0180,2021-22,legacy,Rolleston Coal Mine,ROLLESTON COAL HOLDINGS PTY LIMITED,QLD,,163725.0,160537.0,160537.0,,,-
+F0181,2021-22,legacy,Roma Hub,Santos Limited,QLD,,249836.0,171423.0,171423.0,,,-
+F0182,2021-22,legacy,Roy Hill Mine,Roy Hill Holdings Pty Ltd,WA,,535965.0,486884.0,486884.0,,,-
+F0183,2021-22,legacy,Russell Vale Colliery,WOLLONGONG RESOURCES PTY. LTD.,NSW,,1115025.0,143325.0,143325.0,,,-
+F0184,2021-22,legacy,Saraji Mine,BM Alliance Coal Operations Pty Limited,QLD,,,355882.0,,,,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0185,2021-22,legacy,Savage River Mine,GRANGE RESOURCES (TASMANIA) PTY LTD,TAS,,,102828.0,,349064.0,300556.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0186,2021-22,legacy,Sewerage West,Melbourne Water Corporation,VIC,,168625.0,190649.0,168625.0,,,-
+F0188,2021-22,legacy,Sino Iron Project – Cape Preston,CITIC Pacific Mining Management Pty Ltd,WA,,1610964.0,1241468.0,1241468.0,,,-
+F0253,2021-22,legacy,Sojitz Gregory Crinum Mine,SOJITZ DEVELOPMENT PTY LTD,QLD,,,137360.0,,,,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0189,2021-22,legacy,Solomon Mine,FMG SOLOMON PTY LTD,WA,,449709.0,452884.0,415158.0,,,-
+F0190,2021-22,legacy,Solomon Power Station,FMG SOLOMON PTY LTD,WA,,345831.0,176950.0,176950.0,,,-
+F0191,2021-22,legacy,South Walker Creek,STANMORE RESOURCES LIMITED,QLD,,,340550.0,,,,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0192,2021-22,legacy,South West Queensland Pipeline,APA (SWQP) PTY LIMITED,QLD; SA,,176381.0,133057.0,133057.0,,,-
+F0193,2021-22,legacy,South West Synthetic Rutile Operations,Iluka Resources Limited,WA,,297935.0,265237.0,265237.0,,,-
+F0194,2021-22,legacy,Spring Gully,ORIGIN ENERGY UPSTREAM OPERATOR PTY LTD,QLD,,402602.0,228381.0,228381.0,,,-
+F0195,2021-22,legacy,Start up and Operations of the Ichthys LNG Project,INPEX Operations Australia Pty Ltd,NT,,7067789.0,6739077.0,6739077.0,,,-
+F0196,2021-22,legacy,Sunrise Dam,AngloGold Ashanti Australia Limited,WA,,171958.0,180641.0,171958.0,,,-
+F0197,2021-22,legacy,TAHMOOR COAL MINE,TAHMOOR COAL PTY LTD,NSW,,2008287.0,964050.0,964050.0,,,-
+F0044,2021-22,legacy,Talinga,ORIGIN ENERGY UPSTREAM OPERATOR PTY LTD,QLD,,270790.0,226291.0,226291.0,,,-
+F0198,2021-22,legacy,Telfer Gold Mine,Newcrest Mining Limited,WA,,626808.0,498129.0,498129.0,,,-
+F0200,2021-22,legacy,Thunderbox Operations,NORTHERN STAR (THUNDERBOX) PTY LTD,WA,,213075.0,108458.0,108458.0,,,-
+F0273,2021-22,legacy,Toll National Transport Facility,Toll Holdings Limited,National,,72096.0,72034.0,72034.0,,,-
+F0201,2021-22,legacy,Tom Price Mine / WTS,Hamersley Iron Pty. Limited,WA,,145307.0,196750.0,145307.0,,,-
+F0202,2021-22,legacy,Tomago Aluminium Smelter,TOMAGO ALUMINIUM COMPANY PTY LTD,NSW,,1241117.0,1156673.0,1156673.0,,,-
+F0203,2021-22,legacy,Tropicana Gold Mine,AngloGold Ashanti Australia Limited,WA,,323180.0,304274.0,304274.0,,,-
+F0204,2021-22,legacy,TT-Line - Victorian Operation,TT-Line Company Pty. Ltd.,VIC,,161416.0,143882.0,143882.0,,,-
+F0205,2021-22,legacy,United Coal Mine,UNITED COLLIERIES PTY LTD,NSW,,330425.0,170212.0,170212.0,,,-
+F0206,2021-22,legacy,V/Line,V/Line Corporation,VIC,,140686.0,119488.0,119488.0,,,-
+F0208,2021-22,legacy,Varanus Hub,Santos Limited,WA,,463700.0,269532.0,269532.0,,,-
+F0274,2021-22,legacy,Victoria,CSL Australia,VIC,,,41952.0,,300274.0,151597.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0209,2021-22,legacy,Vincent Project Venture,Woodside Energy Ltd.,WA,,,356656.0,,,,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0210,2021-22,legacy,Virgin Australia Holdings National Transport Facility,VIRGIN AUSTRALIA HOLDINGS LIMITED,National,,2397885.0,1284605.0,1284605.0,,,-
+F0212,2021-22,legacy,Wagerup Alumina Refinery,Alcoa of Australia Limited,WA,,1847019.0,1385526.0,1385526.0,,,-
+F0213,2021-22,legacy,Wambo Coal Mine,WAMBO COAL PTY LIMITED,NSW,,,243923.0,,,,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0214,2021-22,legacy,Warkworth Mine,Warkworth Mining Ltd,NSW,,1018733.0,817271.0,817271.0,,,-
+F0215,2021-22,legacy,West Angelas Mine,Robe River Mining Co. Pty. Ltd.,WA,,331789.0,265301.0,265301.0,,,-
+F0254,2021-22,legacy,Western Australia,Alliance Aviation Services Limited,WA,,,104627.0,,,,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0217,2021-22,legacy,Western Port Works,BlueScope Steel Limited,VIC,,136024.0,112503.0,112503.0,,,-
+F0218,2021-22,legacy,Wheatstone Operations,CHEVRON AUSTRALIA PTY LTD,WA,,4343119.0,3907075.0,3907075.0,,,-
+F0219,2021-22,legacy,Wilpinjong Coal Mine,WILPINJONG COAL PTY LTD,NSW,,208562.0,154554.0,154554.0,,,-
+F0222,2021-22,legacy,WOR01,South32 Worsley Alumina Pty Ltd,WA,,3718777.0,3553775.0,3553775.0,,,-
+F0223,2021-22,legacy,YAN01 Yandi/Marillana Creek Mine - MNG Facility,BHP IRON ORE PTY LTD,WA,,223714.0,149694.0,149694.0,,,-
+F0224,2021-22,legacy,Yandicoogina Mine,Hamersley Iron - Yandi Pty Limited,WA,,275999.0,162286.0,162286.0,,,-
+F0225,2021-22,legacy,Yarnima Power Station,BHP IRON ORE PTY LTD,WA,,428862.0,340554.0,340554.0,,,-
+F0226,2021-22,legacy,Yarrabee Coal Mine (Open Cut),YARRABEE COAL COMPANY PTY. LTD.,QLD,,190339.0,174739.0,174739.0,,,-
+F0227,2021-22,legacy,Yarwun Nitrates,ORICA AUSTRALIA PTY LTD,QLD,,321343.0,294244.0,294244.0,,,-
+F0228,2021-22,legacy,YPF AMMONIA PLANT,Yara Pilbara Fertilisers Pty Ltd,WA,,1512283.0,1383385.0,1383385.0,,,-
+F0229,2022-23,legacy,1. Solid Waste Services - Lucas Heights,CLEANAWAY WASTE MANAGEMENT LIMITED,NSW,,315324.0,129354.0,129354.0,,,-
+F0001,2022-23,legacy,1. Solid Waste Services - MRL,CLEANAWAY WASTE MANAGEMENT LIMITED,VIC,,251277.0,107380.0,137437.0,,,-
+F0002,2022-23,legacy,Angaston Operations,ADBRI LIMITED,SA,,108195.0,116760.0,108195.0,,,-
+F0003,2022-23,legacy,APLNG Facility,CONOCOPHILLIPS AUSTRALIA OPERATIONS PTY LTD,QLD,,2381120.0,2096033.0,2096033.0,,,-
+F0004,2022-23,legacy,APN01 Appin Colliery - ICH Facility,ENDEAVOUR COAL PTY LIMITED,NSW,,3280958.0,2433025.0,2433025.0,,,-
+F0005,2022-23,legacy,APU01 Pyrenees - AOA Facility,WOODSIDE ENERGY GLOBAL PTY LTD,WA,,368195.0,176667.0,176667.0,,,-
+F0006,2022-23,legacy,ARC01 Mining Area C - MNG Facility,BHP IRON ORE PTY LTD,WA,,861545.0,470614.0,470614.0,,,-
+F0009,2022-23,legacy,Ashton Coal Mine (Underground),ASHTON COAL OPERATIONS PTY LIMITED,NSW,,871793.0,381866.0,381866.0,,,-
+F0010,2022-23,legacy,Aurizon National Transport Facility,AURIZON OPERATIONS LIMITED,National,,648120.0,562389.0,562389.0,,,-
+F0011,2022-23,legacy,AusNet Gas Services Pty Ltd,AUSNET SERVICES HOLDINGS PTY LTD,VIC,,221453.0,185486.0,185486.0,,,-
+F0012,2022-23,legacy,Australian Gas Networks (Vic) Pty Ltd,AUSTRALIAN GAS NETWORKS HOLDING PTY LTD,VIC,,307484.0,172611.0,172611.0,,,-
+F0013,2022-23,legacy,Ballera,SANTOS LIMITED,QLD,,200749.0,167792.0,167792.0,,,-
+F0014,2022-23,legacy,Baralaba Coal Mine,BARALABA COAL COMPANY PTY LTD,QLD,,,122385.0,,300000.0,300000.0,-
+F0015,2022-23,legacy,Batchfire Resources No.1,BATCHFIRE RESOURCES PTY LTD,QLD,,241186.0,212226.0,212226.0,,,-
+F0017,2022-23,legacy,Beharra Springs,BEACH ENERGY (OPERATIONS) LIMITED,WA,,100000.0,127391.0,100000.0,,,-
+F0018,2022-23,legacy,Bell Bay Smelter,RIO TINTO ALUMINIUM (BELL BAY) LIMITED,TAS,,354165.0,352704.0,352704.0,,,-
+F0019,2022-23,legacy,Bengalla Operations,BENGALLA MINING COMPANY PTY LIMITED,NSW,,700840.0,573941.0,573941.0,,,-
+F0020,2022-23,legacy,Birkenhead Operations,ADBRI LIMITED,SA,,988841.0,811135.0,811135.0,,,-
+F0021,2022-23,legacy,Blackwater Mine,BM ALLIANCE COAL OPERATIONS PTY LIMITED,QLD,,733663.0,611588.0,611588.0,,,-
+F0023,2022-23,legacy,Boggabri Coal Minesite,BOGGABRI COAL PTY LIMITED,NSW,,202244.0,192864.0,192864.0,,,-
+F0024,2022-23,legacy,Boyne Smelters Limited,RIO TINTO ALUMINIUM LIMITED,QLD,,859075.0,908776.0,859075.0,,,-
+F0025,2022-23,legacy,Brockman 2 / Nammuldi Mines,HAMERSLEY IRON PTY. LIMITED,WA,,321494.0,326401.0,321494.0,,,-
+F0026,2022-23,legacy,Brockman 4 Mine,HAMERSLEY IRON PTY. LIMITED,WA,,395901.0,239705.0,239705.0,,,-
+F0027,2022-23,legacy,Bulga Coal Complex,BULGA COAL MANAGEMENT PTY LIMITED,NSW,,707250.0,525665.0,525665.0,,,-
+F0029,2022-23,legacy,Byerwen Mine,BYERWEN COAL PTY LTD,QLD,,456929.0,331632.0,331632.0,,,-
+F0030,2022-23,legacy,CAN01,SOUTH32 CANNINGTON PROPRIETARY LIMITED,QLD,,132240.0,116917.0,116917.0,,,-
+F0031,2022-23,legacy,Capcoal Mine,ANGLO COAL (CAPCOAL MANAGEMENT) PTY LIMITED,QLD,,4544066.0,957146.0,957146.0,,,-
+F0032,2022-23,legacy,Carborough Downs Coal Mine,FITZROY (CQ) PTY LTD,QLD,,,989978.0,,,,-
+F0033,2022-23,legacy,Carmichael Coal Mine,ADANI MINING PTY LTD,QLD,,740457.0,423006.0,423006.0,,,-
+F0034,2022-23,legacy,Carosue Dam Operations,NORTHERN STAR (CAROSUE DAM) PTY LTD,WA,,,111837.0,,,,-
+F0035,2022-23,legacy,Caval Ridge Mine,BM ALLIANCE COAL OPERATIONS PTY LIMITED,QLD,,614825.0,314280.0,314280.0,,,-
+F0036,2022-23,legacy,CEM NSW Berrima,BORAL LIMITED,NSW,,1075006.0,979872.0,979872.0,,,-
+F0038,2022-23,legacy,Chandala Processing Plant,TIWEST PTY LTD,WA,,188085.0,187005.0,187005.0,,,-
+F0039,2022-23,legacy,Christmas Creek Mine,CHICHESTER METALS PTY LTD,WA,,596884.0,374494.0,374494.0,,,-
+F0040,2022-23,legacy,Clermont Coal Operations,CLERMONT COAL OPERATIONS PTY LIMITED,QLD,,437255.0,362736.0,362736.0,,,-
+F0041,2022-23,legacy,Cloudbreak Mine,CHICHESTER METALS PTY LTD,WA,,405681.0,287001.0,287001.0,,,-
+F0042,2022-23,legacy,Cockburn Operations,ADBRI LIMITED,WA,,771015.0,724378.0,724378.0,,,-
+F0043,2022-23,legacy,Collinsville Mine,NC COAL COMPANY PTY LIMITED,QLD,,144171.0,144754.0,144171.0,,,-
+F0044,2022-23,legacy,Condabri Talinga Orana,ORIGIN ENERGY UPSTREAM OPERATOR PTY LTD,QLD,,712032.0,267689.0,267689.0,,,-
+F0046,2022-23,legacy,Coppabella Coal Mine,PEABODY ENERGY AUSTRALIA PCI (C&M MANAGEMENT) PTY LTD,QLD,,203763.0,197262.0,197262.0,,,-
+F0232,2022-23,legacy,Cowal Operations,EVOLUTION MINING (COWAL) PTY LIMITED,NSW,,,104155.0,,,,-
+F0047,2022-23,legacy,CSBP Kwinana Facility,CSBP LIMITED,WA,,940409.0,685081.0,685081.0,,,-
+F0048,2022-23,legacy,CTC WA Facility,CENTURION TRANSPORT CO. PTY LTD,WA,,125199.0,108915.0,108915.0,,,-
+F0049,2022-23,legacy,Curragh Mine,CORONADO AUSTRALIA HOLDINGS PTY LTD,QLD,,1255125.0,1142690.0,1142690.0,,,-
+F0050,2022-23,legacy,Curtis Island GLNG Plant,SANTOS LIMITED,QLD,,1810046.0,1608188.0,1608188.0,,,-
+F0233,2022-23,legacy,Dandenong,OCEANIA GLASS PTY LTD,VIC,,123348.0,111060.0,111060.0,,,-
+F0051,2022-23,legacy,Darwin LNG Plant,SANTOS LIMITED,NT,,,623667.0,,4656852.0,3455534.0,-
+F0052,2022-23,legacy,Daunia Mine,BM ALLIANCE COAL OPERATIONS PTY LIMITED,QLD,,310899.0,208116.0,208116.0,,,-
+F0053,2022-23,legacy,Dawson Mine,ANGLO COAL (DAWSON MANAGEMENT) PTY LTD,QLD,,743995.0,466404.0,466404.0,,,-
+F0054,2022-23,legacy,DBNGP,DBNGP (WA) TRANSMISSION PTY LIMITED,WA,,,267178.0,,,,-
+F0055,2022-23,legacy,DEN01,DENDROBIUM COAL PTY LTD,NSW,,386274.0,417502.0,386274.0,,,-
+F0057,2022-23,legacy,Drake Mine,DRAKE MINE MANAGEMENT PTY LTD,QLD,,,188937.0,,,,-
+F0058,2022-23,legacy,Duketon South Operations,REGIS RESOURCES LIMITED,WA,,186157.0,156259.0,156259.0,,,-
+F0059,2022-23,legacy,Eliwana Mine,FMG SOLOMON PTY LTD,WA,,199022.0,173475.0,173475.0,,,-
+F0060,2022-23,legacy,Ensham Resources Minesite,ENSHAM RESOURCES PTY. LIMITED,QLD,,,242922.0,,1177524.0,1101366.0,-
+F0061,2022-23,legacy,Fairview,SANTOS LIMITED,QLD,,549476.0,323103.0,323103.0,,,-
+F0062,2022-23,legacy,Fimiston Operations,KALGOORLIE CONSOLIDATED GOLD MINES PTY LTD,WA,,242659.0,228777.0,228777.0,,,-
+F0064,2022-23,legacy,Fisherman's Landing,CEMENT AUSTRALIA (QUEENSLAND) PTY LIMITED,QLD,,1795018.0,1526628.0,1526628.0,,,-
+F0065,2022-23,legacy,FLNG,SHELL AUSTRALIA PTY LTD,WA,,2263910.0,2188611.0,2188611.0,,,-
+F0066,2022-23,legacy,Foxleigh Mine,FOXLEIGH MANAGEMENT PTY LTD,QLD,,281190.0,225985.0,225985.0,,,-
+F0067,2022-23,legacy,Geelong Refinery,VIVA ENERGY REFINING PTY LTD,VIC,,1105699.0,973862.0,973862.0,,,-
+F0068,2022-23,legacy,GEM01,GROOTE EYLANDT MINING COMPANY PROPRIETARY LIMITED,NT,,201843.0,196713.0,196713.0,,,-
+F0236,2022-23,legacy,Gibson Island,INCITEC PIVOT LIMITED,QLD,,353220.0,226464.0,226464.0,,,-
+F0070,2022-23,legacy,Gippsland Basin facility,ESSO AUSTRALIA RESOURCES PTY LTD,VIC,,2740315.0,1738130.0,1738130.0,,,-
+F0071,2022-23,legacy,Goldfields Gas Transmission Pipeline,GOLDFIELDS GAS TRANSMISSION PTY LTD,WA,,147908.0,128908.0,128908.0,,,-
+F0072,2022-23,legacy,Goonyella Broadmeadow Mine,BM ALLIANCE COAL OPERATIONS PTY LIMITED,QLD,,1736739.0,1311407.0,1311407.0,,,-
+F0073,2022-23,legacy,Gorgon Operations,CHEVRON AUSTRALIA PTY LTD,WA,,8336476.0,8191308.0,8191308.0,,,-
+F0074,2022-23,legacy,Gove Operations,RTA GOVE PTY LIMITED,NT,,129432.0,124600.0,129432.0,,,-
+F0075,2022-23,legacy,Granny Smith Mine Site,GSM MINING COMPANY PTY LTD,WA,,126385.0,126441.0,126385.0,,,-
+F0077,2022-23,legacy,Grosvenor Mine,ANGLO COAL (MORANBAH NORTH MANAGEMENT) PTY LIMITED,QLD,,3307753.0,972605.0,972605.0,,,-
+F0078,2022-23,legacy,Gruyere Mine Site,GRUYERE MINING COMPANY PTY LTD,WA,,239447.0,193095.0,193095.0,,,-
+F0237,2022-23,legacy,Gudai-Darri Mine,MOUNT BRUCE MINING PTY LTD,WA,,187880.0,121340.0,121340.0,,,-
+F0079,2022-23,legacy,Hail Creek Mine,HAIL CREEK COAL PTY LTD,QLD,,587896.0,532466.0,532466.0,,,-
+F0080,2022-23,legacy,Hope Downs 1 Mine,HAMERSLEY HMS PTY LTD,WA,,159568.0,166780.0,159568.0,,,-
+F0081,2022-23,legacy,Hope Downs 4 Mine,HAMERSLEY HMS PTY LTD,WA,,103010.0,118259.0,103010.0,,,-
+F0082,2022-23,legacy,Hunter Valley Operations mine,HV OPERATIONS PTY LTD,NSW,,633681.0,456690.0,456690.0,,,-
+F0083,2022-23,legacy,HVY01 Hunter Valley Energy Coal - CCL Facility,HUNTER VALLEY ENERGY COAL PTY LTD,NSW,,,528632.0,,1548180.0,1548180.0,-
+F0084,2022-23,legacy,InfraBuild Steel Laverton Steel Mill,THE AUSTRALIAN STEEL COMPANY (OPERATIONS) PTY LTD,VIC,,125904.0,117023.0,117023.0,,,-
+F0085,2022-23,legacy,Integra Underground Mine,HV COKING COAL PTY LIMITED,NSW,,721813.0,265194.0,265194.0,,,-
+F0259,2022-23,legacy,Isaac Plains Coal Mine,STANMORE IP COAL PTY LTD,QLD,,156336.0,150144.0,150144.0,,,-
+F0088,2022-23,legacy,Jax Mine,JAX COAL PTY LTD,QLD,,100000.0,107047.0,100000.0,,,-
+F0089,2022-23,legacy,Jellinbah Mine,JELLINBAH MINING PTY LTD,QLD,,256527.0,258143.0,256527.0,,,-
+F0090,2022-23,legacy,JGN,JEMENA GAS NETWORKS (NSW) LTD,NSW,,483824.0,292825.0,292825.0,,,-
+F0091,2022-23,legacy,Jimblebar Mine,BHP IRON ORE PTY LTD,WA,,,306282.0,,649023.0,612255.0,-
+F0092,2022-23,legacy,Jundee Gold Mine,NORTHERN STAR RESOURCES LIMITED,WA,,154701.0,148140.0,148140.0,,,-
+F0094,2022-23,legacy,Kemerton Silicon Smelter,SIMCOA OPERATIONS PTY. LTD.,WA,,100000.0,122178.0,100000.0,,,-
+F0239,2022-23,legacy,Kestrel Coal Pty Ltd,KESTREL COAL GROUP PTY LTD,QLD,,1465574.0,1558246.0,1558246.0,,,-
+F0096,2022-23,legacy,King of the Hills,GREENSTONE RESOURCES (WA) PTY LTD,WA,,100000.0,123070.0,100000.0,,,-
+F0098,2022-23,legacy,Kooragang Island,ORICA AUSTRALIA PTY LTD,NSW,,1140746.0,948229.0,948229.0,,,-
+F0099,2022-23,legacy,Kwinana Alumina Refinery,ALCOA OF AUSTRALIA LIMITED,WA,,1134344.0,1100095.0,1100095.0,,,-
+F0100,2022-23,legacy,Kwinana Pigment Plant,TRONOX MANAGEMENT PTY LTD,WA,,266667.0,275411.0,266667.0,,,-
+F0101,2022-23,legacy,Lake Vermont Mine,THIESS PTY LTD,QLD,,394117.0,312954.0,312954.0,,,-
+F0102,2022-23,legacy,Leinster Power Station,TEC DESERT PTY LTD,WA,,154495.0,135634.0,135634.0,,,-
+F0103,2022-23,legacy,Liberty Bell Bay,LIBERTY BELL BAY PTY LTD,TAS,,393363.0,334929.0,334929.0,,,-
+F0104,2022-23,legacy,Liberty Primary Steel Whyalla Steelworks,ONESTEEL MANUFACTURING PTY LIMITED,SA,,2041611.0,1946607.0,1946607.0,,,-
+F0260,2022-23,legacy,Liddell Coal Mine,LIDDELL COAL OPERATIONS PTY. LIMITED,NSW,,176827.0,166197.0,166197.0,,,-
+F0106,2022-23,legacy,Mandalong Mine,CENTENNIAL MANDALONG PTY LIMITED,NSW,,1443304.0,1009855.0,1009855.0,,,-
+F0107,2022-23,legacy,Mangoola,MANGOOLA COAL OPERATIONS PTY LIMITED,NSW,,122507.0,117312.0,117312.0,,,-
+F0108,2022-23,legacy,Marandoo Mine,HAMERSLEY IRON PTY. LIMITED,WA,,214614.0,155933.0,155933.0,,,-
+F0109,2022-23,legacy,Maules Creek Open Cut Mine,MAULES CREEK COAL PTY LTD,NSW,,367513.0,258093.0,258093.0,,,-
+F0110,2022-23,legacy,McArthur River Mine Operations,MCARTHUR RIVER MINING PTY. LTD.,NT,,,111754.0,,,,-
+F0111,2022-23,legacy,McArthur River Power Station,EDL NGD (NT) PTY LTD,NT,,149669.0,141369.0,141369.0,,,-
+F0242,2022-23,legacy,Mesa A Mine,ROBE RIVER MINING CO. PTY. LTD.,WA,,,64978.0,,300000.0,267636.0,-
+F0112,2022-23,legacy,Metropolitan Colliery,METROPOLITAN COLLIERIES PTY. LTD.,NSW,,718746.0,686890.0,686890.0,,,-
+F0113,2022-23,legacy,Middlemount Coal Mine,MIDDLEMOUNT COAL PTY LTD,QLD,,268480.0,212326.0,212326.0,,,-
+F0244,2022-23,legacy,Millicent Mill,KIMBERLY-CLARK AUSTRALIA PTY. LIMITED,SA,,121846.0,105104.0,105104.0,,,-
+F0245,2022-23,legacy,Mobil Altona Refinery,MOBIL REFINING AUSTRALIA PTY. LTD.,VIC,,,480.0,,,,-
+F0115,2022-23,legacy,Moolarben Coal Mine (Open Cut & Underground),MOOLARBEN COAL OPERATIONS PTY LTD,NSW,,361814.0,215489.0,215489.0,,,-
+F0116,2022-23,legacy,Moomba Plant,SANTOS LIMITED,SA,,2174932.0,2138918.0,2138918.0,,,-
+F0117,2022-23,legacy,Moorvale Coal Mine,PEABODY ENERGY AUSTRALIA PCI (C&M MANAGEMENT) PTY LTD,QLD,,239233.0,173170.0,173170.0,,,-
+F0246,2022-23,legacy,Moranbah,INCITEC PIVOT LIMITED,QLD,,597660.0,597521.0,597660.0,,,-
+F0119,2022-23,legacy,Moranbah North Mine,ANGLO COAL (MORANBAH NORTH MANAGEMENT) PTY LIMITED,QLD,,4533701.0,2272445.0,2272445.0,,,-
+F0120,2022-23,legacy,Mount Isa Mines Copper and Zinc Operations,MOUNT ISA MINES LIMITED,QLD,,610598.0,349890.0,349890.0,,,-
+F0121,2022-23,legacy,Mount Pleasant Operations,MACH ENERGY AUSTRALIA PTY LTD,NSW,,838069.0,816771.0,816771.0,,,-
+F0122,2022-23,legacy,Mt Keith Power Station,TEC DESERT PTY LTD,WA,,,165136.0,,,,-
+F0247,2022-23,legacy,Mt Marion Lithium Project,REED INDUSTRIAL MINERALS PTY LTD,WA,,100000.0,102697.0,100000.0,,,-
+F0123,2022-23,legacy,Mt Owen Glendell Complex,MT OWEN PTY LIMITED,NSW,,286172.0,263395.0,263395.0,,,-
+F0124,2022-23,legacy,Multinet Principal Distribution Network and South Gippsland Pipeline,MULTINET GAS (DB NO. 2) PTY LTD,VIC,,314458.0,182383.0,182383.0,,,-
+F0125,2022-23,legacy,Murrin Murrin Operations,MURRIN MURRIN OPERATIONS PTY LTD,WA,,617082.0,497697.0,497697.0,,,-
+F0126,2022-23,legacy,Myuna Colliery,CENTENNIAL MYUNA PTY LIMITED,NSW,,274670.0,253461.0,253461.0,,,-
+F0127,2022-23,legacy,Narrabri Underground Mine,NARRABRI COAL OPERATIONS PTY LTD,NSW,,1116113.0,786802.0,786802.0,,,-
+F0128,2022-23,legacy,Newlands Coal Complex including Newlands Northern UG,NC COAL COMPANY PTY LIMITED,QLD,,454339.0,197100.0,197100.0,,,-
+F0129,2022-23,legacy,Newman Operations,BHP IRON ORE PTY LTD,WA,,379460.0,294760.0,294760.0,,,-
+F0130,2022-23,legacy,Newman Power Station,ALINTA ENERGY TRANSMISSION (ROY HILL) PTY LTD,WA,,419029.0,379196.0,379196.0,,,-
+F0131,2022-23,legacy,Newmont Boddington Gold Operation,NEWMONT BODDINGTON PTY LTD,WA,,319576.0,218213.0,218213.0,,,-
+F0132,2022-23,legacy,Newmont Tanami Operation,NEWMONT TANAMI PTY LTD,NT,,180739.0,194013.0,180739.0,,,-
+F0133,2022-23,legacy,Ningaloo Vision FPSO,SANTOS LIMITED,WA,,546091.0,329922.0,329922.0,,,-
+F0134,2022-23,legacy,NKS01 Nickel West Kalgoorlie Facility,BHP NICKEL WEST PTY LTD,WA,,146285.0,146936.0,146285.0,,,-
+F0135,2022-23,legacy,NKW01 Nickel West Kwinana Facility,BHP NICKEL WEST PTY LTD,WA,,,166425.0,,,,-
+F0136,2022-23,legacy,NMK01 Nickel West Mt Keith Facility,BHP NICKEL WEST PTY LTD,WA,,209693.0,191852.0,191852.0,,,-
+F0248,2022-23,legacy,Norske Skog Boyer Mill,NORSKE SKOG PAPER MILLS (AUSTRALIA) LIMITED,TAS,,183056.0,172392.0,183056.0,,,-
+F0037,2022-23,legacy,North Goonyella Coal Mine,PEABODY (BOWEN) PTY LTD,QLD,,225651.0,224735.0,224735.0,,,-
+F0138,2022-23,legacy,North West Shelf Project,WOODSIDE ENERGY LTD.,WA,,,6935647.0,,20131651.0,20131651.0,-
+F0139,2022-23,legacy,Nowra Plant,SHOALHAVEN STARCHES PTY LTD,NSW,,461274.0,363674.0,363674.0,,,-
+F0140,2022-23,legacy,Nyrstar Port Pirie Facility,NYRSTAR PORT PIRIE PTY LTD,SA,,547081.0,359490.0,359490.0,,,-
+F0141,2022-23,legacy,Oaky Creek Coal Complex,OAKY CREEK HOLDINGS PTY LIMITED,QLD,,988314.0,756649.0,756649.0,,,-
+F0142,2022-23,legacy,ODS01 Olympic Dam – UOD Facility,BHP OLYMPIC DAM CORPORATION PTY LTD,SA,,241243.0,218485.0,218485.0,,,-
+F0145,2022-23,legacy,Opal Australian Paper Maryvale Mill,PAPER AUSTRALIA PTY LTD,VIC,,350280.0,297647.0,297647.0,,,-
+F0146,2022-23,legacy,Orora Glass Plant Gawler,ORORA LIMITED,SA,,226181.0,211671.0,211671.0,,,-
+F0147,2022-23,legacy,Otway,BEACH ENERGY (OPERATIONS) LIMITED,VIC,,200355.0,134089.0,134089.0,,,-
+F0148,2022-23,legacy,Pacific National National Transport Facility,PACIFIC NATIONAL PTY LTD,National,,,810695.0,,,,-
+F0149,2022-23,legacy,Paraburdoo Mine,HAMERSLEY IRON PTY. LIMITED,WA,,100000.0,129483.0,100000.0,,,-
+F0150,2022-23,legacy,Parkhurst Magnesia Manufacturing Plant,QMAG PTY LIMITED,QLD,,256419.0,252207.0,252207.0,,,-
+F0151,2022-23,legacy,Peak Downs Mine,BM ALLIANCE COAL OPERATIONS PTY LIMITED,QLD,,473498.0,477021.0,473498.0,,,-
+F0250,2022-23,legacy,Phosphate Hill,INCITEC PIVOT LIMITED,QLD,,512235.0,509491.0,509491.0,,,-
+F0153,2022-23,legacy,Pilbara Rail Operations,PILBARA IRON PTY LTD,WA,,681246.0,662419.0,662419.0,,,-
+F0251,2022-23,legacy,Pilgangoora Operations,PILBARA MINERALS LIMITED,WA,,100000.0,101560.0,100000.0,,,-
+F0155,2022-23,legacy,Pinjarra Alumina Refinery,ALCOA OF AUSTRALIA LIMITED,WA,,2798215.0,1437765.0,1437765.0,,,-
+F0156,2022-23,legacy,Pluto LNG,WOODSIDE BURRUP PTY. LTD.,WA,,,1839910.0,,6188809.0,5731271.0,-
+F0157,2022-23,legacy,Poitrel Mine,STANMORE RESOURCES LIMITED,QLD,,216365.0,283973.0,216365.0,,,-
+F0159,2022-23,legacy,Port Kembla Steelworks,BLUESCOPE STEEL (AIS) PTY. LTD.,NSW,,6875761.0,6138128.0,6138128.0,,,-
+F0160,2022-23,legacy,Port Latta Pelletising Plant,GRANGE RESOURCES (TASMANIA) PTY LTD,TAS,,125949.0,123076.0,123076.0,,,-
+F0161,2022-23,legacy,Portland Aluminium Smelter,ALCOA PORTLAND ALUMINIUM PROPRIETARY LIMITED,VIC,,575641.0,636453.0,575641.0,,,-
+F0162,2022-23,legacy,Premier Coal Mine (Open Cut),PREMIER COAL LTD,WA,,100000.0,108551.0,100000.0,,,-
+F0163,2022-23,legacy,PRL03 Rail - IOR Facility,BHP IRON ORE PTY LTD,WA,,589216.0,566312.0,566312.0,,,-
+F0164,2022-23,legacy,Qantas Airways Limited National Transport Facility,QANTAS AIRWAYS LIMITED,National,,5285611.0,4385686.0,4385686.0,,,-
+F0165,2022-23,legacy,Qenos Altona Manufacturing,QENOS PTY LTD,VIC,,218590.0,212923.0,212923.0,,,-
+F0166,2022-23,legacy,Qenos Botany Manufacturing,QENOS PTY LTD,NSW,,551253.0,348554.0,348554.0,,,-
+F0167,2022-23,legacy,QGC Upstream,QGC PTY LIMITED,QLD,,1186518.0,863094.0,863094.0,,,-
+F0263,2022-23,legacy,Queensland,ALLIANCE AVIATION SERVICES LIMITED,QLD,,,77879.0,,300000.0,260461.0,-
+F0168,2022-23,legacy,Queensland Alumina Limited Refinery,QUEENSLAND ALUMINA LIMITED,QLD,,2915797.0,3059545.0,2915797.0,,,-
+F0169,2022-23,legacy,Queensland Curtis LNG Plant,QCLNG OPERATING COMPANY PTY LTD,QLD,,1699600.0,1673378.0,1673378.0,,,-
+F0170,2022-23,legacy,Queensland Nitrates Ammonium Nitrate Plant,QUEENSLAND NITRATES PTY LTD,QLD,,271190.0,150701.0,150701.0,,,-
+F0171,2022-23,legacy,Rail,THE PILBARA INFRASTRUCTURE PTY LTD,WA,,312095.0,259172.0,259172.0,,,-
+F0172,2022-23,legacy,Railton,CEMENT AUSTRALIA (GOLIATH) PTY LIMITED,TAS,,1118359.0,1056965.0,1056965.0,,,-
+F0173,2022-23,legacy,Ravensthorpe Nickel Operation,FQM AUSTRALIA NICKEL PTY LTD,WA,,324093.0,232848.0,232848.0,,,-
+F0174,2022-23,legacy,Ravenswood Mine,RAVENSWOOD GOLD PTY LTD,QLD,,136931.0,117387.0,117387.0,,,-
+F0175,2022-23,legacy,Ravensworth Operations,RAVENSWORTH OPERATIONS PTY LIMITED,NSW,,345281.0,327434.0,327434.0,,,-
+F0176,2022-23,legacy,Refinery Qld Lytton,AMPOL LIMITED,QLD,,856595.0,673186.0,673186.0,,,-
+F0177,2022-23,legacy,Rio Tinto Marine - Qld,RIO TINTO SHIPPING (ASIA) PTE LIMITED,QLD,,144297.0,111314.0,111314.0,,,-
+F0178,2022-23,legacy,Rio Tinto Weipa,RTA WEIPA PTY LTD,QLD,,263451.0,257444.0,257444.0,,,-
+F0179,2022-23,legacy,Rio Tinto Yarwun,RTA YARWUN PTY LTD,QLD,,2201946.0,2200584.0,2200584.0,,,-
+F0180,2022-23,legacy,Rolleston Coal Mine,ROLLESTON COAL HOLDINGS PTY LIMITED,QLD,,163725.0,178578.0,163725.0,,,-
+F0181,2022-23,legacy,Roma Hub,SANTOS LIMITED,QLD,,247785.0,166879.0,166879.0,,,-
+F0182,2022-23,legacy,Roy Hill Mine,ROY HILL HOLDINGS PTY LTD,WA,,535965.0,562306.0,535964.0,,,-
+F0183,2022-23,legacy,Russell Vale Colliery,WOLLONGONG RESOURCES PTY. LTD.,NSW,,1115025.0,272086.0,272086.0,,,-
+F0184,2022-23,legacy,Saraji Mine,BM ALLIANCE COAL OPERATIONS PTY LIMITED,QLD,,,357472.0,,1138944.0,1138944.0,-
+F0185,2022-23,legacy,Savage River Mine,GRANGE RESOURCES (TASMANIA) PTY LTD,TAS,,124395.0,110660.0,110660.0,,,-
+F0186,2022-23,legacy,Sewerage West,MELBOURNE WATER CORPORATION,VIC,,168625.0,164045.0,164045.0,,,-
+F0187,2022-23,legacy,SIMEC Mining - Middleback Range Iron Ore Mine (Whyalla),ONESTEEL MANUFACTURING PTY LIMITED,SA,,100000.0,117919.0,100000.0,,,-
+F0188,2022-23,legacy,Sino Iron Project – Cape Preston,CITIC PACIFIC MINING MANAGEMENT PTY LTD,WA,,1572924.0,1229931.0,1229931.0,,,-
+F0253,2022-23,legacy,Sojitz Gregory Crinum Mine,SOJITZ DEVELOPMENT PTY LTD,QLD,,,109652.0,,,,-
+F0189,2022-23,legacy,Solomon Mine,FMG SOLOMON PTY LTD,WA,,462288.0,448524.0,440113.0,,,-
+F0190,2022-23,legacy,Solomon Power Station,FMG SOLOMON PTY LTD,WA,,206495.0,206715.0,206495.0,,,-
+F0191,2022-23,legacy,South Walker Creek,STANMORE RESOURCES LIMITED,QLD,,,363688.0,,,,-
+F0192,2022-23,legacy,South West Queensland Pipeline,APA (SWQP) PTY LIMITED,QLD; SA,,176381.0,126026.0,126026.0,,,-
+F0193,2022-23,legacy,South West Synthetic Rutile Operations,ILUKA RESOURCES LIMITED,WA,,346104.0,357996.0,346104.0,,,-
+F0194,2022-23,legacy,Spring Gully Reedy Creek Combabula,ORIGIN ENERGY UPSTREAM OPERATOR PTY LTD,QLD,,988214.0,304522.0,304522.0,,,-
+F0195,2022-23,legacy,Start up and Operations of the Ichthys LNG Project,INPEX OPERATIONS AUSTRALIA PTY LTD,NT,,7067789.0,5840868.0,5840868.0,,,-
+F0196,2022-23,legacy,Sunrise Dam,ANGLOGOLD ASHANTI AUSTRALIA LIMITED,WA,,161730.0,169125.0,161730.0,,,-
+F0197,2022-23,legacy,TAHMOOR COAL MINE,TAHMOOR COAL PTY LTD,NSW,,2008287.0,992938.0,992938.0,,,-
+F0198,2022-23,legacy,Telfer Gold Mine,NEWCREST MINING LIMITED,WA,,626808.0,448761.0,448761.0,,,-
+F0200,2022-23,legacy,Thunderbox Operations,NORTHERN STAR (THUNDERBOX) PTY LTD,WA,,213075.0,160145.0,160145.0,,,-
+F0201,2022-23,legacy,Tom Price Mine / WTS,HAMERSLEY IRON PTY. LIMITED,WA,,138707.0,188503.0,138707.0,,,-
+F0202,2022-23,legacy,Tomago Aluminium Smelter,TOMAGO ALUMINIUM COMPANY PTY LTD,NSW,,1230271.0,1177432.0,1177432.0,,,-
+F0203,2022-23,legacy,Tropicana Gold Mine,ANGLOGOLD ASHANTI AUSTRALIA LIMITED,WA,,352345.0,316050.0,316050.0,,,-
+F0204,2022-23,legacy,TT-Line - Victorian Operation,TT-LINE COMPANY PTY. LTD.,VIC,,161416.0,162096.0,161416.0,,,-
+F0205,2022-23,legacy,United Coal Mine,UNITED COLLIERIES PTY LTD,NSW,,330425.0,291241.0,291241.0,,,-
+F0206,2022-23,legacy,V/Line,V/LINE CORPORATION,VIC,,140686.0,126017.0,126017.0,,,-
+F0208,2022-23,legacy,Varanus Hub,SANTOS LIMITED,WA,,463700.0,256543.0,256543.0,,,-
+F0209,2022-23,legacy,Vincent Project Venture,WOODSIDE ENERGY LTD.,WA,,,234485.0,,1041774.0,944149.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0210,2022-23,legacy,Virgin Australia Holdings National Transport Facility,VIRGIN AUSTRALIA HOLDINGS LIMITED,National,,2397885.0,2032585.0,2032585.0,,,-
+F0212,2022-23,legacy,Wagerup Alumina Refinery,ALCOA OF AUSTRALIA LIMITED,WA,,1724761.0,1289067.0,1289067.0,,,-
+F0213,2022-23,legacy,Wambo Coal Mine,WAMBO COAL PTY LIMITED,NSW,,,207015.0,,935976.0,846579.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0214,2022-23,legacy,Warkworth Mine,WARKWORTH MINING LTD,NSW,,1018733.0,842536.0,842536.0,,,-
+F0215,2022-23,legacy,West Angelas Mine,ROBE RIVER MINING CO. PTY. LTD.,WA,,331789.0,292917.0,292917.0,,,-
+F0254,2022-23,legacy,Western Australia,ALLIANCE AVIATION SERVICES LIMITED,WA,,,102252.0,,300000.0,300000.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0217,2022-23,legacy,Western Port Works,BLUESCOPE STEEL LIMITED,VIC,,121212.0,106289.0,106289.0,,,-
+F0218,2022-23,legacy,Wheatstone Operations,CHEVRON AUSTRALIA PTY LTD,WA,,4343119.0,3789472.0,3789472.0,,,-
+F0219,2022-23,legacy,Wilpinjong Coal Mine,WILPINJONG COAL PTY LTD,NSW,,208562.0,154987.0,154987.0,,,-
+F0255,2022-23,legacy,Wodgina Operations,MARBL LITHIUM OPERATIONS PTY LTD,WA,,100000.0,111027.0,100000.0,,,-
+F0222,2022-23,legacy,WOR01,SOUTH32 WORSLEY ALUMINA PTY LTD,WA,,3492670.0,3453837.0,3453837.0,,,-
+F0223,2022-23,legacy,YAN01 Yandi/Marillana Creek Mine - MNG Facility,BHP IRON ORE PTY LTD,WA,,112093.0,111995.0,111995.0,,,-
+F0224,2022-23,legacy,Yandicoogina Mine,HAMERSLEY IRON - YANDI PTY LIMITED,WA,,258329.0,173685.0,173685.0,,,-
+F0225,2022-23,legacy,Yarnima Power Station,BHP IRON ORE PTY LTD,WA,,421548.0,336179.0,336179.0,,,-
+F0226,2022-23,legacy,Yarrabee Coal Mine (Open Cut),YARRABEE COAL COMPANY PTY. LTD.,QLD,,190339.0,164091.0,164091.0,,,-
+F0227,2022-23,legacy,Yarwun Nitrates,ORICA AUSTRALIA PTY LTD,QLD,,343615.0,384417.0,324417.0,,,-
+F0228,2022-23,legacy,YPF AMMONIA PLANT,YARA PILBARA FERTILISERS PTY LTD,WA,,1512283.0,1503171.0,1503171.0,,,-
+F0229,2023-24,reformed,1. Solid Waste Services - Lucas Heights,Cleanaway Waste Management Limited,NSW,"Waste treatment, disposal and remediation services (292)",327658.0,112867.0,112867.0,,,The facility is covered by a landfill baseline.
+F0001,2023-24,reformed,1. Solid Waste Services - MRL,Cleanaway Waste Management Limited,VIC,"Waste treatment, disposal and remediation services (292)",350747.0,162282.0,342173.0,,,The facility is covered by a landfill baseline.
+F0002,2023-24,reformed,Angaston Operations,ADBRI LIMITED,SA,"Cement, lime, plaster and concrete product manufacturing (203)",103873.0,112841.0,103873.0,,,-
+F0003,2023-24,reformed,APLNG Facility,CONOCOPHILLIPS AUSTRALIA OPERATIONS PTY LTD,QLD,Oil and gas extraction (070),2034870.0,2120644.0,2034870.0,,,-
+F0004,2023-24,reformed,APN01 Appin Colliery - ICH Facility,ENDEAVOUR COAL PTY LIMITED,NSW,Coal mining (060),2154439.0,1833982.0,1833982.0,,,-
+F0005,2023-24,reformed,APU01 Pyrenees - AOA Facility,WOODSIDE ENERGY GLOBAL PTY LTD,WA,Oil and gas extraction (070),108074.0,116569.0,108072.0,,,-
+F0006,2023-24,reformed,ARC01 Mining Area C - MNG Facility,BHP IRON ORE PTY LTD,WA,Metal ore mining (080),694935.0,512387.0,512387.0,,,-
+F0007,2023-24,reformed,Arcadia,Santos Limited,QLD,Oil and gas extraction (070),166220.0,108224.0,108224.0,,,-
+F0008,2023-24,reformed,Arrow Surat Operations,Arrow Energy Holdings Pty Ltd,QLD,Oil and gas extraction (070),193637.0,155650.0,155650.0,,,-
+F0009,2023-24,reformed,Ashton Coal Mine (Underground),ASHTON COAL OPERATIONS PTY LIMITED,NSW,Coal mining (060),158653.0,350750.0,158653.0,,,"As the facility surrendered 30% or more of its baseline, the required written explanation as to why more carbon abatement did not occur at the facility can be found on the baselines and emissions data page."
+F0010,2023-24,reformed,Aurizon National Transport Facility,AURIZON OPERATIONS LIMITED,National,Rail freight transport (471),603720.0,626369.0,603720.0,,,-
+F0011,2023-24,reformed,AusNet Gas Services Pty Ltd,AusNet Services Holdings Pty Ltd,VIC,Gas supply (270),187366.0,188003.0,187366.0,,,-
+F0012,2023-24,reformed,Australian Gas Networks (Vic) Pty Ltd,Australian Gas Networks Holding Pty Ltd,VIC,Gas supply (270),119292.0,111805.0,111805.0,,,-
+F0013,2023-24,reformed,Ballera,Santos Limited,QLD,Oil and gas extraction (070),120065.0,153917.0,120065.0,,,-
+F0014,2023-24,reformed,Baralaba Coal Mine,BARALABA COAL COMPANY PTY LTD ,QLD,Coal mining (060),142165.0,138324.0,138324.0,,,-
+F0015,2023-24,reformed,Batchfire Resources No.1,BATCHFIRE RESOURCES PTY LTD,QLD,Coal mining (060),161762.0,218872.0,218872.0,,218872.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0017,2023-24,reformed,Beharra Springs,BEACH ENERGY LIMITED,WA,Oil and gas extraction (070),100000.0,145438.0,100000.0,,,"As the facility surrendered 30% or more of its baseline, the required written explanation as to why more carbon abatement did not occur at the facility can be found on the baselines and emissions data page."
+F0018,2023-24,reformed,Bell Bay Smelter,RIO TINTO ALUMINIUM (BELL BAY) LIMITED,TAS,Basic non-ferrous metal manufacturing (213),353471.0,351701.0,351701.0,,,-
+F0019,2023-24,reformed,Bengalla Operations,Bengalla Mining Company Pty Limited,NSW,Coal mining (060),519270.0,626511.0,519270.0,,,-
+F0020,2023-24,reformed,Birkenhead Operations,ADBRI LIMITED,SA,"Cement, lime, plaster and concrete product manufacturing (203)",877429.0,809431.0,848429.0,,,-
+F0021,2023-24,reformed,Blackwater Mine,BM Alliance Coal Operations Pty Limited,QLD,Coal mining (060),485780.0,531681.0,485780.0,,,-
+F0021,2023-24,reformed,Blackwater Mine,WHITEHAVEN BLACKWATER PTY LTD,QLD,Coal mining (060),156081.0,190372.0,156081.0,,,-
+F0023,2023-24,reformed,Boggabri Coal Minesite,BOGGABRI COAL PTY LIMITED,NSW,Coal mining (060),206330.0,210390.0,206330.0,,,-
+F0024,2023-24,reformed,Boyne Smelters Limited,RIO TINTO ALUMINIUM LIMITED,QLD,Basic non-ferrous metal manufacturing (213),931303.0,921558.0,921558.0,,,-
+F0025,2023-24,reformed,Brockman 2 / Nammuldi Mines,Hamersley Iron Pty. Limited,WA,Metal ore mining (080),185088.0,312410.0,185088.0,,,"As the facility surrendered 30% or more of its baseline, the required written explanation as to why more carbon abatement did not occur at the facility can be found on the baselines and emissions data page."
+F0026,2023-24,reformed,Brockman 4 Mine,Hamersley Iron Pty. Limited,WA,Metal ore mining (080),142158.0,236261.0,142158.0,,,"As the facility surrendered 30% or more of its baseline, the required written explanation as to why more carbon abatement did not occur at the facility can be found on the baselines and emissions data page."
+F0027,2023-24,reformed,Bulga Coal Complex,BULGA COAL MANAGEMENT PTY LIMITED,NSW,Coal mining (060),656158.0,527889.0,527889.0,,,-
+F0028,2023-24,reformed,Burton Complex,BOWEN COKING COAL LIMITED,QLD,Coal mining (060),165342.0,167954.0,165342.0,,,-
+F0029,2023-24,reformed,Byerwen Mine,BYERWEN COAL PTY LTD,QLD,Coal mining (060),360395.0,432031.0,360395.0,,,-
+F0030,2023-24,reformed,CAN01,South32 Cannington Proprietary Limited,QLD,Metal ore mining (080),116579.0,123595.0,116579.0,,,-
+F0031,2023-24,reformed,Capcoal Mine,ANGLO COAL (CAPCOAL MANAGEMENT) PTY LIMITED,QLD,Coal mining (060),2070902.0,1048254.0,1048254.0,,,-
+F0032,2023-24,reformed,Carborough Downs Coal Mine,FITZROY (CQ) PTY LTD,QLD,Coal mining (060),419085.0,589348.0,42441.0,,2001203.0,Please refer to the excess emissions situation table for more information. Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0033,2023-24,reformed,Carmichael Coal Mine,Adani Mining Pty Ltd,QLD,Coal mining (060),1026479.0,675247.0,675247.0,,,-
+F0034,2023-24,reformed,Carosue Dam Operations,NORTHERN STAR (CAROSUE DAM) PTY LTD,WA,Metal ore mining (080),103274.0,102722.0,97449.0,,320194.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0035,2023-24,reformed,Caval Ridge Mine,BM Alliance Coal Operations Pty Limited,QLD,Coal mining (060),254032.0,324232.0,254032.0,,,-
+F0036,2023-24,reformed,CEM NSW Berrima Maldon,Boral Limited,NSW,"Cement, lime, plaster and concrete product manufacturing (203)",1015917.0,952073.0,952073.0,,,-
+F0037,2023-24,reformed,Centurion Coal Mine,Centurion Coal Mining Pty Ltd,QLD,Coal mining (060),100000.0,174917.0,100000.0,,,"As the facility surrendered 30% or more of its baseline, the required written explanation as to why more carbon abatement did not occur at the facility can be found on the baselines and emissions data page."
+F0231,2023-24,reformed,Chain Valley Colliery,Delta Electricity Pty Ltd,NSW,Coal mining (060),588821.0,588821.0,588821.0,,,-
+F0038,2023-24,reformed,Chandala Processing Plant,Tronox Management Pty Ltd,WA,Basic chemical manufacturing (181),204507.0,227722.0,204507.0,,,-
+F0039,2023-24,reformed,Christmas Creek Mine,CHICHESTER METALS PTY LTD,WA,Metal ore mining (080),351986.0,372251.0,372251.0,,372251.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0040,2023-24,reformed,Clermont Coal Operations,Clermont Coal Operations Pty Limited,QLD,Coal mining (060),170356.0,148835.0,148835.0,,,-
+F0041,2023-24,reformed,Cloudbreak Mine,CHICHESTER METALS PTY LTD,WA,Metal ore mining (080),267459.0,295132.0,267459.0,,,-
+F0042,2023-24,reformed,Cockburn Operations,ADBRI LIMITED,WA,"Cement, lime, plaster and concrete product manufacturing (203)",671653.0,657038.0,657038.0,,,-
+F0043,2023-24,reformed,Collinsville Mine,NC COAL COMPANY PTY LIMITED,QLD,Coal mining (060),100000.0,69982.0,69982.0,,,The facility is an eligible facility under 58B.
+F0044,2023-24,reformed,Condabri Talinga Orana,ORIGIN ENERGY UPSTREAM OPERATOR PTY LTD,QLD,Oil and gas extraction (070),367391.0,263344.0,263344.0,,,-
+F0045,2023-24,reformed,Cook Colliery,Constellation Mining Pty Ltd,QLD,Coal mining (060),100000.0,98801.0,98801.0,,,The facility is an eligible facility under 58B.
+F0046,2023-24,reformed,Coppabella Coal Mine,PEABODY ENERGY AUSTRALIA PCI (C&M MANAGEMENT) PTY LTD,QLD,Coal mining (060),219678.0,235397.0,219678.0,,,-
+F0232,2023-24,reformed,Cowal Operations,EVOLUTION MINING (COWAL) PTY LIMITED,NSW,Metal ore mining (080),148711.0,82450.0,82450.0,,287978.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0047,2023-24,reformed,CSBP Kwinana Facility,CSBP Limited,WA,Fertiliser and pesticide manufacturing (183),734581.0,671716.0,671716.0,,,-
+F0048,2023-24,reformed,CTC WA Facility,CENTURION TRANSPORT CO. PTY LTD,WA,Road freight transport (461),115700.0,112173.0,112173.0,,,-
+F0049,2023-24,reformed,Curragh Mine,CORONADO AUSTRALIA HOLDINGS PTY LTD,QLD,Coal mining (060),598727.0,909433.0,909433.0,,909433.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0050,2023-24,reformed,Curtis Island GLNG Plant,GLNG OPERATIONS PTY LTD,QLD,Oil and gas extraction (070),1695720.0,1635447.0,1635447.0,,,-
+F0233,2023-24,reformed,Dandenong,OCEANIA GLASS PTY LTD,VIC,Glass and glass product manufacturing (201),100000.0,107278.0,107278.0,,,Please refer to the excess emissions situation table for more information.
+F0051,2023-24,reformed,Darwin LNG Plant,Santos Limited,NT,Oil and gas extraction (070),100000.0,241538.0,100000.0,,,"As the facility surrendered 30% or more of its baseline, the required written explanation as to why more carbon abatement did not occur at the facility can be found on the baselines and emissions data page."
+F0052,2023-24,reformed,Daunia Mine,BM Alliance Coal Operations Pty Limited,QLD,Coal mining (060),177734.0,161798.0,161798.0,,,-
+F0052,2023-24,reformed,Daunia Mine,WHITEHAVEN DAUNIA PTY LTD,QLD,Coal mining (060),57106.0,53753.0,53753.0,,,-
+F0053,2023-24,reformed,Dawson Mine,ANGLO COAL (DAWSON MANAGEMENT) PTY LTD,QLD,Coal mining (060),485823.0,538741.0,485823.0,,,-
+F0054,2023-24,reformed,DBNGP,DBNGP (WA) Transmission Pty Limited,WA,Pipeline and other transport (502),241857.0,250024.0,250024.0,,517202.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0055,2023-24,reformed,DEN01,Dendrobium Coal Pty Ltd,NSW,Coal mining (060),143922.0,379997.0,143922.0,,,-
+F0056,2023-24,reformed,Dongara Operations,ADBRI LIMITED,WA,"Cement, lime, plaster and concrete product manufacturing (203)",100000.0,93193.0,93193.0,,,The facility is an eligible facility under 58B.
+F0057,2023-24,reformed,Drake Mine,Drake Mine Management Pty Ltd,QLD,Coal mining (060),233185.0,244064.0,237738.0,,635647.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0058,2023-24,reformed,Duketon South Operations,Regis Resources Limited,WA,Metal ore mining (080),175908.0,155772.0,155772.0,,,-
+F0235,2023-24,reformed,EGP,Jemena Eastern Gas Pipeline (1) Pty Ltd,NSW; VIC,Gas supply (270),100000.0,80003.0,80003.0,,,The facility is an eligible facility under 58B.
+F0059,2023-24,reformed,Eliwana Mine,FMG SOLOMON PTY LTD,WA,Metal ore mining (080),135777.0,164894.0,164894.0,,164894.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0060,2023-24,reformed,Ensham Coal Mine,ENSHAM RESOURCES PTY. LIMITED,QLD,Coal mining (060),272747.0,261925.0,261925.0,,,"The responsible emitter was required to relinquish units, which they did via relinquishing 7,786 SMCs."
+F0061,2023-24,reformed,Fairview,Santos Limited,QLD,Oil and gas extraction (070),289078.0,214228.0,214228.0,,,-
+F0062,2023-24,reformed,Fimiston Operations,KALGOORLIE CONSOLIDATED GOLD MINES PTY LTD,WA,Metal ore mining (080),136847.0,229779.0,136847.0,,,"As the facility surrendered 30% or more of its baseline, the required written explanation as to why more carbon abatement did not occur at the facility can be found on the baselines and emissions data page."
+F0064,2023-24,reformed,Fisherman's Landing,CEMENT AUSTRALIA (QUEENSLAND) PTY LIMITED,QLD,"Cement, lime, plaster and concrete product manufacturing (203)",1597242.0,1582237.0,1582237.0,,,-
+F0065,2023-24,reformed,FLNG,SHELL AUSTRALIA PTY LTD,WA,Oil and gas extraction (070),2929109.0,1851848.0,1851848.0,,,-
+F0066,2023-24,reformed,Foxleigh Mine,FOXLEIGH MANAGEMENT PTY LTD,QLD,Coal mining (060),215614.0,265558.0,215614.0,,,-
+F0067,2023-24,reformed,Geelong Refinery,Viva Energy Refining Pty Ltd,VIC,Petroleum and coal product manufacturing (170),906089.0,1051228.0,906089.0,,,-
+F0068,2023-24,reformed,GEM01,Groote Eylandt Mining Company Proprietary Limited,NT,Metal ore mining (080),142343.0,174512.0,142343.0,,,-
+F0236,2023-24,reformed,Gibson Island,Incitec Pivot Limited,QLD,Fertiliser and pesticide manufacturing (183),100000.0,170.0,170.0,,,The facility is an eligible facility under 58B.
+F0070,2023-24,reformed,Gippsland Basin facility,ESSO AUSTRALIA RESOURCES PTY LTD,VIC,Oil and gas extraction (070),1349503.0,1505497.0,1349503.0,,,-
+F0071,2023-24,reformed,Goldfields Gas Transmission Pipeline,Goldfields Gas Transmission Pty Ltd,WA,Pipeline and other transport (502),107870.0,114123.0,107870.0,,,-
+F0072,2023-24,reformed,Goonyella Broadmeadow Mine,BM Alliance Coal Operations Pty Limited,QLD,Coal mining (060),1015171.0,1257022.0,1015171.0,,,-
+F0073,2023-24,reformed,Gorgon Operations,CHEVRON AUSTRALIA PTY LTD,WA,Oil and gas extraction (070),9191453.0,8802650.0,8802650.0,,,-
+F0074,2023-24,reformed,Gove Operations,RTA GOVE PTY LIMITED,NT,Basic non-ferrous metal manufacturing (213),114808.0,133829.0,114808.0,,,-
+F0075,2023-24,reformed,Granny Smith Mine Site,GSM MINING COMPANY PTY LTD,WA,Metal ore mining (080),111619.0,113783.0,111619.0,,,-
+F0076,2023-24,reformed,Greenbushes Lithium Operation,Talison Lithium Australia Pty Ltd,WA,Metal ore mining (080),100000.0,104303.0,100000.0,,,-
+F0077,2023-24,reformed,Grosvenor Mine,ANGLO COAL (MORANBAH NORTH MANAGEMENT) PTY LIMITED,QLD,Coal mining (060),1717249.0,1094252.0,1094252.0,,,-
+F0078,2023-24,reformed,Gruyere Mine Site,Gruyere Mining Company Pty Ltd,WA,Metal ore mining (080),186298.0,204627.0,186298.0,,,-
+F0237,2023-24,reformed,Gudai-Darri Mine,Mount Bruce Mining Pty Ltd,WA,Metal ore mining (080),604067.0,129676.0,129676.0,,,-
+F0079,2023-24,reformed,Hail Creek Mine,HAIL CREEK COAL PTY LTD,QLD,Coal mining (060),1189092.0,1381195.0,1189092.0,,,-
+F0080,2023-24,reformed,Hope Downs 1 Mine,Hamersley HMS Pty Ltd,WA,Metal ore mining (080),126313.0,166842.0,126313.0,,,"As the facility surrendered 30% or more of its baseline, the required written explanation as to why more carbon abatement did not occur at the facility can be found on the baselines and emissions data page."
+F0081,2023-24,reformed,Hope Downs 4 Mine,Hamersley HMS Pty Ltd,WA,Metal ore mining (080),100000.0,119586.0,100000.0,,,-
+F0082,2023-24,reformed,Hunter Valley Operations mine,HV OPERATIONS PTY LTD,NSW,Coal mining (060),491271.0,637147.0,491271.0,,,-
+F0083,2023-24,reformed,HVY01 Hunter Valley Energy Coal - CCL Facility,Hunter Valley Energy Coal Pty Ltd,NSW,Coal mining (060),581285.0,594767.0,581285.0,,,-
+F0084,2023-24,reformed,InfraBuild Steel Laverton Steel Mill,THE AUSTRALIAN STEEL COMPANY (OPERATIONS) PTY LTD,VIC,Basic ferrous metal manufacturing (211),112413.0,113721.0,112413.0,,,-
+F0085,2023-24,reformed,Integra Underground Mine,HV Coking Coal Pty Limited,NSW,Coal mining (060),322546.0,396320.0,322546.0,,,-
+F0086,2023-24,reformed,Iron Bridge Mine,IB Operations Pty Ltd,WA,Metal ore mining (080),100000.0,104560.0,100000.0,,,-
+F0238,2023-24,reformed,Ironbark No. 1,FITZROY (CQ) PTY LTD,QLD,Coal mining (060),100000.0,146173.0,100000.0,,,Please refer to the excess emissions situation table for more information.
+F0087,2023-24,reformed,Isaac Plains Complex,STANMORE RESOURCES LIMITED,QLD,Coal mining (060),167250.0,202682.0,167250.0,,,-
+F0088,2023-24,reformed,Jax Mine,Jax Coal Pty Ltd,QLD,Coal mining (060),137609.0,133527.0,133527.0,,,-
+F0089,2023-24,reformed,Jellinbah Mine,JELLINBAH MINING PTY LTD,QLD,Coal mining (060),321854.0,364464.0,321854.0,,,-
+F0090,2023-24,reformed,JGN,Jemena Gas Networks (NSW) Ltd,NSW,Gas supply (270),340367.0,341152.0,340367.0,,,-
+F0091,2023-24,reformed,Jimblebar Mine,BHP IRON ORE PTY LTD,WA,Metal ore mining (080),302155.0,310615.0,302155.0,,,-
+F0092,2023-24,reformed,Jundee Gold Mine,NORTHERN STAR RESOURCES LIMITED,WA,Metal ore mining (080),133307.0,144622.0,133307.0,,,-
+F0094,2023-24,reformed,Kemerton Silicon Smelter,SIMCOA OPERATIONS PTY. LTD.,WA,Basic non-ferrous metal manufacturing (213),100000.0,95384.0,95384.0,,,The facility is an eligible facility under 58B.
+F0239,2023-24,reformed,Kestrel Coal Pty Ltd,Kestrel Coal Group Pty Ltd,QLD,Coal mining (060),1035251.0,1223730.0,1035251.0,,,-
+F0096,2023-24,reformed,King of the Hills,GREENSTONE RESOURCES (WA) PTY LTD,WA,Metal ore mining (080),176726.0,132475.0,132475.0,,,-
+F0240,2023-24,reformed,Kogan Creek Mine,GOLDING CONTRACTORS PTY LTD,QLD,Coal mining (060),100000.0,100248.0,100000.0,,,-
+F0241,2023-24,reformed,Koolyanobbing Iron Ore Operations,Yilgarn Iron Pty Ltd,WA,Metal ore mining (080),100000.0,82036.0,82036.0,,,The facility is an eligible facility under 58B.
+F0098,2023-24,reformed,Kooragang Island,ORICA AUSTRALIA PTY LTD,NSW,Other basic chemical product manufacturing (189),913822.0,483071.0,483071.0,,,-
+F0099,2023-24,reformed,Kwinana Alumina Refinery,Alcoa of Australia Limited,WA,Basic non-ferrous metal manufacturing (213),824523.0,915101.0,824523.0,,,-
+F0100,2023-24,reformed,Kwinana Pigment Plant,Tronox Management Pty Ltd,WA,Basic chemical manufacturing (181),244804.0,285673.0,244804.0,,,-
+F0101,2023-24,reformed,Lake Vermont Mine,THIESS PTY LTD,QLD,Coal mining (060),308609.0,289068.0,289068.0,,,-
+F0102,2023-24,reformed,Leinster Power Station,TEC DESERT PTY LTD,WA,Electricity generation (261),128716.0,132927.0,128716.0,,,-
+F0103,2023-24,reformed,Liberty Bell Bay,Liberty Bell Bay Pty Ltd,TAS,Basic ferrous metal manufacturing (211),204887.0,196125.0,196125.0,,,-
+F0104,2023-24,reformed,Liberty Primary Steel Whyalla Steelworks,ONESTEEL MANUFACTURING PTY LIMITED,SA,Basic ferrous metal manufacturing (211),1026135.0,1191510.0,1191510.0,,,Please refer to the excess emissions situation table for more information.
+F0106,2023-24,reformed,Mandalong Mine,CENTENNIAL MANDALONG PTY LIMITED,NSW,Coal mining (060),554933.0,742230.0,554933.0,,,-
+F0107,2023-24,reformed,Mangoola,MANGOOLA COAL OPERATIONS PTY LIMITED,NSW,Coal mining (060),131234.0,122216.0,122216.0,,,-
+F0108,2023-24,reformed,Marandoo Mine,Hamersley Iron Pty. Limited,WA,Metal ore mining (080),109985.0,156177.0,109985.0,,,"As the facility surrendered 30% or more of its baseline, the required written explanation as to why more carbon abatement did not occur at the facility can be found on the baselines and emissions data page."
+F0109,2023-24,reformed,Maules Creek Open Cut Mine,MAULES CREEK COAL PTY LTD,NSW,Coal mining (060),275001.0,286028.0,275001.0,,,-
+F0110,2023-24,reformed,McArthur River Mine Operations,MCARTHUR RIVER MINING PTY. LTD.,NT,Metal ore mining (080),100000.0,101914.0,96310.0,,208064.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0111,2023-24,reformed,McArthur River Power Station,EDL NGD (NT) Pty Ltd,NT,Electricity generation (261),138562.0,153074.0,138562.0,,,-
+F0242,2023-24,reformed,Mesa A Mine,Robe River Mining Co. Pty. Ltd.,WA,Metal ore mining (080),100000.0,60255.0,60255.0,,,The facility is an eligible facility under 58B.
+F0243,2023-24,reformed,Mesa J / K Mine,Robe River Mining Co. Pty. Ltd.,WA,Metal ore mining (080),104837.0,65868.0,65868.0,,,The facility is an eligible facility under 58B.
+F0112,2023-24,reformed,Metropolitan Colliery,METROPOLITAN COLLIERIES PTY. LTD.,NSW,Coal mining (060),587906.0,696752.0,587906.0,,,-
+F0113,2023-24,reformed,Middlemount Coal Mine,Middlemount Coal Pty Ltd,QLD,Coal mining (060),232430.0,267919.0,232430.0,,,-
+F0244,2023-24,reformed,Millicent Mill,Kimberly-Clark Australia Pty. Limited,SA,Converted paper product manufacturing (152),100000.0,100534.0,100000.0,,,-
+F0245,2023-24,reformed,Mobil Altona Refinery,MOBIL OIL AUSTRALIA PTY LTD,VIC,Petroleum and coal product manufacturing (170),100000.0,344.0,344.0,,111270.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0114,2023-24,reformed,Montara Operations,JADESTONE ENERGY (EAGLE) PTY LTD,NT,Oil and gas extraction (070),132001.0,163472.0,132001.0,,,-
+F0115,2023-24,reformed,Moolarben Coal Mine (Open Cut & Underground),MOOLARBEN COAL OPERATIONS PTY LTD,NSW,Coal mining (060),238272.0,233810.0,233810.0,,,"The responsible emitter was required to relinquish units, which they did via relinquishing 147 SMCs."
+F0116,2023-24,reformed,Moomba Plant,Santos Limited,SA,Oil and gas extraction (070),2048421.0,2196816.0,2048421.0,,,-
+F0117,2023-24,reformed,Moorvale Coal Mine,PEABODY ENERGY AUSTRALIA PCI (C&M MANAGEMENT) PTY LTD,QLD,Coal mining (060),221575.0,194654.0,194654.0,,,-
+F0246,2023-24,reformed,Moranbah,Incitec Pivot Limited,QLD,Other basic chemical product manufacturing (189),523641.0,460112.0,460112.0,,,-
+F0119,2023-24,reformed,Moranbah North Mine,ANGLO COAL (MORANBAH NORTH MANAGEMENT) PTY LIMITED,QLD,Coal mining (060),1300300.0,1483999.0,1300300.0,,,-
+F0120,2023-24,reformed,Mount Isa Mines Copper and Zinc Operations,MOUNT ISA MINES LIMITED,QLD,Metal ore mining (080),328070.0,409936.0,328070.0,,,-
+F0121,2023-24,reformed,Mount Pleasant Operations,MACH Energy Australia Pty Ltd,NSW,Coal mining (060),199238.0,196934.0,196934.0,,,-
+F0122,2023-24,reformed,Mt Keith Power Station,TEC DESERT PTY LTD,WA,Electricity generation (261),160670.0,160073.0,160073.0,,511101.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0247,2023-24,reformed,Mt Marion Lithium Project,MT MARION LITHIUM PTY LTD,WA,Metal ore mining (080),100000.0,114220.0,100000.0,,,-
+F0123,2023-24,reformed,Mt Owen Glendell Complex,MT OWEN PTY LIMITED,NSW,Coal mining (060),206337.0,265669.0,206337.0,,,-
+F0124,2023-24,reformed,Multinet Principal Distribution Network and South Gippsland Pipeline,MULTINET GAS (DB NO. 2) PTY LTD,VIC,Gas supply (270),165214.0,169759.0,165214.0,,,-
+F0125,2023-24,reformed,Murrin Murrin Operations,MURRIN MURRIN OPERATIONS PTY LTD,WA,Metal ore mining (080),478181.0,523774.0,478181.0,,,-
+F0126,2023-24,reformed,Myuna Colliery,CENTENNIAL MYUNA PTY LIMITED,NSW,Coal mining (060),346793.0,191750.0,191750.0,,,-
+F0127,2023-24,reformed,Narrabri Underground Mine,Narrabri Coal Operations Pty Ltd,NSW,Coal mining (060),383633.0,555048.0,383633.0,,,"As the facility surrendered 30% or more of its baseline, the required written explanation as to why more carbon abatement did not occur at the facility can be found on the baselines and emissions data page."
+F0129,2023-24,reformed,Newman Operations,BHP IRON ORE PTY LTD,WA,Metal ore mining (080),304376.0,316238.0,304376.0,,,-
+F0130,2023-24,reformed,Newman Power Station,APA TRANSMISSION (ROY HILL) PTY LTD,WA,Electricity generation (261),544310.0,376230.0,429805.0,,,-
+F0131,2023-24,reformed,Newmont Boddington Gold Operation,Newmont Boddington Pty Ltd,WA,Metal ore mining (080),183027.0,238348.0,183027.0,,,"As the facility surrendered 30% or more of its baseline, the required written explanation as to why more carbon abatement did not occur at the facility can be found on the baselines and emissions data page."
+F0132,2023-24,reformed,Newmont Tanami Operation,Newmont Tanami Pty Ltd,NT,Metal ore mining (080),190869.0,200358.0,190869.0,,,-
+F0133,2023-24,reformed,Ningaloo Vision FPSO,Santos Limited,WA,Oil and gas extraction (070),277840.0,226731.0,226731.0,,,-
+F0134,2023-24,reformed,NKS01 Nickel West Kalgoorlie Facility,BHP NICKEL WEST PTY LTD,WA,Basic non-ferrous metal manufacturing (213),123249.0,105583.0,105583.0,,,-
+F0135,2023-24,reformed,NKW01 Nickel West Kwinana Facility,BHP NICKEL WEST PTY LTD,WA,Basic non-ferrous metal manufacturing (213),122189.0,169074.0,88688.0,,417031.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0136,2023-24,reformed,NMK01 Nickel West Mt Keith Facility,BHP NICKEL WEST PTY LTD,WA,Metal ore mining (080),100000.0,200895.0,100000.0,,,"As the facility surrendered 30% or more of its baseline, the required written explanation as to why more carbon abatement did not occur at the facility can be found on the baselines and emissions data page."
+F0248,2023-24,reformed,Norske Skog Boyer Mill,Norske Skog Paper Mills (Australia) Limited,TAS,"Pulp, paper and paperboard manufacturing (151)",166962.0,171146.0,166962.0,,,-
+F0138,2023-24,reformed,North West Shelf Project,Woodside Energy Ltd.,WA,Oil and gas extraction (070),5489531.0,6097509.0,5489527.0,,,-
+F0249,2023-24,reformed,Norwich Park Mine,BM Alliance Coal Operations Pty Limited,QLD,Coal mining (060),100000.0,16978.0,16978.0,,,The facility is an eligible facility under 58B.
+F0139,2023-24,reformed,Nowra Plant,Shoalhaven Starches Pty Ltd,NSW,Grain mill and cereal product manufacturing (116),448436.0,395916.0,395916.0,,,-
+F0140,2023-24,reformed,Nyrstar Port Pirie Facility,Nyrstar Port Pirie Pty Ltd,SA,Basic non-ferrous metal manufacturing (213),441897.0,441897.0,441897.0,,,-
+F0141,2023-24,reformed,Oaky Creek Coal Complex,OAKY CREEK HOLDINGS PTY LIMITED,QLD,Coal mining (060),759605.0,845959.0,759605.0,,,-
+F0142,2023-24,reformed,ODS01 Olympic Dam – UOD Facility,BHP OLYMPIC DAM CORPORATION PTY LTD,SA,Metal ore mining (080),246875.0,244321.0,244321.0,,,-
+F0143,2023-24,reformed,Olive Downs Complex,PEMBROKE RESOURCES NOMINEE PTY LTD,QLD,Coal mining (060),100000.0,155917.0,100000.0,,,"As the facility surrendered 30% or more of its baseline, the required written explanation as to why more carbon abatement did not occur at the facility can be found on the baselines and emissions data page."
+F0145,2023-24,reformed,Opal Australian Paper Maryvale Mill,PAPER AUSTRALIA PTY LTD,VIC,"Pulp, paper and paperboard manufacturing (151)",242779.0,235738.0,235738.0,,,-
+F0146,2023-24,reformed,Orora Glass Plant Gawler,Orora Limited,SA,Glass and glass product manufacturing (201),185948.0,189646.0,185948.0,,,-
+F0147,2023-24,reformed,Otway,BEACH ENERGY LIMITED,VIC,Oil and gas extraction (070),127568.0,157371.0,127568.0,,,-
+F0148,2023-24,reformed,Pacific National National Transport Facility,PACIFIC NATIONAL PTY LTD,National,Rail freight transport (471),711831.0,770634.0,597885.0,,2282759.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0149,2023-24,reformed,Paraburdoo Mine,Hamersley Iron Pty. Limited,WA,Metal ore mining (080),100000.0,163892.0,100000.0,,,"As the facility surrendered 30% or more of its baseline, the required written explanation as to why more carbon abatement did not occur at the facility can be found on the baselines and emissions data page."
+F0150,2023-24,reformed,Parkhurst Magnesia Manufacturing Plant,QMAG PTY LIMITED,QLD,Other non-metallic mineral product manufacturing (209),241996.0,242801.0,241996.0,,,-
+F0151,2023-24,reformed,Peak Downs Mine,BM Alliance Coal Operations Pty Limited,QLD,Coal mining (060),371336.0,434812.0,371336.0,,,-
+F0250,2023-24,reformed,Phosphate Hill,Incitec Pivot Limited,QLD,Fertiliser and pesticide manufacturing (183),397847.0,423015.0,397847.0,,,-
+F0153,2023-24,reformed,Pilbara Rail Operations,PILBARA IRON PTY LTD,WA,Rail freight transport (471),611803.0,656025.0,611803.0,,,-
+F0251,2023-24,reformed,Pilgangoora Operations,Pilbara Minerals Limited,WA,Metal ore mining (080),168656.0,180291.0,168656.0,,,-
+F0155,2023-24,reformed,Pinjarra Alumina Refinery,Alcoa of Australia Limited,WA,Basic non-ferrous metal manufacturing (213),1417325.0,1347202.0,1347202.0,,,-
+F0156,2023-24,reformed,Pluto LNG,Woodside Burrup Pty. Ltd.,WA,Oil and gas extraction (070),1918373.0,1845003.0,1845003.0,,,-
+F0157,2023-24,reformed,Poitrel Mine,STANMORE RESOURCES LIMITED,QLD,Coal mining (060),215485.0,298489.0,215485.0,,,"As the facility surrendered 30% or more of its baseline, the required written explanation as to why more carbon abatement did not occur at the facility can be found on the baselines and emissions data page."
+F0158,2023-24,reformed,Port Bonython Plant,Santos Limited,SA,Oil and gas extraction (070),100000.0,82939.0,82939.0,,,The facility is an eligible facility under 58B.
+F0159,2023-24,reformed,Port Kembla Steelworks,BLUESCOPE STEEL (AIS) PTY. LTD.,NSW,Basic ferrous metal manufacturing (211),6176914.0,5946306.0,5946306.0,,,"The responsible emitter was required to relinquish units, which they did via relinquishing 1,480 SMCs."
+F0160,2023-24,reformed,Port Latta Pelletising Plant,GRANGE RESOURCES (TASMANIA) PTY LTD,TAS,Basic ferrous product manufacturing (212),120185.0,112666.0,112666.0,,,-
+F0161,2023-24,reformed,Portland Aluminium Smelter,Alcoa Portland Aluminium Proprietary Limited,VIC,Basic non-ferrous metal manufacturing (213),549273.0,620768.0,549273.0,,,-
+F0162,2023-24,reformed,Premier Coal Mine (Open Cut),Premier Coal Pty Ltd,WA,Coal mining (060),100000.0,110312.0,100000.0,,,Please refer to the excess emissions situation table for more information.
+F0163,2023-24,reformed,PRL03 Rail - IOR Facility,BHP IRON ORE PTY LTD,WA,Rail freight transport (471),526254.0,559502.0,526254.0,,,-
+F0164,2023-24,reformed,Qantas Airways Limited National Transport Facility,Qantas Airways Limited,National,Air and space transport (490),4472910.0,4528002.0,4472910.0,,,-
+F0165,2023-24,reformed,Qenos Altona Manufacturing,QENOS PTY LTD,VIC,Basic chemical manufacturing (181),211616.0,225217.0,211616.0,,,-
+F0167,2023-24,reformed,QGC Upstream,QGC PTY LIMITED,QLD,Oil and gas extraction (070),915545.0,868117.0,868117.0,,,-
+F0168,2023-24,reformed,Queensland Alumina Limited Refinery,QUEENSLAND ALUMINA LIMITED,QLD,Basic non-ferrous metal manufacturing (213),2770213.0,3094142.0,2770213.0,,,-
+F0169,2023-24,reformed,Queensland Curtis LNG Plant,QCLNG Operating Company Pty Ltd,QLD,Oil and gas extraction (070),1866331.0,1938855.0,1866331.0,,,Please refer to the excess emissions situation table for more information.
+F0170,2023-24,reformed,Queensland Nitrates Ammonium Nitrate Plant,Queensland Nitrates Pty Ltd,QLD,Basic chemical manufacturing (181),158556.0,156174.0,156174.0,,,-
+F0171,2023-24,reformed,Rail,THE PILBARA INFRASTRUCTURE PTY LTD,WA,Rail freight transport (471),241706.0,254871.0,241706.0,,,-
+F0172,2023-24,reformed,Railton,CEMENT AUSTRALIA (GOLIATH) PTY LIMITED,TAS,"Cement, lime, plaster and concrete product manufacturing (203)",983714.0,984395.0,983714.0,,,-
+F0252,2023-24,reformed,Ranger Mine,ENERGY RESOURCES OF AUSTRALIA LTD.,NT,Metal ore mining (080),100000.0,63430.0,63430.0,,,The facility is an eligible facility under 58B.
+F0173,2023-24,reformed,Ravensthorpe Nickel Operation,FQM Australia Nickel Pty Ltd,WA,Metal ore mining (080),147510.0,171706.0,147510.0,,,-
+F0174,2023-24,reformed,Ravenswood Mine,RAVENSWOOD GOLD PTY LTD,QLD,Metal ore mining (080),269728.0,137227.0,137227.0,,,-
+F0175,2023-24,reformed,Ravensworth Operations,RAVENSWORTH OPERATIONS PTY LIMITED,NSW,Coal mining (060),287954.0,326604.0,287954.0,,,-
+F0176,2023-24,reformed,Refinery Qld Lytton,Ampol Limited,QLD,Petroleum and coal product manufacturing (170),659208.0,716979.0,659208.0,,,-
+F0178,2023-24,reformed,Rio Tinto Weipa,RTA WEIPA PTY LTD,QLD,Metal ore mining (080),256438.0,270463.0,256438.0,,,-
+F0179,2023-24,reformed,Rio Tinto Yarwun,RTA Yarwun Pty Ltd,QLD,Basic non-ferrous metal manufacturing (213),1943147.0,2114101.0,1943147.0,,,-
+F0180,2023-24,reformed,Rolleston Coal Mine,ROLLESTON COAL HOLDINGS PTY LIMITED,QLD,Coal mining (060),164679.0,173698.0,164679.0,,,-
+F0181,2023-24,reformed,Roma Hub,Santos Limited,QLD,Oil and gas extraction (070),150920.0,129375.0,129375.0,,,-
+F0182,2023-24,reformed,Roy Hill Mine,Roy Hill Holdings Pty Ltd,WA,Metal ore mining (080),470949.0,516539.0,470949.0,,,-
+F0183,2023-24,reformed,Russell Vale Colliery,WOLLONGONG RESOURCES PTY. LTD.,NSW,Coal mining (060),110000.0,335908.0,110000.0,,,"As the facility surrendered 30% or more of its baseline, the required written explanation as to why more carbon abatement did not occur at the facility can be found on the baselines and emissions data page."
+F0184,2023-24,reformed,Saraji Mine,BM Alliance Coal Operations Pty Limited,QLD,Coal mining (060),311441.0,353611.0,311441.0,,,-
+F0185,2023-24,reformed,Savage River Mine,GRANGE RESOURCES (TASMANIA) PTY LTD,TAS,Metal ore mining (080),100000.0,119158.0,119158.0,,119158.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0186,2023-24,reformed,Sewerage West,Melbourne Water Corporation,VIC,"Water supply, sewerage and drainage services (281)",134661.0,143515.0,134661.0,,,-
+F0187,2023-24,reformed,SIMEC Mining - Middleback Range Iron Ore Mine (Whyalla),ONESTEEL MANUFACTURING PTY LIMITED,SA,Metal ore mining (080),100000.0,127129.0,127129.0,,,Please refer to the excess emissions situation table for more information.
+F0188,2023-24,reformed,Sino Iron Project – Cape Preston,CITIC Pacific Mining Management Pty Ltd,WA,Metal ore mining (080),1091911.0,1111621.0,1091911.0,,,-
+F0253,2023-24,reformed,Sojitz Gregory Crinum Mine,SOJITZ DEVELOPMENT PTY LTD,QLD,Coal mining (060),102951.0,65978.0,60296.0,,302951.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0189,2023-24,reformed,Solomon Mine,FMG SOLOMON PTY LTD,WA,Metal ore mining (080),390033.0,452137.0,390033.0,,,-
+F0190,2023-24,reformed,Solomon Power Station,FMG SOLOMON PTY LTD,WA,Electricity generation (261),366608.0,316859.0,316859.0,,,-
+F0191,2023-24,reformed,South Walker Creek,STANMORE RESOURCES LIMITED,QLD,Coal mining (060),382706.0,474299.0,305260.0,,1009498.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0192,2023-24,reformed,South West Queensland Pipeline,APA (SWQP) PTY LIMITED,QLD; SA,Pipeline and other transport (502),130235.0,127602.0,127602.0,,,-
+F0193,2023-24,reformed,South West Synthetic Rutile Operations,Iluka Resources Limited,WA,Metal ore mining (080),198049.0,216480.0,198049.0,,,-
+F0194,2023-24,reformed,Spring Gully Reedy Creek Combabula,ORIGIN ENERGY UPSTREAM OPERATOR PTY LTD,QLD,Oil and gas extraction (070),386244.0,310794.0,310794.0,,,"The responsible emitter was required to relinquish units, which they did via relinquishing 6,311 SMCs."
+F0195,2023-24,reformed,Start up and Operations of the Ichthys LNG Project,INPEX Operations Australia Pty Ltd,NT,Oil and gas extraction (070),7467861.0,6698961.0,6698961.0,,,-
+F0196,2023-24,reformed,Sunrise Dam,AngloGold Ashanti Australia Limited,WA,Metal ore mining (080),146998.0,165796.0,146998.0,,,-
+F0197,2023-24,reformed,TAHMOOR COAL MINE,TAHMOOR COAL PTY LTD,NSW,Coal mining (060),1354765.0,1084992.0,1084992.0,,,-
+F0198,2023-24,reformed,Telfer Gold Mine,Newcrest Mining Limited,WA,Metal ore mining (080),291043.0,353943.0,291043.0,,,-
+F0200,2023-24,reformed,Thunderbox Operations,NORTHERN STAR (THUNDERBOX) PTY LTD,WA,Metal ore mining (080),170892.0,174100.0,170892.0,,,-
+F0201,2023-24,reformed,Tom Price Mine / WTS,Hamersley Iron Pty. Limited,WA,Metal ore mining (080),161334.0,183325.0,161334.0,,,-
+F0202,2023-24,reformed,Tomago Aluminium Smelter,TOMAGO ALUMINIUM COMPANY PTY LTD,NSW,Basic non-ferrous metal manufacturing (213),1102992.0,1159663.0,1102992.0,,,-
+F0203,2023-24,reformed,Tropicana Gold Mine,AngloGold Ashanti Australia Limited,WA,Metal ore mining (080),290437.0,306196.0,290437.0,,,-
+F0204,2023-24,reformed,TT-Line - Victorian Operation,TT-Line Company Pty. Ltd.,VIC,Water passenger transport (482),125468.0,165384.0,125468.0,,,"As the facility surrendered 30% or more of its baseline, the required written explanation as to why more carbon abatement did not occur at the facility can be found on the baselines and emissions data page."
+F0205,2023-24,reformed,United Coal Mine,UNITED COLLIERIES PTY LTD,NSW,Coal mining (060),190293.0,433266.0,190293.0,,,-
+F0206,2023-24,reformed,V/Line,V/Line Corporation,VIC,Rail passenger transport (472),159585.0,138625.0,138625.0,,,-
+F0208,2023-24,reformed,Varanus Hub,Santos Limited,WA,Oil and gas extraction (070),237234.0,281036.0,237234.0,,,-
+F0209,2023-24,reformed,Vincent Project Venture,Woodside Energy Ltd.,WA,Oil and gas extraction (070),263351.0,280795.0,263350.0,,,-
+F0210,2023-24,reformed,Virgin Australia Holdings National Transport Facility,VIRGIN AUSTRALIA HOLDINGS LIMITED,National,Air and space transport (490),2170511.0,2103081.0,2103081.0,,,-
+F0212,2023-24,reformed,Wagerup Alumina Refinery,Alcoa of Australia Limited,WA,Basic non-ferrous metal manufacturing (213),1280185.0,1343954.0,1280185.0,,,-
+F0213,2023-24,reformed,Wambo Coal Mine,WAMBO COAL PTY LIMITED,NSW,Coal mining (060),244508.0,162094.0,162094.0,,,-
+F0214,2023-24,reformed,Warkworth Mine,Warkworth Mining Ltd,NSW,Coal mining (060),795576.0,966843.0,795576.0,,,-
+F0215,2023-24,reformed,West Angelas Mine,Robe River Mining Co. Pty. Ltd.,WA,Metal ore mining (080),208498.0,265099.0,208498.0,,,-
+F0254,2023-24,reformed,Western Australia,Alliance Aviation Services Limited,WA,Air and space transport (490),100000.0,110489.0,100000.0,,,-
+F0217,2023-24,reformed,Western Port Works,BlueScope Steel Limited,VIC,Basic ferrous metal manufacturing (211),100000.0,107642.0,100000.0,,,-
+F0218,2023-24,reformed,Wheatstone Operations,CHEVRON AUSTRALIA PTY LTD,WA,Oil and gas extraction (070),4299587.0,4065836.0,4065836.0,,,-
+F0219,2023-24,reformed,Wilpinjong Coal Mine,WILPINJONG COAL PTY LTD,NSW,Coal mining (060),148354.0,162960.0,148354.0,,,-
+F0255,2023-24,reformed,Wodgina Operations,MARBL Lithium Operations Pty Ltd,WA,Metal ore mining (080),150054.0,166859.0,150054.0,,,-
+F0222,2023-24,reformed,WOR01,South32 Worsley Alumina Pty Ltd,WA,Basic non-ferrous metal manufacturing (213),3295004.0,3177815.0,3177815.0,,,-
+F0223,2023-24,reformed,YAN01 Yandi/Marillana Creek Mine - MNG Facility,BHP IRON ORE PTY LTD,WA,Metal ore mining (080),100000.0,107160.0,100000.0,,,-
+F0224,2023-24,reformed,Yandicoogina Mine,Hamersley Iron - Yandi Pty Limited,WA,Metal ore mining (080),141890.0,151438.0,141890.0,,,-
+F0225,2023-24,reformed,Yarnima Power Station,BHP IRON ORE PTY LTD,WA,Electricity generation (261),328998.0,347643.0,328998.0,,,-
+F0226,2023-24,reformed,Yarrabee Coal Mine (Open Cut),YARRABEE COAL COMPANY PTY. LTD.,QLD,Coal mining (060),136622.0,183931.0,136622.0,,,"Please refer to the excess emissions situation table for more information. As the facility surrendered 30% or more of its baseline, the required written explanation as to why more carbon abatement did not occur at the facility can be found on the baselines and emissions data page."
+F0227,2023-24,reformed,Yarwun Nitrates,ORICA AUSTRALIA PTY LTD,QLD,Other basic chemical product manufacturing (189),300013.0,377339.0,377339.0,,377339.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0228,2023-24,reformed,YPF AMMONIA PLANT,Yara Pilbara Fertilisers Pty Ltd,WA,Fertiliser and pesticide manufacturing (183),1356400.0,1366029.0,1356400.0,,,-
+F0001,2024-25,reformed,2. Solid Waste Services - MRL,Cleanaway Waste Management Limited,VIC,"Waste treatment, disposal and remediation services (292)",377924.0,197276.0,377447.0,,,The facility is covered by a landfill baseline.
+F0002,2024-25,reformed,Angaston Operations,ADBRI LIMITED,SA,"Cement, lime, plaster and concrete product manufacturing (203)",100000.0,91255.0,91255.0,,,The facility is an eligible facility under 58B.
+F0003,2024-25,reformed,APLNG Facility,CONOCOPHILLIPS AUSTRALIA OPERATIONS PTY LTD,QLD,Oil and gas extraction (070),2059639.0,2206497.0,2059639.0,,,-
+F0004,2024-25,reformed,APN01 Appin Colliery - ICH Facility,ENDEAVOUR COAL PTY LIMITED,NSW,Coal mining (060),2305451.0,2359680.0,2305451.0,,,-
+F0005,2024-25,reformed,APU01 Pyrenees - AOA Facility,WOODSIDE ENERGY GLOBAL PTY LTD,WA,Oil and gas extraction (070),132862.0,144213.0,132861.0,,,-
+F0006,2024-25,reformed,ARC01 Mining Area C - MNG Facility,BHP IRON ORE PTY LTD,WA,Metal ore mining (080),757811.0,587292.0,587292.0,,,-
+F0007,2024-25,reformed,Arcadia,Santos Limited,QLD,Oil and gas extraction (070),144203.0,134510.0,134510.0,,,-
+F0008,2024-25,reformed,Arrow Surat Operations,Arrow Energy Holdings Pty Ltd,QLD,Oil and gas extraction (070),185665.0,179006.0,179006.0,,,-
+F0009,2024-25,reformed,Ashton Coal Mine (Underground),ASHTON COAL OPERATIONS PTY LIMITED,NSW,Coal mining (060),194109.0,682780.0,194109.0,,,"As the facility surrendered 30% or more of its baseline in ACCUs, the required written explanation as to why more carbon abatement did not occur at the facility can be found on the baselines and emissions data page."
+F0010,2024-25,reformed,Aurizon National Transport Facility,AURIZON OPERATIONS LIMITED,National,Rail freight transport (471),574103.0,658557.0,574103.0,,,-
+F0011,2024-25,reformed,AusNet Gas Services Pty Ltd,AusNet Services Holdings Pty Ltd,VIC,Gas supply (270),180601.0,187314.0,180601.0,,,-
+F0012,2024-25,reformed,Australian Gas Networks (Vic) Pty Ltd,Australian Gas Networks Holding Pty Ltd,VIC,Gas supply (270),110234.0,111347.0,110234.0,,,-
+F0013,2024-25,reformed,Ballera,Santos Limited,QLD,Oil and gas extraction (070),104065.0,149747.0,104065.0,,,-
+F0014,2024-25,reformed,Baralaba Coal Mine,BARALABA COAL COMPANY PTY LTD ,QLD,Coal mining (060),122977.0,133263.0,122977.0,,,-
+F0015,2024-25,reformed,Batchfire Resources No.1,BATCHFIRE RESOURCES PTY LTD,QLD,Coal mining (060),200861.0,229693.0,229693.0,,448565.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0016,2024-25,reformed,Beaudesert Plant - A J Bush & Sons (Mfrs) P/L,A.J. Bush & Sons (Manufactures) Pty Ltd,QLD,Meat and meat product manufacturing (111),,102839.0,102839.0,,,"The facility has no production variable applicable to its activities, and therefore no baseline has been set by the CER. DCCEEW is considering the setting of a relevant production variable."
+F0017,2024-25,reformed,Beharra Springs,BEACH ENERGY LIMITED,WA,Oil and gas extraction (070),100000.0,128002.0,100000.0,,,-
+F0018,2024-25,reformed,Bell Bay Smelter,RIO TINTO ALUMINIUM (BELL BAY) LIMITED,TAS,Basic non-ferrous metal manufacturing (213),349556.0,341166.0,341166.0,,,-
+F0019,2024-25,reformed,Bengalla Operations,Bengalla Mining Company Pty Limited,NSW,Coal mining (060),526009.0,692775.0,526009.0,,,"As the facility surrendered 30% or more of its baseline in ACCUs, the required written explanation as to why more carbon abatement did not occur at the facility can be found on the baselines and emissions data page."
+F0020,2024-25,reformed,Birkenhead Operations,ADBRI LIMITED,SA,"Cement, lime, plaster and concrete product manufacturing (203)",874516.0,796132.0,796132.0,,,-
+F0021,2024-25,reformed,Blackwater Coal Mine,WHITEHAVEN BLACKWATER PTY LTD,QLD,Coal mining (060),690525.0,801671.0,690525.0,,,-
+F0022,2024-25,reformed,Blair Athol Operations,ORION MINING PTY LTD,QLD,Coal mining (060),100000.0,101931.0,100000.0,,,-
+F0023,2024-25,reformed,Boggabri Coal Minesite,BOGGABRI COAL PTY LIMITED,NSW,Coal mining (060),200054.0,218760.0,200054.0,,,-
+F0024,2024-25,reformed,Boyne Smelters Limited,RIO TINTO ALUMINIUM LIMITED,QLD,Basic non-ferrous metal manufacturing (213),920815.0,943720.0,920815.0,,,-
+F0025,2024-25,reformed,Brockman 2 / Nammuldi Mines,Hamersley Iron Pty. Limited,WA,Metal ore mining (080),152378.0,304904.0,152378.0,,,"As the facility surrendered 30% or more of its baseline in ACCUs, the required written explanation as to why more carbon abatement did not occur at the facility can be found on the baselines and emissions data page."
+F0026,2024-25,reformed,Brockman 4 Mine,Hamersley Iron Pty. Limited,WA,Metal ore mining (080),165060.0,232771.0,165060.0,,,"As the facility surrendered 30% or more of its baseline in ACCUs, the required written explanation as to why more carbon abatement did not occur at the facility can be found on the baselines and emissions data page."
+F0027,2024-25,reformed,Bulga Coal Complex,BULGA COAL MANAGEMENT PTY LIMITED,NSW,Coal mining (060),692463.0,585235.0,585235.0,,,-
+F0028,2024-25,reformed,Burton Complex,BOWEN COKING COAL LIMITED,QLD,Coal mining (060),182836.0,173658.0,173658.0,,,-
+F0029,2024-25,reformed,Byerwen Mine,BYERWEN COAL PTY LTD,QLD,Coal mining (060),248356.0,340920.0,248356.0,,,"As the facility surrendered 30% or more of its baseline in ACCUs, the required written explanation as to why more carbon abatement did not occur at the facility can be found on the baselines and emissions data page."
+F0030,2024-25,reformed,CAN01,South32 Cannington Proprietary Limited,QLD,Metal ore mining (080),106486.0,122968.0,106486.0,,,-
+F0031,2024-25,reformed,Capcoal Mine,ANGLO COAL (CAPCOAL MANAGEMENT) PTY LIMITED,QLD,Coal mining (060),2148463.0,1004050.0,1004050.0,,,-
+F0032,2024-25,reformed,Carborough Downs Coal Mine,FITZROY (CQ) PTY LTD,QLD,Coal mining (060),530894.0,793653.0,530894.0,,,"As the facility surrendered 30% or more of its baseline in ACCUs, the required written explanation as to why more carbon abatement did not occur at the facility can be found on the baselines and emissions data page."
+F0033,2024-25,reformed,Carmichael Coal Mine,Adani Mining Pty Ltd,QLD,Coal mining (060),1021505.0,741002.0,741002.0,,,-
+F0034,2024-25,reformed,Carosue Dam Operations,NORTHERN STAR (CAROSUE DAM) PTY LTD,WA,Metal ore mining (080),100000.0,104670.0,100000.0,,,-
+F0035,2024-25,reformed,Caval Ridge Mine,BM Alliance Coal Operations Pty Limited,QLD,Coal mining (060),283285.0,343254.0,283285.0,,,-
+F0036,2024-25,reformed,CEM NSW Berrima Maldon,Boral Limited,NSW,"Cement, lime, plaster and concrete product manufacturing (203)",944588.0,860111.0,860111.0,,,-
+F0037,2024-25,reformed,Centurion Coal Mine,Centurion Coal Mining Pty Ltd,QLD,Coal mining (060),160736.0,591219.0,160736.0,,,"As the facility surrendered 30% or more of its baseline in ACCUs, the required written explanation as to why more carbon abatement did not occur at the facility can be found on the baselines and emissions data page."
+F0038,2024-25,reformed,Chandala Processing Plant,Tronox Management Pty Ltd,WA,Basic chemical manufacturing (181),193612.0,214468.0,193612.0,,,-
+F0039,2024-25,reformed,Christmas Creek Mine,CHICHESTER METALS PTY LTD,WA,Metal ore mining (080),352267.0,372827.0,372827.0,,745078.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0040,2024-25,reformed,Clermont Coal Operations,Clermont Coal Operations Pty Limited,QLD,Coal mining (060),187630.0,145229.0,145229.0,,,-
+F0041,2024-25,reformed,Cloudbreak Mine,CHICHESTER METALS PTY LTD,WA,Metal ore mining (080),247491.0,332001.0,247491.0,,,-
+F0042,2024-25,reformed,Cockburn Operations,ADBRI LIMITED,WA,"Cement, lime, plaster and concrete product manufacturing (203)",503740.0,524450.0,503740.0,,,-
+F0043,2024-25,reformed,Collinsvile Mine,NC COAL COMPANY PTY LIMITED,QLD,Coal mining (060),100000.0,67076.0,67076.0,,,The facility is an eligible facility under 58B.
+F0044,2024-25,reformed,Condabri Talinga Orana,ORIGIN ENERGY UPSTREAM OPERATOR PTY LTD,QLD,Oil and gas extraction (070),381411.0,247011.0,247011.0,,,-
+F0045,2024-25,reformed,Cook Colliery,Constellation Mining Pty Ltd,QLD,Coal mining (060),106479.0,142267.0,106479.0,,,"As the facility surrendered 30% or more of its baseline in ACCUs, the required written explanation as to why more carbon abatement did not occur at the facility can be found on the baselines and emissions data page."
+F0046,2024-25,reformed,Coppabella Coal Mine,PEABODY ENERGY AUSTRALIA PCI (C&M MANAGEMENT) PTY LTD,QLD,Coal mining (060),156190.0,208542.0,156190.0,,,-
+F0047,2024-25,reformed,CSBP Kwinana Facility,CSBP Limited,WA,Fertiliser and pesticide manufacturing (183),692197.0,641327.0,641327.0,,,-
+F0048,2024-25,reformed,CTC WA Facility,CENTURION TRANSPORT CO. PTY LTD,WA,Road freight transport (461),119456.0,118994.0,118994.0,,,-
+F0049,2024-25,reformed,Curragh Mine,CORONADO AUSTRALIA HOLDINGS PTY LTD,QLD,Coal mining (060),535181.0,1093183.0,1093183.0,,2002616.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0050,2024-25,reformed,Curtis Island GLNG Plant,GLNG OPERATIONS PTY LTD,QLD,Oil and gas extraction (070),1610744.0,1677171.0,1610744.0,,,-
+F0051,2024-25,reformed,Darwin LNG Plant,Santos Limited,NT,Oil and gas extraction (070),100000.0,10063.0,10063.0,,,The facility is an eligible facility under 58B.
+F0052,2024-25,reformed,Daunia Coal Mine,WHITEHAVEN DAUNIA PTY LTD,QLD,Coal mining (060),277375.0,209969.0,209969.0,,,-
+F0053,2024-25,reformed,Dawson Mine,ANGLO COAL (DAWSON MANAGEMENT) PTY LTD,QLD,Coal mining (060),492550.0,574390.0,492550.0,,,-
+F0054,2024-25,reformed,DBNGP,DBNGP (WA) Transmission Pty Limited,WA,Pipeline and other transport (502),232997.0,211921.0,211921.0,,729123.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0055,2024-25,reformed,DEN01,Dendrobium Coal Pty Ltd,NSW,Coal mining (060),199253.0,477762.0,199253.0,,,"As the facility surrendered 30% or more of its baseline in ACCUs, the required written explanation as to why more carbon abatement did not occur at the facility can be found on the baselines and emissions data page."
+F0056,2024-25,reformed,Dongara Operations,ADBRI LIMITED,WA,"Cement, lime, plaster and concrete product manufacturing (203)",100000.0,91814.0,91814.0,,,The facility is an eligible facility under 58B.
+F0057,2024-25,reformed,Drake Mine,Drake Mine Management Pty Ltd,QLD,Coal mining (060),213653.0,235637.0,213653.0,,,-
+F0058,2024-25,reformed,Duketon South Operations,Regis Resources Limited,WA,Metal ore mining (080),167545.0,164526.0,164526.0,,,-
+F0059,2024-25,reformed,Eliwana Mine,FMG SOLOMON PTY LTD,WA,Metal ore mining (080),157344.0,178715.0,178715.0,,343609.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0060,2024-25,reformed,Ensham Coal Mine,ENSHAM RESOURCES PTY. LIMITED,QLD,Coal mining (060),292941.0,261158.0,261158.0,,,"The responsible emitter was required to relinquish units, which they did via relinquishing 10,853 SMCs."
+F0061,2024-25,reformed,Fairview,Santos Limited,QLD,Oil and gas extraction (070),264027.0,162315.0,162315.0,,,-
+F0062,2024-25,reformed,Fimiston Operations,KALGOORLIE CONSOLIDATED GOLD MINES PTY LTD,WA,Metal ore mining (080),125151.0,271036.0,125151.0,,,"As the facility surrendered 30% or more of its baseline in ACCUs, the required written explanation as to why more carbon abatement did not occur at the facility can be found on the baselines and emissions data page."
+F0063,2024-25,reformed,Fisherman's Landing - Clinker & Cement,CEMENT AUSTRALIA (QUEENSLAND) PTY LIMITED,QLD,"Cement, lime, plaster and concrete product manufacturing (203)",1291368.0,1338072.0,1291368.0,,,-
+F0064,2024-25,reformed,Fisherman's Landing - Lime,CEMENT AUSTRALIA (QUEENSLAND) PTY LIMITED,QLD,"Cement, lime, plaster and concrete product manufacturing (203)",173709.0,191984.0,173709.0,,,-
+F0065,2024-25,reformed,FLNG,SHELL AUSTRALIA PTY LTD,WA,Oil and gas extraction (070),3675438.0,2253798.0,2253798.0,,,-
+F0066,2024-25,reformed,Foxleigh Mine,FOXLEIGH MANAGEMENT PTY LTD,QLD,Coal mining (060),206135.0,266489.0,206135.0,,,-
+F0067,2024-25,reformed,Geelong Refinery,Viva Energy Refining Pty Ltd,VIC,Petroleum and coal product manufacturing (170),954727.0,1061314.0,954727.0,,,-
+F0068,2024-25,reformed,GEM01,Groote Eylandt Mining Company Proprietary Limited,NT,Metal ore mining (080),100000.0,135299.0,100000.0,,,-
+F0236,2024-25,reformed,Gibson Island,DYNO NOBEL LIMITED,QLD,Fertiliser and pesticide manufacturing (183),100000.0,294.0,294.0,,,The facility is an eligible facility under 58B.
+F0070,2024-25,reformed,Gippsland Basin facility,ESSO AUSTRALIA RESOURCES PTY LTD,VIC,Oil and gas extraction (070),1329204.0,1634475.0,1329203.0,,,-
+F0071,2024-25,reformed,Goldfields Gas Transmission Pipeline,Goldfields Gas Transmission Pty Ltd,WA,Pipeline and other transport (502),100000.0,95267.0,95267.0,,,The facility is an eligible facility under 58B.
+F0072,2024-25,reformed,Goonyella Broadmeadow Mine,BM Alliance Coal Operations Pty Limited,QLD,Coal mining (060),890016.0,1358763.0,890016.0,,,"As the facility surrendered 30% or more of its baseline in ACCUs, the required written explanation as to why more carbon abatement did not occur at the facility can be found on the baselines and emissions data page."
+F0073,2024-25,reformed,Gorgon Operations,CHEVRON AUSTRALIA PTY LTD,WA,Oil and gas extraction (070),8543442.0,9021856.0,8543442.0,,,-
+F0074,2024-25,reformed,Gove Operations,RTA GOVE PTY LIMITED,NT,Basic non-ferrous metal manufacturing (213),108964.0,135550.0,108964.0,,,-
+F0075,2024-25,reformed,Granny Smith Mine Site,GSM MINING COMPANY PTY LTD,WA,Metal ore mining (080),106554.0,123215.0,106554.0,,,-
+F0076,2024-25,reformed,Greenbushes Lithium Operation,Talison Lithium Australia Pty Ltd,WA,Metal ore mining (080),100000.0,127780.0,100000.0,,,-
+F0077,2024-25,reformed,Grosvenor Mine,ANGLO COAL (MORANBAH NORTH MANAGEMENT) PTY LIMITED,QLD,Coal mining (060),100000.0,24626.0,24626.0,,,The facility is an eligible facility under 58B.
+F0078,2024-25,reformed,Gruyere Mine Site,Gruyere Mining Company Pty Ltd,WA,Metal ore mining (080),190697.0,267882.0,190697.0,,,"As the facility surrendered 30% or more of its baseline in ACCUs, the required written explanation as to why more carbon abatement did not occur at the facility can be found on the baselines and emissions data page."
+F0079,2024-25,reformed,Hail Creek Mine,HAIL CREEK COAL PTY LTD,QLD,Coal mining (060),1237293.0,987836.0,987836.0,,,-
+F0080,2024-25,reformed,Hope Downs 1 Mine,Hamersley HMS Pty Ltd,WA,Metal ore mining (080),100000.0,161539.0,100000.0,,,"As the facility surrendered 30% or more of its baseline in ACCUs, the required written explanation as to why more carbon abatement did not occur at the facility can be found on the baselines and emissions data page."
+F0081,2024-25,reformed,Hope Downs 4 Mine,Hamersley HMS Pty Ltd,WA,Metal ore mining (080),100000.0,143256.0,100000.0,,,"As the facility surrendered 30% or more of its baseline in ACCUs, the required written explanation as to why more carbon abatement did not occur at the facility can be found on the baselines and emissions data page."
+F0082,2024-25,reformed,Hunter Valley Operations mine,HV OPERATIONS PTY LTD,NSW,Coal mining (060),630086.0,670583.0,630086.0,,,-
+F0083,2024-25,reformed,HVY01 Hunter Valley Energy Coal - CCL Facility,Hunter Valley Energy Coal Pty Ltd,NSW,Coal mining (060),538040.0,548294.0,538040.0,,,-
+F0084,2024-25,reformed,InfraBuild Steel - Laverton Steel Mill,THE AUSTRALIAN STEEL COMPANY (OPERATIONS) PTY LTD,VIC,Basic ferrous metal manufacturing (211),105155.0,111329.0,105155.0,,,-
+F0085,2024-25,reformed,Integra Underground Mine,HV Coking Coal Pty Limited,NSW,Coal mining (060),100000.0,153496.0,100000.0,,,-
+F0086,2024-25,reformed,Iron Bridge Mine,IB Operations Pty Ltd,WA,Metal ore mining (080),100000.0,156160.0,100000.0,,,-
+F0087,2024-25,reformed,Isaac Plains Complex,STANMORE RESOURCES LIMITED,QLD,Coal mining (060),159941.0,207822.0,159941.0,,,-
+F0088,2024-25,reformed,Jax Mine,Jax Coal Pty Ltd,QLD,Coal mining (060),110693.0,114373.0,110693.0,,,-
+F0089,2024-25,reformed,Jellinbah Mine,JELLINBAH MINING PTY LTD,QLD,Coal mining (060),337996.0,406136.0,337996.0,,,-
+F0090,2024-25,reformed,JGN,Jemena Gas Networks (NSW) Ltd,NSW,Gas supply (270),314603.0,272434.0,272434.0,,,-
+F0091,2024-25,reformed,Jimblebar Mine,BHP IRON ORE PTY LTD,WA,Metal ore mining (080),278021.0,341862.0,278021.0,,,-
+F0092,2024-25,reformed,Jundee Gold Mine,NORTHERN STAR RESOURCES LIMITED,WA,Metal ore mining (080),140519.0,115913.0,115913.0,,,-
+F0093,2024-25,reformed,Karlawinda Gold Project,Capricorn Metals Limited,WA,Metal ore mining (080),100000.0,109583.0,100000.0,,,-
+F0094,2024-25,reformed,Kemerton Silicon Smelter,SIMCOA OPERATIONS PTY. LTD.,WA,Basic non-ferrous metal manufacturing (213),100000.0,112136.0,112136.0,,112136.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0095,2024-25,reformed,Kestrel Mine,Kestrel Coal Group Pty Ltd,QLD,Coal mining (060),708388.0,1263099.0,708388.0,,,"As the facility surrendered 30% or more of its baseline in ACCUs, the required written explanation as to why more carbon abatement did not occur at the facility can be found on the baselines and emissions data page."
+F0096,2024-25,reformed,King of the Hills,GREENSTONE RESOURCES (WA) PTY LTD,WA,Metal ore mining (080),158105.0,136354.0,136354.0,,,-
+F0097,2024-25,reformed,Koodaideri Mine,Mount Bruce Mining Pty Ltd,WA,Metal ore mining (080),593864.0,150607.0,150607.0,,,-
+F0098,2024-25,reformed,Kooragang Island,ORICA AUSTRALIA PTY LTD,NSW,Other basic chemical product manufacturing (189),921488.0,582845.0,919022.0,,,-
+F0099,2024-25,reformed,Kwinana Alumina Refinery,Alcoa of Australia Limited,WA,Basic non-ferrous metal manufacturing (213),100000.0,139861.0,100000.0,,,-
+F0100,2024-25,reformed,Kwinana Pigment Plant,Tronox Management Pty Ltd,WA,Basic chemical manufacturing (181),278742.0,311831.0,278742.0,,,-
+F0101,2024-25,reformed,Lake Vermont Mine,THIESS PTY LTD,QLD,Coal mining (060),294328.0,318955.0,294328.0,,,-
+F0102,2024-25,reformed,Leinster Power Station,TEC DESERT PTY LTD,WA,Electricity generation (261),100000.0,83141.0,83141.0,,,The facility is an eligible facility under 58B.
+F0103,2024-25,reformed,Liberty Bell Bay,Liberty Bell Bay Pty Ltd,TAS,Basic ferrous metal manufacturing (211),150481.0,189872.0,189872.0,,,Please refer to the excess emissions situation table for more information.
+F0104,2024-25,reformed,Liberty Primary Steel Whyalla Steelworks,ONESTEEL MANUFACTURING PTY LIMITED,SA,Basic ferrous metal manufacturing (211),838562.0,1287610.0,1089607.0,,,Please refer to the excess emissions situation table for more information.
+F0105,2024-25,reformed,Macedon,WOODSIDE ENERGY GLOBAL PTY LTD,WA,Oil and gas extraction (070),100000.0,113092.0,100000.0,,,-
+F0106,2024-25,reformed,Mandalong Mine,CENTENNIAL MANDALONG PTY LIMITED,NSW,Coal mining (060),473844.0,632944.0,473844.0,,,-
+F0107,2024-25,reformed,Mangoola,MANGOOLA COAL OPERATIONS PTY LIMITED,NSW,Coal mining (060),174392.0,143013.0,143013.0,,,-
+F0108,2024-25,reformed,Marandoo Mine,Hamersley Iron Pty. Limited,WA,Metal ore mining (080),100000.0,153982.0,100000.0,,,"As the facility surrendered 30% or more of its baseline in ACCUs, the required written explanation as to why more carbon abatement did not occur at the facility can be found on the baselines and emissions data page."
+F0109,2024-25,reformed,Maules Creek Open Cut Mine,MAULES CREEK COAL PTY LTD,NSW,Coal mining (060),285862.0,283315.0,283315.0,,,-
+F0110,2024-25,reformed,McArthur River Mine Operations,MCARTHUR RIVER MINING PTY. LTD.,NT,Metal ore mining (080),100000.0,118072.0,100000.0,,,-
+F0111,2024-25,reformed,McArthur River Power Station,EDL NGD (NT) Pty Ltd,NT,Electricity generation (261),132352.0,154742.0,132352.0,,,-
+F0112,2024-25,reformed,Metropolitan Colliery,METROPOLITAN COLLIERIES PTY. LTD.,NSW,Coal mining (060),570173.0,780758.0,570173.0,,,-
+F0113,2024-25,reformed,Middlemount Coal Mine,Middlemount Coal Pty Ltd,QLD,Coal mining (060),232392.0,272169.0,232392.0,,,-
+F0114,2024-25,reformed,Montara Operations,JADESTONE ENERGY (EAGLE) PTY LTD,NT,Oil and gas extraction (070),121399.0,284110.0,121399.0,,,"As the facility surrendered 30% or more of its baseline in ACCUs, the required written explanation as to why more carbon abatement did not occur at the facility can be found on the baselines and emissions data page."
+F0115,2024-25,reformed,Moolarben Coal Mine (Open Cut & Underground),MOOLARBEN COAL OPERATIONS PTY LTD,NSW,Coal mining (060),273084.0,233290.0,233290.0,,,-
+F0116,2024-25,reformed,Moomba Plant,Santos Limited,SA,Oil and gas extraction (070),1782513.0,1078118.0,1078118.0,,,-
+F0117,2024-25,reformed,Moorvale Coal Mine,PEABODY ENERGY AUSTRALIA PCI (C&M MANAGEMENT) PTY LTD,QLD,Coal mining (060),128337.0,133838.0,128337.0,,,-
+F0246,2024-25,reformed,Moranbah,DYNO NOBEL LIMITED,QLD,Other basic chemical product manufacturing (189),387571.0,309375.0,309375.0,,,-
+F0119,2024-25,reformed,Moranbah North Mine,ANGLO COAL (MORANBAH NORTH MANAGEMENT) PTY LIMITED,QLD,Coal mining (060),645924.0,1406857.0,645924.0,,,-
+F0120,2024-25,reformed,Mount Isa Mines Copper and Zinc Operations,MOUNT ISA MINES LIMITED,QLD,Metal ore mining (080),271071.0,331193.0,271071.0,,,-
+F0121,2024-25,reformed,Mount Pleasant Operations,MACH Energy Australia Pty Ltd,NSW,Coal mining (060),239365.0,221984.0,221984.0,,,-
+F0122,2024-25,reformed,Mt Keith Power Station,TEC DESERT PTY LTD,WA,Electricity generation (261),100000.0,52880.0,52880.0,,,The facility is an eligible facility under 58B.
+F0123,2024-25,reformed,Mt Owen Glendell Complex,MT OWEN PTY LIMITED,NSW,Coal mining (060),188003.0,223994.0,188003.0,,,-
+F0124,2024-25,reformed,Multinet Principal Distribution Network and South Gippsland Pipeline,MULTINET GAS (DB NO. 2) PTY LTD,VIC,Gas supply (270),142863.0,162902.0,142863.0,,,-
+F0125,2024-25,reformed,Murrin Murrin Operations,MURRIN MURRIN OPERATIONS PTY LTD,WA,Metal ore mining (080),465620.0,508542.0,465620.0,,,-
+F0126,2024-25,reformed,Myuna Colliery,CENTENNIAL MYUNA PTY LIMITED,NSW,Coal mining (060),266812.0,176131.0,176131.0,,,-
+F0127,2024-25,reformed,Narrabri Underground Mine,Narrabri Coal Operations Pty Ltd,NSW,Coal mining (060),322834.0,511474.0,322834.0,,,"As the facility surrendered 30% or more of its baseline in ACCUs, the required written explanation as to why more carbon abatement did not occur at the facility can be found on the baselines and emissions data page."
+F0128,2024-25,reformed,Newlands Coal Complex including Newlands Northern UG,NC COAL COMPANY PTY LIMITED,QLD,Coal mining (060),100000.0,101144.0,100000.0,,,-
+F0129,2024-25,reformed,Newman Operations,BHP IRON ORE PTY LTD,WA,Metal ore mining (080),282096.0,347444.0,282096.0,,,-
+F0130,2024-25,reformed,Newman Power Station,APA TRANSMISSION (ROY HILL) PTY LTD,WA,Electricity generation (261),496339.0,381037.0,444125.0,,,-
+F0131,2024-25,reformed,Newmont Boddington Gold Operation,Newmont Boddington Pty Ltd,WA,Metal ore mining (080),194483.0,218347.0,194483.0,,,-
+F0132,2024-25,reformed,Newmont Tanami Operation,Newmont Tanami Pty Ltd,NT,Metal ore mining (080),186772.0,206504.0,186772.0,,,-
+F0133,2024-25,reformed,Ningaloo Vision FPSO,Santos Limited,WA,Oil and gas extraction (070),180651.0,159413.0,159413.0,,,-
+F0134,2024-25,reformed,NKS01 Nickel West Kalgoorlie Facility,BHP NICKEL WEST PTY LTD,WA,Basic non-ferrous metal manufacturing (213),100000.0,32038.0,32038.0,,,The facility is an eligible facility under 58B.
+F0135,2024-25,reformed,NKW01 Nickel West Kwinana Facility,BHP NICKEL WEST PTY LTD,WA,Basic non-ferrous metal manufacturing (213),100000.0,59573.0,59573.0,,,The facility is an eligible facility under 58B.
+F0136,2024-25,reformed,NMK01 Nickel West Mt Keith Facility,BHP NICKEL WEST PTY LTD,WA,Metal ore mining (080),100000.0,32437.0,32437.0,,,The facility is an eligible facility under 58B.
+F0248,2024-25,reformed,Norske Skog Boyer Mill,Boyer Paper Mill Limited,TAS,"Pulp, paper and paperboard manufacturing (151)",155581.0,175088.0,155581.0,,,-
+F0138,2024-25,reformed,North West Shelf Project,Woodside Energy Ltd.,WA,Oil and gas extraction (070),4829212.0,5750304.0,4829209.0,,,-
+F0139,2024-25,reformed,Nowra Plant,Shoalhaven Starches Pty Ltd,NSW,Grain mill and cereal product manufacturing (116),445991.0,399535.0,399535.0,,,-
+F0140,2024-25,reformed,Nyrstar Port Pirie Facility,Nyrstar Port Pirie Pty Ltd,SA,Basic non-ferrous metal manufacturing (213),426225.0,426225.0,426225.0,,,-
+F0141,2024-25,reformed,Oaky Creek Coal Complex,OAKY CREEK HOLDINGS PTY LIMITED,QLD,Coal mining (060),618093.0,838833.0,618093.0,,,-
+F0142,2024-25,reformed,ODS01 Olympic Dam – UOD Facility,BHP OLYMPIC DAM CORPORATION PTY LTD,SA,Metal ore mining (080),228123.0,229988.0,228123.0,,,-
+F0143,2024-25,reformed,Olive Downs Complex,PEMBROKE RESOURCES NOMINEE PTY LTD,QLD,Coal mining (060),100000.0,392766.0,100000.0,,,"As the facility surrendered 30% or more of its baseline in ACCUs, the required written explanation as to why more carbon abatement did not occur at the facility can be found on the baselines and emissions data page."
+F0144,2024-25,reformed,Onslow Haul Road,ONSLOW INFRACO PTY LTD,WA,Road freight transport (461),100000.0,126242.0,100000.0,,,-
+F0145,2024-25,reformed,Opal Australian Paper Maryvale Mill,PAPER AUSTRALIA PTY LTD,VIC,"Pulp, paper and paperboard manufacturing (151)",219114.0,173712.0,173712.0,,,-
+F0146,2024-25,reformed,Orora Glass Plant Gawler,Orora Limited,SA,Glass and glass product manufacturing (201),153086.0,134492.0,134492.0,,,-
+F0147,2024-25,reformed,Otway,BEACH ENERGY LIMITED,VIC,Oil and gas extraction (070),228318.0,226056.0,226056.0,,,-
+F0148,2024-25,reformed,Pacific National National Transport Facility,PACIFIC NATIONAL PTY LTD,National,Rail freight transport (471),643198.0,728189.0,643198.0,,,-
+F0149,2024-25,reformed,Paraburdoo Mine,Hamersley Iron Pty. Limited,WA,Metal ore mining (080),100000.0,139337.0,75430.0,,,-
+F0150,2024-25,reformed,Parkhurst Magnesia Manufacturing Plant,QMAG PTY LIMITED,QLD,Other non-metallic mineral product manufacturing (209),264318.0,264019.0,264019.0,,,-
+F0151,2024-25,reformed,Peak Downs Mine,BM Alliance Coal Operations Pty Limited,QLD,Coal mining (060),431563.0,480592.0,431563.0,,,-
+F0250,2024-25,reformed,Phosphate Hill,DYNO NOBEL LIMITED,QLD,Fertiliser and pesticide manufacturing (183),446062.0,472151.0,446062.0,,,-
+F0153,2024-25,reformed,Pilbara Rail Operations,PILBARA IRON PTY LTD,WA,Rail freight transport (471),569672.0,651125.0,569672.0,,,-
+F0251,2024-25,reformed,Pilgangoora Operations,PLS GROUP LIMITED,WA,Metal ore mining (080),145243.0,167449.0,145243.0,,,-
+F0155,2024-25,reformed,Pinjarra Alumina Refinery,Alcoa of Australia Limited,WA,Basic non-ferrous metal manufacturing (213),1434251.0,1268082.0,1268082.0,,,-
+F0156,2024-25,reformed,Pluto LNG,Woodside Burrup Pty. Ltd.,WA,Oil and gas extraction (070),1743127.0,1888110.0,1743127.0,,,-
+F0157,2024-25,reformed,Poitrel Mine,STANMORE RESOURCES LIMITED,QLD,Coal mining (060),248897.0,309856.0,248897.0,,,-
+F0158,2024-25,reformed,Port Bonython Plant,Santos Limited,SA,Oil and gas extraction (070),100000.0,77542.0,77542.0,,,The facility is an eligible facility under 58B.
+F0159,2024-25,reformed,Port Kembla Steelworks,BLUESCOPE STEEL (AIS) PTY. LTD.,NSW,Basic ferrous metal manufacturing (211),6350820.0,6061526.0,6061526.0,,,-
+F0160,2024-25,reformed,Port Latta Pelletising Plant,GRANGE RESOURCES (TASMANIA) PTY LTD,TAS,Basic ferrous product manufacturing (212),111438.0,105870.0,105870.0,,,-
+F0161,2024-25,reformed,Portland Aluminium Smelter,Alcoa Portland Aluminium Proprietary Limited,VIC,Basic non-ferrous metal manufacturing (213),563872.0,600011.0,563872.0,,,-
+F0162,2024-25,reformed,Premier Coal Mine (Open Cut),Premier Coal Pty Ltd,WA,Coal mining (060),100000.0,106030.0,100000.0,,,-
+F0163,2024-25,reformed,PRL03 Rail - IOR Facility,BHP IRON ORE PTY LTD,WA,Rail freight transport (471),503836.0,552076.0,503836.0,,,-
+F0164,2024-25,reformed,Qantas Airways Limited - National Facility,Qantas Airways Limited,National,Air and space transport (490),4404094.0,4622401.0,4404094.0,,,-
+F0165,2024-25,reformed,Qenos Altona Manufacturing,QENOS PTY LTD,VIC,Basic chemical manufacturing (181),100000.0,68353.0,68353.0,,,The facility is an eligible facility under 58B.
+F0166,2024-25,reformed,Qenos Botany Manufacturing,QENOS PTY LTD,NSW,Basic chemical manufacturing (181),100000.0,31016.0,31016.0,,,The facility is an eligible facility under 58B.
+F0167,2024-25,reformed,QGC Upstream,QGC PTY LIMITED,QLD,Oil and gas extraction (070),907237.0,845251.0,845251.0,,,-
+F0168,2024-25,reformed,Queensland Alumina Limited Refinery,QUEENSLAND ALUMINA LIMITED,QLD,Basic non-ferrous metal manufacturing (213),2814233.0,3169994.0,2814233.0,,,-
+F0169,2024-25,reformed,Queensland Curtis LNG Plant,QCLNG Operating Company Pty Ltd,QLD,Oil and gas extraction (070),1704155.0,1861809.0,1704155.0,,,-
+F0170,2024-25,reformed,Queensland Nitrates Ammonium Nitrate Plant,Queensland Nitrates Pty Ltd,QLD,Basic chemical manufacturing (181),162397.0,163243.0,162397.0,,,-
+F0171,2024-25,reformed,Rail,THE PILBARA INFRASTRUCTURE PTY LTD,WA,Rail freight transport (471),240979.0,264806.0,240979.0,,,-
+F0172,2024-25,reformed,Railton,CEMENT AUSTRALIA (GOLIATH) PTY LIMITED,TAS,"Cement, lime, plaster and concrete product manufacturing (203)",1026842.0,1102707.0,1026842.0,,,-
+F0173,2024-25,reformed,Ravensthorpe Nickel Operation,FQM Australia Nickel Pty Ltd,WA,Metal ore mining (080),100000.0,5876.0,5876.0,,,The facility is an eligible facility under 58B.
+F0174,2024-25,reformed,Ravenswood Mine,RAVENSWOOD GOLD PTY LTD,QLD,Metal ore mining (080),214665.0,143978.0,143978.0,,,-
+F0175,2024-25,reformed,Ravensworth Operations,RAVENSWORTH OPERATIONS PTY LIMITED,NSW,Coal mining (060),295410.0,331739.0,295410.0,,,-
+F0176,2024-25,reformed,Refinery Qld Lytton,Ampol Limited,QLD,Petroleum and coal product manufacturing (170),596810.0,644669.0,596810.0,,,-
+F0177,2024-25,reformed,Rio Tinto Marine - Qld,Rio Tinto Shipping (Asia) Pte Limited,QLD,Water freight transport (481),100000.0,79666.0,79666.0,,,The facility is an eligible facility under 58B.
+F0178,2024-25,reformed,Rio Tinto Weipa,RTA WEIPA PTY LTD,QLD,Metal ore mining (080),243584.0,277044.0,243584.0,,,-
+F0179,2024-25,reformed,Rio Tinto Yarwun,RTA Yarwun Pty Ltd,QLD,Basic non-ferrous metal manufacturing (213),1910570.0,2045310.0,1910570.0,,,-
+F0180,2024-25,reformed,Rolleston Coal Mine,ROLLESTON COAL HOLDINGS PTY LIMITED,QLD,Coal mining (060),181244.0,196617.0,181244.0,,,-
+F0181,2024-25,reformed,Roma Hub,Santos Limited,QLD,Oil and gas extraction (070),152421.0,105321.0,105321.0,,,-
+F0182,2024-25,reformed,Roy Hill Mine,Roy Hill Holdings Pty Ltd,WA,Metal ore mining (080),393393.0,480607.0,393393.0,,,-
+F0183,2024-25,reformed,Russell Vale Colliery,WOLLONGONG RESOURCES PTY. LTD.,NSW,Coal mining (060),89800.0,160035.0,160035.0,,160035.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0184,2024-25,reformed,Saraji Mine,BM Alliance Coal Operations Pty Limited,QLD,Coal mining (060),349197.0,383551.0,349197.0,,,-
+F0185,2024-25,reformed,Savage River Mine,GRANGE RESOURCES (TASMANIA) PTY LTD,TAS,Metal ore mining (080),100000.0,110066.0,110066.0,,229224.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0186,2024-25,reformed,Sewerage West,Melbourne Water Corporation,VIC,"Water supply, sewerage and drainage services (281)",128649.0,146528.0,126528.0,,,-
+F0187,2024-25,reformed,SIMEC Mining - Middleback Range Iron Ore Mine (Whyalla),ONESTEEL MANUFACTURING PTY LIMITED,SA,Metal ore mining (080),100000.0,61296.0,61296.0,,,The facility is an eligible facility under 58B.
+F0188,2024-25,reformed,Sino Iron Project – Cape Preston,CITIC Pacific Mining Management Pty Ltd,WA,Metal ore mining (080),792477.0,836882.0,792477.0,,,-
+F0189,2024-25,reformed,Solomon Mine,FMG SOLOMON PTY LTD,WA,Metal ore mining (080),357442.0,470534.0,357442.0,,,-
+F0190,2024-25,reformed,Solomon Power Station,FMG SOLOMON PTY LTD,WA,Electricity generation (261),474965.0,436601.0,436601.0,,,-
+F0191,2024-25,reformed,South Walker Creek,STANMORE RESOURCES LIMITED,QLD,Coal mining (060),361841.0,508592.0,361841.0,,,-
+F0192,2024-25,reformed,South West Queensland Pipeline,APA (SWQP) PTY LIMITED,QLD; SA,Pipeline and other transport (502),124644.0,140864.0,124642.0,,,-
+F0193,2024-25,reformed,South West Synthetic Rutile Operations,Iluka Resources Limited,WA,Metal ore mining (080),238856.0,285198.0,238856.0,,,-
+F0194,2024-25,reformed,Spring Gully Reedy Creek Combabula,ORIGIN ENERGY UPSTREAM OPERATOR PTY LTD,QLD,Oil and gas extraction (070),422811.0,316959.0,316959.0,,,-
+F0195,2024-25,reformed,Start up and Operations of the Ichthys LNG Project,INPEX Operations Australia Pty Ltd,NT,Oil and gas extraction (070),6322859.0,6255335.0,6255335.0,,,-
+F0196,2024-25,reformed,Sunrise Dam,AngloGold Ashanti Australia Limited,WA,Metal ore mining (080),137390.0,163952.0,137390.0,,,-
+F0197,2024-25,reformed,TAHMOOR COAL MINE,TAHMOOR COAL PTY LTD,NSW,Coal mining (060),731110.0,757886.0,757886.0,,,Please refer to the excess emissions situation table for more information.
+F0198,2024-25,reformed,Telfer Gold Mine,Newcrest Mining Limited,WA,Metal ore mining (080),143577.0,119821.0,119821.0,,,-
+F0198,2024-25,reformed,Telfer Gold Mine,GREATLAND HOLDINGS GROUP PTY LTD,WA,Metal ore mining (080),192357.0,261212.0,192357.0,,,"As the facility surrendered 30% or more of its baseline in ACCUs, the required written explanation as to why more carbon abatement did not occur at the facility can be found on the baselines and emissions data page."
+F0200,2024-25,reformed,Thunderbox Operations,NORTHERN STAR (THUNDERBOX) PTY LTD,WA,Metal ore mining (080),180197.0,190387.0,180197.0,,,-
+F0201,2024-25,reformed,Tom Price Mine / WTS,Hamersley Iron Pty. Limited,WA,Metal ore mining (080),138056.0,172874.0,138056.0,,,-
+F0202,2024-25,reformed,Tomago Aluminium Smelter,TOMAGO ALUMINIUM COMPANY PTY LTD,NSW,Basic non-ferrous metal manufacturing (213),1030974.0,1087025.0,1030974.0,,,-
+F0203,2024-25,reformed,Tropicana Gold Mine,AngloGold Ashanti Australia Limited,WA,Metal ore mining (080),285439.0,280553.0,280553.0,,,-
+F0204,2024-25,reformed,TT-Line - Victorian Operation,TT-Line Company Pty. Ltd.,VIC,Water passenger transport (482),112369.0,154713.0,112369.0,,,"As the facility surrendered 30% or more of its baseline in ACCUs, the required written explanation as to why more carbon abatement did not occur at the facility can be found on the baselines and emissions data page."
+F0205,2024-25,reformed,United Coal Mine,UNITED COLLIERIES PTY LTD,NSW,Coal mining (060),270767.0,488260.0,270767.0,,,-
+F0206,2024-25,reformed,V/Line,V/Line Corporation,VIC,Rail passenger transport (472),168013.0,151324.0,151324.0,,,-
+F0207,2024-25,reformed,Vales Point Power Station,Delta Power & Energy Pty Ltd,NSW,Coal mining (060),485087.0,563387.0,485087.0,,,-
+F0208,2024-25,reformed,Varanus Hub,Santos Limited,WA,Oil and gas extraction (070),227595.0,312681.0,227595.0,,,-
+F0209,2024-25,reformed,Vincent Project Venture,Woodside Energy Ltd.,WA,Oil and gas extraction (070),261109.0,282383.0,261108.0,,,-
+F0210,2024-25,reformed,Virgin Australia Holdings National Transport Facility,VIRGIN AUSTRALIA HOLDINGS LIMITED,National,Air and space transport (490),2267645.0,2215462.0,2215462.0,,,-
+F0211,2024-25,reformed,WA Transport facility,MGM BULK PTY LTD,WA,Road freight transport (461),100000.0,109830.0,100000.0,,,-
+F0212,2024-25,reformed,Wagerup Alumina Refinery,Alcoa of Australia Limited,WA,Basic non-ferrous metal manufacturing (213),1217338.0,1306994.0,1217338.0,,,-
+F0213,2024-25,reformed,Wambo Coal Mine,WAMBO COAL PTY LIMITED,NSW,Coal mining (060),193130.0,139316.0,139316.0,,,-
+F0214,2024-25,reformed,Warkworth Mine,Warkworth Mining Ltd,NSW,Coal mining (060),763046.0,1064719.0,763046.0,,,"As the facility surrendered 30% or more of its baseline in ACCUs, the required written explanation as to why more carbon abatement did not occur at the facility can be found on the baselines and emissions data page."
+F0215,2024-25,reformed,West Angelas Mine,Robe River Mining Co. Pty. Ltd.,WA,Metal ore mining (080),204720.0,264443.0,204720.0,,,-
+F0216,2024-25,reformed,West Pilbara Iron Ore Project,ONSLOW IRON PTY LTD,WA,Metal ore mining (080),100000.0,135870.0,100000.0,,,"As the facility surrendered 30% or more of its baseline in ACCUs, the required written explanation as to why more carbon abatement did not occur at the facility can be found on the baselines and emissions data page."
+F0217,2024-25,reformed,Western Port Works,BlueScope Steel Limited,VIC,Basic ferrous metal manufacturing (211),100000.0,81563.0,81563.0,,,The facility is an eligible facility under 58B.
+F0218,2024-25,reformed,Wheatstone Operations,CHEVRON AUSTRALIA PTY LTD,WA,Oil and gas extraction (070),4025022.0,4020667.0,4020667.0,,,-
+F0219,2024-25,reformed,Wilpinjong Coal Mine,WILPINJONG COAL PTY LTD,NSW,Coal mining (060),173119.0,164904.0,164904.0,,,-
+F0220,2024-25,reformed,Wodgina Lithium Project,MARBL Lithium Operations Pty Ltd,WA,Metal ore mining (080),138301.0,169821.0,138301.0,,,-
+F0221,2024-25,reformed,Woodlawn Bioreactor,Veolia Environmental Services (Australia) Pty Ltd,NSW,"Waste treatment, disposal and remediation services (292)",188427.0,133925.0,158845.0,,,The facility is covered by a landfill baseline.
+F0222,2024-25,reformed,WOR01,South32 Worsley Alumina Pty Ltd,WA,Basic non-ferrous metal manufacturing (213),3087049.0,3218588.0,3087049.0,,,-
+F0223,2024-25,reformed,YAN01 Yandi/Marillana Creek Mine - MNG Facility,BHP IRON ORE PTY LTD,WA,Metal ore mining (080),100000.0,106656.0,100000.0,,,-
+F0224,2024-25,reformed,Yandicoogina Mine,Hamersley Iron - Yandi Pty Limited,WA,Metal ore mining (080),123266.0,151953.0,123266.0,,,-
+F0225,2024-25,reformed,Yarnima Power Station,BHP IRON ORE PTY LTD,WA,Electricity generation (261),324820.0,364582.0,324820.0,,,-
+F0226,2024-25,reformed,Yarrabee Coal Mine (Open Cut),YARRABEE COAL COMPANY PTY. LTD.,QLD,Coal mining (060),201079.0,241396.0,201079.0,,,-
+F0227,2024-25,reformed,Yarwun Nitrates,ORICA AUSTRALIA PTY LTD,QLD,Other basic chemical product manufacturing (189),282537.0,80908.0,80908.0,,458247.0,Please refer to the Multi-year monitoring period reported emissions data table for more information.
+F0228,2024-25,reformed,YPF AMMONIA PLANT,Yara Pilbara Fertilisers Pty Ltd,WA,Fertiliser and pesticide manufacturing (183),1680100.0,1637599.0,1637599.0,,,-

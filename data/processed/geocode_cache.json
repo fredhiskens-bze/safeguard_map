@@ -1,0 +1,1899 @@
+{
+ "1. Solid Waste Services - Lucas Heights|NSW": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "2. Solid Waste Services - MRL|VIC": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "APLNG Facility|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "APN01 Appin Colliery - ICH Facility|NSW": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "APU01 Pyrenees - AOA Facility|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "ARC01 Mining Area C - MNG Facility|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "ATCO Gas Australia Pty Ltd|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Angaston Operations|SA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Arcadia|QLD": {
+  "lat": -19.1432945,
+  "lon": 146.8595739,
+  "confidence": "possible",
+  "matched_query": "Arcadia, QLD, Australia",
+  "display_name": "Arcadia, Townsville, Queensland, Australia"
+ },
+ "Arrow Surat Operations|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Ashton Coal Mine (Underground)|NSW": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Aurizon National Transport Facility|National": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Aurizon Rail Freight NSW|NSW": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Aurizon Rail Freight QLD|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Aurizon Rail Freight WA|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "AusNet Gas Services Pty Ltd|VIC": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Australian Gas Networks (SA) Ltd|SA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Australian Gas Networks (Vic) Pty Ltd|VIC": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Ballera|QLD": {
+  "lat": -27.4012301,
+  "lon": 141.8125148,
+  "confidence": "possible",
+  "matched_query": "Ballera, QLD, Australia",
+  "display_name": "Ballera Airport, Durham Downs Road, Durham, Queensland, 4492, Australia"
+ },
+ "Baralaba Coal Mine|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Batchfire Resources No.1|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Beaudesert Plant - A J Bush & Sons (Mfrs) P/L|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Beharra Springs|WA": {
+  "lat": -29.4626921,
+  "lon": 115.1400568,
+  "confidence": "likely",
+  "matched_query": "Beharra Springs, WA, Australia",
+  "display_name": "Beharra Springs Gas Processing Facility, Arrowsmith, Western Australia, 6525, Australia"
+ },
+ "Bell Bay Smelter|TAS": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Bengalla Operations|NSW": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Birkenhead Operations|SA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Blackwater Coal Mine|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Blackwater Mine|QLD": {
+  "lat": -23.944407,
+  "lon": 148.8254096,
+  "confidence": "likely",
+  "matched_query": "Blackwater Mine, QLD, Australia",
+  "display_name": "South Blackwater Mine (closed), Togara, Queensland, 4702, Australia"
+ },
+ "Blair Athol Operations|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Boggabri Coal Minesite|NSW": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Boyne Smelters Limited|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Brockman 2 / Nammuldi Mines|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Brockman 4 Mine|WA": {
+  "lat": -22.6134427,
+  "lon": 117.1738322,
+  "confidence": "likely",
+  "matched_query": "Brockman 4 Mine, WA, Australia",
+  "display_name": "Brockman 4 Mine, Nanutarra, Western Australia, 6751, Australia"
+ },
+ "Bulga Coal Complex|NSW": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Burton Complex|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Byerwen Mine|QLD": {
+  "lat": -21.3335429,
+  "lon": 147.8408615,
+  "confidence": "possible",
+  "matched_query": "Byerwen Mine, QLD, Australia",
+  "display_name": "Byerwen, (Mine Haulage Road), Suttor Creek Mine, Suttor, Queensland, 4743, Australia"
+ },
+ "CAN01|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "CEM NSW Berrima Maldon|NSW": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "CSBP Kwinana Facility|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "CTC WA Facility|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Capcoal Mine|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Carborough Downs Coal Mine|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Carmichael Coal Mine|QLD": {
+  "lat": -22.130175,
+  "lon": 146.4517775,
+  "confidence": "likely",
+  "matched_query": "Carmichael Coal Mine, QLD, Australia",
+  "display_name": "Carmichael Coal Mine, Belyando, Queensland, 4721, Australia"
+ },
+ "Carosue Dam Operations|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Caval Ridge Mine|QLD": {
+  "lat": -22.1591252,
+  "lon": 148.071542,
+  "confidence": "likely",
+  "matched_query": "Caval Ridge Mine, QLD, Australia",
+  "display_name": "Caval Ridge Mine, Moranbah, Queensland, Australia"
+ },
+ "Centurion Coal Mine|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Chain Valley Colliery|NSW": {
+  "lat": -33.1636988,
+  "lon": 151.5500495,
+  "confidence": "likely",
+  "matched_query": "Chain Valley Colliery, NSW, Australia",
+  "display_name": "Chain Valley Colliery, Mannering Park, New South Wales, Australia"
+ },
+ "Chandala Processing Plant|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Christmas Creek Mine|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Clermont Coal Operations|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Cloudbreak Mine|WA": {
+  "lat": -22.3132316,
+  "lon": 119.3469379,
+  "confidence": "likely",
+  "matched_query": "Cloudbreak Mine, WA, Australia",
+  "display_name": "Cloudbreak Iron Ore Mine, Mulga Downs, Western Australia, 6751, Australia"
+ },
+ "Cockburn Operations|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Collinsvile Mine|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Condabri Talinga Orana|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Cook Colliery|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Coppabella Coal Mine|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Cowal Operations|NSW": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Curragh Mine|QLD": {
+  "lat": -23.4731376,
+  "lon": 148.8802936,
+  "confidence": "likely",
+  "matched_query": "Curragh Mine, QLD, Australia",
+  "display_name": "Curragh Mine, Blackwater, Queensland, 4717, Australia"
+ },
+ "Curtis Island GLNG Plant|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "DBNGP|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "DEN01|NSW": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Daandine Operations|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Dandenong|VIC": {
+  "lat": -37.990119,
+  "lon": 145.2098421,
+  "confidence": "possible",
+  "matched_query": "Dandenong, VIC, Australia",
+  "display_name": "Dandenong, Station Street, Dandenong, Melbourne, Victoria, 3175, Australia"
+ },
+ "Darwin LNG Plant|NT": {
+  "lat": -12.5216577,
+  "lon": 130.8654617,
+  "confidence": "low",
+  "matched_query": "Darwin LNG Plant, Northern Territory, Australia",
+  "display_name": "Santos Darwin LNG Power Plant, Wickham, Darwin, Northern Territory, Australia"
+ },
+ "Daunia Coal Mine|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Daunia Mine|QLD": {
+  "lat": -22.0798815,
+  "lon": 148.2991592,
+  "confidence": "likely",
+  "matched_query": "Daunia Mine, QLD, Australia",
+  "display_name": "Daunia Mine, Valkyrie, Queensland, 4742, Australia"
+ },
+ "Dawson Mine|QLD": {
+  "lat": -24.5396121,
+  "lon": 150.0505168,
+  "confidence": "likely",
+  "matched_query": "Dawson Mine, QLD, Australia",
+  "display_name": "Dawson Mine, Kianga, Queensland, 4718, Australia"
+ },
+ "Dongara Operations|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Drake Mine|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Duketon South Operations|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "EGP|NSW; VIC": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Eliwana Mine|WA": {
+  "lat": -22.4104208,
+  "lon": 117.1252017,
+  "confidence": "possible",
+  "matched_query": "Eliwana Mine, WA, Australia",
+  "display_name": "Eliwana Mine Access Road, Mount Sheila, Western Australia, 6751, Australia"
+ },
+ "Ensham Coal Mine|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Ensham Resources Minesite|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "FLNG|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Fairview|QLD": {
+  "lat": -23.6420191,
+  "lon": 149.2982352,
+  "confidence": "possible",
+  "matched_query": "Fairview, QLD, Australia",
+  "display_name": "Fairview, Dingo, Queensland, 4702, Australia"
+ },
+ "Fimiston Operations|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Fisherman's Landing - Clinker & Cement|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Fisherman's Landing - Lime|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Foxleigh Mine|QLD": {
+  "lat": -22.9477068,
+  "lon": 148.7787262,
+  "confidence": "likely",
+  "matched_query": "Foxleigh Mine, QLD, Australia",
+  "display_name": "Foxleigh Mine, Mackenzie River, Queensland, 4705, Australia"
+ },
+ "GEM01|NT": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Geelong Refinery|VIC": {
+  "lat": -38.0768725,
+  "lon": 144.3824223,
+  "confidence": "likely",
+  "matched_query": "Geelong Refinery, VIC, Australia",
+  "display_name": "Viva Energy Geelong Refinery, Corio, Geelong, Victoria, Australia"
+ },
+ "Gibson Island|QLD": {
+  "lat": -27.4365655,
+  "lon": 153.1229994,
+  "confidence": "possible",
+  "matched_query": "Gibson Island, QLD, Australia",
+  "display_name": "Gibson Island, Gibson Island Green Hydrogen Facility, Murarrie, Brisbane, Queensland, 4172, Australia"
+ },
+ "Gippsland Basin facility|VIC": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Goldfields Gas Transmission Pipeline|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Goonyella Broadmeadow Mine|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Gorgon Operations|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Gove Operations|NT": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Granny Smith Mine Site|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Greenbushes Lithium Operation|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Grosvenor Mine|QLD": {
+  "lat": -21.9544574,
+  "lon": 147.9995138,
+  "confidence": "likely",
+  "matched_query": "Grosvenor Mine, QLD, Australia",
+  "display_name": "Grosvenor Coal Mine (Underground), Moranbah, Queensland, Australia"
+ },
+ "Gruyere Mine Site|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Gudai-Darri Mine|WA": {
+  "lat": -22.5419792,
+  "lon": 119.0330425,
+  "confidence": "likely",
+  "matched_query": "Gudai-Darri Mine, WA, Australia",
+  "display_name": "Gudai-Darri Mine, Newman, Western Australia, Australia"
+ },
+ "HVY01 Hunter Valley Energy Coal - CCL Facility|NSW": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Hail Creek Mine|QLD": {
+  "lat": -21.4790823,
+  "lon": 148.3952595,
+  "confidence": "likely",
+  "matched_query": "Hail Creek Mine, QLD, Australia",
+  "display_name": "Hail Creek Mine, Hail Creek, Queensland, 4742, Australia"
+ },
+ "Hope Downs 1 Mine|WA": {
+  "lat": -22.9671619,
+  "lon": 119.1254234,
+  "confidence": "possible",
+  "matched_query": "Hope Downs 1 Mine, WA, Australia",
+  "display_name": "Hope Downs Access Road, Hope Downs Mine, Newman, Western Australia, 6753, Australia"
+ },
+ "Hope Downs 4 Mine|WA": {
+  "lat": -23.1453703,
+  "lon": 119.5312925,
+  "confidence": "likely",
+  "matched_query": "Hope Downs 4 Mine, WA, Australia",
+  "display_name": "Hope Downs 4 Mine, Newman, Western Australia, Australia"
+ },
+ "Hunter Valley Operations mine|NSW": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Huntly Mine|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "InfraBuild Steel - Laverton Steel Mill|VIC": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Integra Underground Mine|NSW": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Iron Bridge Mine|WA": {
+  "lat": -21.2882814,
+  "lon": 118.8840249,
+  "confidence": "possible",
+  "matched_query": "Iron Bridge Mine, WA, Australia",
+  "display_name": "Iron Bridge Mine Airport, Airport Access Road, Marble Bar, Western Australia, 6760, Australia"
+ },
+ "Ironbark No. 1|QLD": {
+  "lat": -27.5548945,
+  "lon": 152.6698609,
+  "confidence": "possible",
+  "matched_query": "Ironbark No. 1, QLD, Australia",
+  "display_name": "Ironbark, Brisbane, Queensland, Australia"
+ },
+ "Isaac Plains Coal Mine|QLD": {
+  "lat": -21.9664863,
+  "lon": 148.128852,
+  "confidence": "likely",
+  "matched_query": "Isaac Plains Coal Mine, QLD, Australia",
+  "display_name": "Isaac Plains Coal Mine, Moranbah, Queensland, Australia"
+ },
+ "Isaac Plains Complex|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "JGN|NSW": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Jax Mine|QLD": {
+  "lat": -20.7117801,
+  "lon": 147.8614192,
+  "confidence": "likely",
+  "matched_query": "Jax Mine, QLD, Australia",
+  "display_name": "Jax Mine, Springlands, Queensland, 4804, Australia"
+ },
+ "Jellinbah Mine|QLD": {
+  "lat": -23.3902673,
+  "lon": 148.9533814,
+  "confidence": "likely",
+  "matched_query": "Jellinbah Mine, QLD, Australia",
+  "display_name": "Jellinbah Mine, Bluff, Queensland, 4702, Australia"
+ },
+ "Jimblebar Mine|WA": {
+  "lat": -23.3811161,
+  "lon": 120.121403,
+  "confidence": "likely",
+  "matched_query": "Jimblebar Mine, WA, Australia",
+  "display_name": "Jimblebar Mine, Newman, Western Australia, Australia"
+ },
+ "Jundee Gold Mine|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Karlawinda Gold Project|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Kemerton Silicon Smelter|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Kestrel Coal Pty Ltd|QLD": {
+  "lat": -23.23502,
+  "lon": 148.361592,
+  "confidence": "likely",
+  "matched_query": "Kestrel Coal, QLD, Australia",
+  "display_name": "Kestrel Coal, Crinum, Queensland, 4723, Australia"
+ },
+ "Kestrel Mine|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "King of the Hills|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Kogan Creek Mine|QLD": {
+  "lat": -26.9344077,
+  "lon": 150.7862,
+  "confidence": "likely",
+  "matched_query": "Kogan Creek Mine, QLD, Australia",
+  "display_name": "Kogan Creek Coal Mine, Brigalow, Queensland, 4412, Australia"
+ },
+ "Koodaideri Mine|WA": {
+  "lat": -22.5419792,
+  "lon": 119.0330425,
+  "confidence": "likely",
+  "matched_query": "Koodaideri Mine, WA, Australia",
+  "display_name": "Gudai-Darri Mine, Newman, Western Australia, Australia"
+ },
+ "Koolyanobbing Iron Ore Operations|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Kooragang Island|NSW": {
+  "lat": -32.8672967,
+  "lon": 151.7462652,
+  "confidence": "possible",
+  "matched_query": "Kooragang Island, NSW, Australia",
+  "display_name": "Kooragang Island, Hexham, Newcastle-Maitland, New South Wales, 2322, Australia"
+ },
+ "Kwinana Alumina Refinery|WA": {
+  "lat": -32.1897479,
+  "lon": 115.7781323,
+  "confidence": "likely",
+  "matched_query": "Kwinana Alumina Refinery, WA, Australia",
+  "display_name": "Kwinana Alumina Refinery, Naval Base, Western Australia, Australia"
+ },
+ "Kwinana Pigment Plant|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Kwinana Refinery|WA": {
+  "lat": -32.2509265,
+  "lon": 115.7664763,
+  "confidence": "likely",
+  "matched_query": "Kwinana Refinery, WA, Australia",
+  "display_name": "Kwinana Nickel Refinery, East Rockingham, Western Australia, Australia"
+ },
+ "Lake Vermont Mine|QLD": {
+  "lat": -22.4430886,
+  "lon": 148.4193349,
+  "confidence": "likely",
+  "matched_query": "Lake Vermont Mine, QLD, Australia",
+  "display_name": "Lake Vermont Mine, Dysart, Queensland, 4745, Australia"
+ },
+ "Lang Lang|VIC": {
+  "lat": -38.2660405,
+  "lon": 145.5627778,
+  "confidence": "possible",
+  "matched_query": "Lang Lang, VIC, Australia",
+  "display_name": "Lang Lang, Victoria, 3984, Australia"
+ },
+ "Leinster Power Station|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Liberty Bell Bay|TAS": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Liberty OneSteel Laverton Steel Mill|VIC": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Liberty Primary Steel Whyalla Steelworks|SA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Liddell Coal Mine|NSW": {
+  "lat": -32.3873345,
+  "lon": 151.0138341,
+  "confidence": "likely",
+  "matched_query": "Liddell Coal Mine, NSW, Australia",
+  "display_name": "Liddell Coal Mine, Muswellbrook, New South Wales, Australia"
+ },
+ "Macedon|WA": {
+  "lat": -31.9866889,
+  "lon": 115.5570194,
+  "confidence": "possible",
+  "matched_query": "Macedon, WA, Australia",
+  "display_name": "Macedon, Gabbi Karniny Bidi, Rottnest Island, Western Australia, 6161, Australia"
+ },
+ "Mandalong Mine|NSW": {
+  "lat": -33.0581576,
+  "lon": 151.5009115,
+  "confidence": "likely",
+  "matched_query": "Mandalong Mine, NSW, Australia",
+  "display_name": "Mandalong Mine - Cooranbong/Eraring pit head, Dora Creek, New South Wales, Australia"
+ },
+ "Mangoola|NSW": {
+  "lat": -32.3318,
+  "lon": 150.7179,
+  "confidence": "possible",
+  "matched_query": "Mangoola, NSW, Australia",
+  "display_name": "Mangoola, New South Wales, Australia"
+ },
+ "Marandoo Mine|WA": {
+  "lat": -22.6433221,
+  "lon": 118.1376232,
+  "confidence": "likely",
+  "matched_query": "Marandoo Mine, WA, Australia",
+  "display_name": "Marandoo Mine, Karijini, Western Australia, 6751, Australia"
+ },
+ "Maules Creek Open Cut Mine|NSW": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "McArthur River Mine Operations|NT": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "McArthur River Power Station|NT": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Mesa A Mine|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Mesa J / K Mine|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Metropolitan Colliery|NSW": {
+  "lat": -34.186935,
+  "lon": 150.9961721,
+  "confidence": "likely",
+  "matched_query": "Metropolitan Colliery, NSW, Australia",
+  "display_name": "Metropolitan Colliery, Helensburgh, New South Wales, 2508, Australia"
+ },
+ "Middlemount Coal Mine|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Millicent Mill|SA": {
+  "lat": -37.6731283,
+  "lon": 140.4285105,
+  "confidence": "likely",
+  "matched_query": "Millicent Mill, SA, Australia",
+  "display_name": "Millicent Mill, Glens Lane, Tantanoola, South Australia, 5280, Australia"
+ },
+ "Mobil Altona Refinery|VIC": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Montara Operations|NT": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Moolarben Coal Mine (Open Cut & Underground)|NSW": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Moomba Plant|SA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Moorvale Coal Mine|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Moranbah|QLD": {
+  "lat": -22.0030414,
+  "lon": 148.0432658,
+  "confidence": "possible",
+  "matched_query": "Moranbah, QLD, Australia",
+  "display_name": "Moranbah, Queensland, 4744, Australia"
+ },
+ "Moranbah North Mine|QLD": {
+  "lat": -21.8706251,
+  "lon": 147.9633543,
+  "confidence": "possible",
+  "matched_query": "Moranbah North Mine, QLD, Australia",
+  "display_name": "Moranbah North, Moranbah North Mine Access Road, Moranbah North Coal Mine (Underground), Moranbah, Queensland, 4744, Australia"
+ },
+ "Mount Isa Mines Copper and Zinc Operations|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Mount Pleasant Operations|NSW": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Mt Keith Power Station|WA": {
+  "lat": -27.2160194,
+  "lon": 120.5496006,
+  "confidence": "likely",
+  "matched_query": "Mt Keith Power Station, WA, Australia",
+  "display_name": "Mount Keith Power Station, Wiluna, Western Australia, Australia"
+ },
+ "Mt Marion Lithium Project|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Mt Owen Glendell Complex|NSW": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Multinet Principal Distribution Network and South Gippsland Pipeline|NSW": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Murrin Murrin Operations|WA": {
+  "lat": -28.9527761,
+  "lon": 121.7817952,
+  "confidence": "likely",
+  "matched_query": "Murrin Murrin Operations, WA, Australia",
+  "display_name": "Murrin South Operations, Leonora, Western Australia, 6438, Australia"
+ },
+ "Myuna Colliery|NSW": {
+  "lat": -33.063081,
+  "lon": 151.5677231,
+  "confidence": "likely",
+  "matched_query": "Myuna Colliery, NSW, Australia",
+  "display_name": "Myuna Colliery, Wangi Wangi, Newcastle-Maitland, New South Wales, Australia"
+ },
+ "NGP|NT": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "NKS01 Nickel West Kalgoorlie Facility|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "NKW01 Nickel West Kwinana Facility|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "NMK01 Nickel West Mt Keith Facility|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Narrabri Underground Mine|NSW": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "New Illawarra Road Landfill|NSW": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Newlands Coal Complex including Newlands Northern UG|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Newman Operations|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Newman Power Station|WA": {
+  "lat": -23.344375,
+  "lon": 119.7086163,
+  "confidence": "likely",
+  "matched_query": "Newman Power Station, WA, Australia",
+  "display_name": "Newman Alinta Power Station, Newman, Western Australia, Australia"
+ },
+ "Newmont Boddington Gold Operation|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Newmont Tanami Operation|NT": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Ningaloo Vision FPSO|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Norske Skog Boyer Mill|TAS": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "North Goonyella Coal Mine|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "North West Shelf Project|WA": {
+  "lat": -20.5956111,
+  "lon": 116.7744117,
+  "confidence": "likely",
+  "matched_query": "North West Shelf Project, WA, Australia",
+  "display_name": "North West Shelf Project, Burrup, Western Australia, 6714, Australia"
+ },
+ "Norwich Park Mine|QLD": {
+  "lat": -22.6141972,
+  "lon": 148.4278534,
+  "confidence": "likely",
+  "matched_query": "Norwich Park Mine, QLD, Australia",
+  "display_name": "Norwich Park Mine, Dysart, Queensland, 4745, Australia"
+ },
+ "Nowra Plant|NSW": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Nyrstar Port Pirie Facility|SA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Nyrstar Port Pirie Smelter|SA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "ODS01 Olympic Dam \u2013 UOD Facility|SA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Oaky Creek Coal Complex|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Olive Downs Complex|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Onslow Haul Road|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Opal Australian Paper Maryvale Mill|VIC": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Orora Glass Plant Gawler|SA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Otway|VIC": {
+  "lat": -38.4349856,
+  "lon": 143.5577764,
+  "confidence": "possible",
+  "matched_query": "Otway, VIC, Australia",
+  "display_name": "Shire of Colac Otway, Victoria, Australia"
+ },
+ "PRL03 Rail - IOR Facility|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Pacific National National Transport Facility|National": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Paraburdoo Mine|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Parkhurst Magnesia Manufacturing Plant|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Peak Downs Mine|QLD": {
+  "lat": -22.2006449,
+  "lon": 148.1631692,
+  "confidence": "likely",
+  "matched_query": "Peak Downs Mine, QLD, Australia",
+  "display_name": "Peak Downs Mine, Winchester, Queensland, 4721, Australia"
+ },
+ "Phosphate Hill|QLD": {
+  "lat": -21.8858298,
+  "lon": 139.9674148,
+  "confidence": "likely",
+  "matched_query": "Phosphate Hill, QLD, Australia",
+  "display_name": "Phosphate Hill, Selwyn, Queensland, 4823, Australia"
+ },
+ "Pilbara Rail Operations|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Pilgangoora Operations|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Pinjarra Alumina Refinery|WA": {
+  "lat": -32.6415915,
+  "lon": 115.9442603,
+  "confidence": "possible",
+  "matched_query": "Pinjarra Alumina Refinery, WA, Australia",
+  "display_name": "Pinjarra Alumina Refinery Access Road, Pinjarra Refinery, Oakley, Western Australia, 6208, Australia"
+ },
+ "Pluto LNG|WA": {
+  "lat": -20.6123621,
+  "lon": 116.7657664,
+  "confidence": "likely",
+  "matched_query": "Pluto LNG, WA, Australia",
+  "display_name": "Pluto LNG Park, Burrup, Karratha, Western Australia, 6714, Australia"
+ },
+ "Poitrel Mine|QLD": {
+  "lat": -22.0691895,
+  "lon": 148.2445582,
+  "confidence": "likely",
+  "matched_query": "Poitrel Mine, QLD, Australia",
+  "display_name": "Poitrel Mine, Coppabella, Queensland, 4741, Australia"
+ },
+ "Port Bonython Plant|SA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Port Kembla Steelworks|NSW": {
+  "lat": -34.4436464,
+  "lon": 150.8816439,
+  "confidence": "possible",
+  "matched_query": "Port Kembla Steelworks, NSW, Australia",
+  "display_name": "Springhill Rd at Port Kembla Steelworks Rd, Springhill Road, Port Kembla, Wollongong, New South Wales, 2505, Australia"
+ },
+ "Port Latta Pelletising Plant|TAS": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Portland Aluminium Smelter|VIC": {
+  "lat": -38.3872293,
+  "lon": 141.6261545,
+  "confidence": "likely",
+  "matched_query": "Portland Aluminium Smelter, VIC, Australia",
+  "display_name": "Portland Aluminium Smelter, Portland, Victoria, Australia"
+ },
+ "Premier Coal Mine (Open Cut)|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "QGC Upstream|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Qantas Airways Limited - National Facility|National": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Qenos Altona Manufacturing|VIC": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Qenos Botany Manufacturing|NSW": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Queensland|QLD": {
+  "lat": -27.497418,
+  "lon": 153.0131666,
+  "confidence": "possible",
+  "matched_query": "Queensland, QLD, Australia",
+  "display_name": "The University of Queensland, Campbell Road, St Lucia, Brisbane, Queensland, 4067, Australia"
+ },
+ "Queensland Alumina Limited Refinery|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Queensland Curtis LNG Plant|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Queensland Nitrates Ammonium Nitrate Plant|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Rail|WA": {
+  "lat": -33.8856442,
+  "lon": 115.8758106,
+  "confidence": "possible",
+  "matched_query": "Rail, WA, Australia",
+  "display_name": "Post and Rail Gully, Nannup, Western Australia, 6275, Australia"
+ },
+ "Railton|TAS": {
+  "lat": -41.3453186,
+  "lon": 146.4226149,
+  "confidence": "possible",
+  "matched_query": "Railton, TAS, Australia",
+  "display_name": "Railton, Tasmania, 7305, Australia"
+ },
+ "Ranger Mine|NT": {
+  "lat": -12.6838842,
+  "lon": 132.9081634,
+  "confidence": "low",
+  "matched_query": "Ranger Mine, Northern Territory, Australia",
+  "display_name": "Ranger Uranium Mine, Kakadu, Northern Territory, 0822, Australia"
+ },
+ "Ravensthorpe Nickel Operation|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Ravenswood Mine|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Ravensworth Operations|NSW": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Ravensworth Underground Coal Mine|NSW": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Refinery Qld Lytton|QLD": {
+  "lat": -27.4133011,
+  "lon": 153.1565228,
+  "confidence": "likely",
+  "matched_query": "Refinery Qld Lytton, QLD, Australia",
+  "display_name": "Ampol Oil Refinery, Lytton, Brisbane, Queensland, Australia"
+ },
+ "Rio Tinto Marine - Qld|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Rio Tinto Weipa|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Rio Tinto Yarwun|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Rolleston Coal Mine|QLD": {
+  "lat": -24.4546429,
+  "lon": 148.4053616,
+  "confidence": "likely",
+  "matched_query": "Rolleston Coal Mine, QLD, Australia",
+  "display_name": "Rolleston Coal Mine, Albinia, Queensland, 4722, Australia"
+ },
+ "Roma Hub|QLD": {
+  "lat": -26.4573042,
+  "lon": 149.0268704,
+  "confidence": "likely",
+  "matched_query": "Roma Hub, QLD, Australia",
+  "display_name": "Roma Hub Compression Station, Mooga, Queensland, 4455, Australia"
+ },
+ "Roy Hill Mine|WA": {
+  "lat": -22.5005742,
+  "lon": 119.9750347,
+  "confidence": "likely",
+  "matched_query": "Roy Hill Mine, WA, Australia",
+  "display_name": "Roy Hill mine, Newman, Western Australia, Australia"
+ },
+ "Russell Vale Colliery|NSW": {
+  "lat": -34.3586655,
+  "lon": 150.8908456,
+  "confidence": "likely",
+  "matched_query": "Russell Vale Colliery, NSW, Australia",
+  "display_name": "Russell Vale Colliery, Corrimal, New South Wales, Australia"
+ },
+ "SIMEC Mining - Middleback Range Iron Ore Mine (Whyalla)|SA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Saraji Mine|QLD": {
+  "lat": -22.409343,
+  "lon": 148.2987317,
+  "confidence": "likely",
+  "matched_query": "Saraji Mine, QLD, Australia",
+  "display_name": "Saraji Coal Mine, Dysart, Queensland, 4745, Australia"
+ },
+ "Savage River Mine|TAS": {
+  "lat": -41.4776809,
+  "lon": 145.2034659,
+  "confidence": "likely",
+  "matched_query": "Savage River Mine, TAS, Australia",
+  "display_name": "Savage River Mine, Savage River, Tasmania, Australia"
+ },
+ "Sewerage West|VIC": {
+  "lat": -37.9771939,
+  "lon": 144.61444,
+  "confidence": "possible",
+  "matched_query": "Sewerage West, VIC, Australia",
+  "display_name": "One Hundred and Five West Sewerage Treatment Plant West One Road, Melbourne, Victoria, 3030, Australia"
+ },
+ "Sino Iron Project \u2013 Cape Preston|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Sojitz Gregory Crinum Mine|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Solomon Mine|WA": {
+  "lat": -22.1471367,
+  "lon": 117.9571595,
+  "confidence": "likely",
+  "matched_query": "Solomon Mine, WA, Australia",
+  "display_name": "Solomon Hub Mine Power Station, Chichester, Western Australia, 6751, Australia"
+ },
+ "Solomon Power Station|WA": {
+  "lat": -22.1471367,
+  "lon": 117.9571595,
+  "confidence": "likely",
+  "matched_query": "Solomon Power Station, WA, Australia",
+  "display_name": "Solomon Hub Mine Power Station, Chichester, Western Australia, 6751, Australia"
+ },
+ "South Walker Creek|QLD": {
+  "lat": -21.7892739,
+  "lon": 148.4859569,
+  "confidence": "possible",
+  "matched_query": "South Walker Creek, QLD, Australia",
+  "display_name": "South Walker, South Walker Creek Mine Access, South Walker Creek Mine, Tootoolah, Strathfield, Queensland, 4742, Australia"
+ },
+ "South West Queensland Pipeline|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "South West Synthetic Rutile Operations|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Spring Gully Reedy Creek Combabula|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Start up and Operations of the Ichthys LNG Project|NT": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Sunrise Dam|WA": {
+  "lat": -29.0968771,
+  "lon": 122.4606107,
+  "confidence": "possible",
+  "matched_query": "Sunrise Dam, WA, Australia",
+  "display_name": "Sunrise Dam Airport, Sunrise Dam Access Road, Laverton, Western Australia, 6440, Australia"
+ },
+ "TAHMOOR COAL MINE|NSW": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "TEM01|TAS": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "TT-Line - Victorian Operation|VIC": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Telfer Gold Mine|WA": {
+  "lat": -21.7416183,
+  "lon": 122.1827658,
+  "confidence": "likely",
+  "matched_query": "Telfer Gold Mine, WA, Australia",
+  "display_name": "Telfer Gold Mine Power Station, Western Australia, Australia"
+ },
+ "Thunderbox Operations|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Toll National Transport Facility|National": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Tom Price Mine / WTS|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Tomago Aluminium Smelter|NSW": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Tropicana Gold Mine|WA": {
+  "lat": -29.2403924,
+  "lon": 124.5383925,
+  "confidence": "likely",
+  "matched_query": "Tropicana Gold Mine, WA, Australia",
+  "display_name": "Tropicana Gold Mine, Tropicana Gold Mine Access Road, Plumridge Lakes, Western Australia, 6431, Australia"
+ },
+ "United Coal Mine|NSW": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "V/Line|VIC": {
+  "lat": -37.0427716,
+  "lon": 143.7463642,
+  "confidence": "possible",
+  "matched_query": "V/Line, VIC, Australia",
+  "display_name": "V/line fuel point and stabling, Maryborough, Victoria, 3465, Australia"
+ },
+ "Vales Point Power Station|NSW": {
+  "lat": -33.1605934,
+  "lon": 151.5440766,
+  "confidence": "likely",
+  "matched_query": "Vales Point Power Station, NSW, Australia",
+  "display_name": "Vales Point Power Station, Mannering Park, New South Wales, Australia"
+ },
+ "Varanus Hub|WA": {
+  "lat": -20.6530761,
+  "lon": 115.5785857,
+  "confidence": "likely",
+  "matched_query": "Varanus Hub, WA, Australia",
+  "display_name": "Varanus Island Hub, Western Australia, Australia"
+ },
+ "Victoria|VIC": {
+  "lat": -38.165166,
+  "lon": 144.3376679,
+  "confidence": "possible",
+  "matched_query": "Victoria, VIC, Australia",
+  "display_name": "Australia, Belmont, Geelong, Victoria, 3216, Australia"
+ },
+ "Vincent Project Venture|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Virgin Australia Holdings National Transport Facility|National": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "WA Transport facility|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "WOR01|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Wagerup Alumina Refinery|WA": {
+  "lat": -32.9064139,
+  "lon": 115.8905628,
+  "confidence": "likely",
+  "matched_query": "Wagerup Alumina Refinery, WA, Australia",
+  "display_name": "Wagerup Alumina Refinery, Wagerup, Western Australia, 6215, Australia"
+ },
+ "Wambo Coal Mine|NSW": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Warkworth Mine|NSW": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "West Angelas Mine|WA": {
+  "lat": -23.1466231,
+  "lon": 118.6565641,
+  "confidence": "likely",
+  "matched_query": "West Angelas Mine, WA, Australia",
+  "display_name": "West Angelas Mine, Newman, Western Australia, Australia"
+ },
+ "West Pilbara Iron Ore Project|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Western Australia|WA": {
+  "lat": -31.950652,
+  "lon": 115.7978755,
+  "confidence": "possible",
+  "matched_query": "Western Australia, WA, Australia",
+  "display_name": "University of Western Australia, 35, Stirling Highway, Nedlands, Perth, Western Australia, 6009, Australia"
+ },
+ "Western Port Works|VIC": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Wheatstone Operations|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Wilpinjong Coal Mine|NSW": {
+  "lat": -32.3325955,
+  "lon": 149.8684926,
+  "confidence": "likely",
+  "matched_query": "Wilpinjong Coal Mine, NSW, Australia",
+  "display_name": "Wilpinjong Coal Mine, New South Wales, Australia"
+ },
+ "Wodgina Lithium Project|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Wodgina Operations|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Woodlawn Bioreactor|NSW": {
+  "lat": -35.0627554,
+  "lon": 149.570211,
+  "confidence": "likely",
+  "matched_query": "Woodlawn Bioreactor, NSW, Australia",
+  "display_name": "Woodlawn Bioreactor, Woodlawn Mines, Tarago, New South Wales, 2580, Australia"
+ },
+ "YAN01 Yandi/Marillana Creek Mine - MNG Facility|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "YPF AMMONIA PLANT|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Yandicoogina Mine|WA": {
+  "lat": -22.7912258,
+  "lon": 119.2537446,
+  "confidence": "likely",
+  "matched_query": "Yandicoogina Mine, WA, Australia",
+  "display_name": "RTIO Yandicoogina mine, Newman, Western Australia, Australia"
+ },
+ "Yarnima Power Station|WA": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Yarrabee Coal Mine (Open Cut)|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ },
+ "Yarwun Nitrates|QLD": {
+  "lat": null,
+  "lon": null,
+  "confidence": "not found",
+  "matched_query": null,
+  "display_name": null
+ }
+}
