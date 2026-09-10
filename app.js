@@ -145,7 +145,50 @@
     return RADIUS_MIN + scaled * (RADIUS_MAX - RADIUS_MIN);
   }
 
-  function colorFor(facility) {
+  // ---------- colour: performance vs baseline (diverging, green = under, red = over) ----------
+
+  const BASELINE_GOOD = "#0ca30c";   // status-good green
+  const BASELINE_BAD = "#d03b3b";    // status-critical red
+  const BASELINE_NEUTRAL = "#c3c2b7"; // palette axis grey -- "at baseline"
+  const BASELINE_NO_DATA = "#9a9890"; // same grey family as "Unclassified", but a separate meaning
+  const BASELINE_NEAR_THRESHOLD = 0.02;   // within +/-2% of baseline reads as "at baseline"
+  const BASELINE_STRONG_THRESHOLD = 0.20; // beyond +/-20% reads as "well" under/over
+
+  function hexToRgb(hex) {
+    return [parseInt(hex.slice(1, 3), 16), parseInt(hex.slice(3, 5), 16), parseInt(hex.slice(5, 7), 16)];
+  }
+  function rgbToHex(rgb) {
+    const h = (v) => Math.round(Math.max(0, Math.min(255, v))).toString(16).padStart(2, "0");
+    return `#${h(rgb[0])}${h(rgb[1])}${h(rgb[2])}`;
+  }
+  function lerpColor(hexA, hexB, t) {
+    const a = hexToRgb(hexA), b = hexToRgb(hexB);
+    return rgbToHex(a.map((v, i) => v + (b[i] - v) * t));
+  }
+
+  const BASELINE_LIGHT_GOOD = lerpColor(BASELINE_NEUTRAL, BASELINE_GOOD, 0.55);
+  const BASELINE_LIGHT_BAD = lerpColor(BASELINE_NEUTRAL, BASELINE_BAD, 0.55);
+
+  function baselineDiffPct(facility, year) {
+    const rec = facility.years[year];
+    if (!rec) return null;
+    const { covered_emissions: cov, baseline } = rec;
+    if (cov === null || cov === undefined || !baseline) return null; // no baseline (e.g. MYMP years) -> can't compare
+    return (cov - baseline) / baseline;
+  }
+
+  function baselineColor(facility, year) {
+    const diffPct = baselineDiffPct(facility, year);
+    if (diffPct === null) return BASELINE_NO_DATA;
+    if (diffPct <= -BASELINE_STRONG_THRESHOLD) return BASELINE_GOOD;
+    if (diffPct <= -BASELINE_NEAR_THRESHOLD) return BASELINE_LIGHT_GOOD;
+    if (diffPct < BASELINE_NEAR_THRESHOLD) return BASELINE_NEUTRAL;
+    if (diffPct < BASELINE_STRONG_THRESHOLD) return BASELINE_LIGHT_BAD;
+    return BASELINE_BAD;
+  }
+
+  function colorFor(facility, year) {
+    if (state.colorMode === "baseline") return baselineColor(facility, year);
     if (state.colorMode === "advanced" && facility.anzsic && anzsicColors[facility.anzsic]) {
       return anzsicColors[facility.anzsic];
     }
@@ -205,7 +248,7 @@
           opacity: 1,
           fillOpacity: 0.85,
           radius: radiusFor(facility, year),
-          fillColor: colorFor(facility),
+          fillColor: colorFor(facility, year),
         });
         if (el) el.style.pointerEvents = "auto";
       }
@@ -276,7 +319,17 @@
     const divisionRow = (name, color) =>
       `<div class="legend-row"><span class="legend-swatch" style="background:${color}"></span>${name}</div>`;
 
-    if (state.colorMode === "advanced") {
+    if (state.colorMode === "baseline") {
+      anzsicBox.innerHTML =
+        `<div class="legend-title">Covered emissions vs baseline</div>` +
+        divisionRow("Well under baseline (< −20%)", BASELINE_GOOD) +
+        divisionRow("Under baseline", BASELINE_LIGHT_GOOD) +
+        divisionRow("At baseline (±2%)", BASELINE_NEUTRAL) +
+        divisionRow("Over baseline", BASELINE_LIGHT_BAD) +
+        divisionRow("Well over baseline (> +20%)", BASELINE_BAD) +
+        divisionRow("No baseline for this year", BASELINE_NO_DATA) +
+        `<div class="legend-note">For the year selected below. A facility with no annual baseline that year (e.g. a multi-year monitoring period) can't be compared and is shown grey.</div>`;
+    } else if (state.colorMode === "advanced") {
       const groups = Object.keys(DIVISION_COLORS)
         .filter((d) => d !== "Other" && anzsicByDivision[d])
         .map((division) => {
@@ -531,9 +584,13 @@
 
     const statRows = body.querySelector("#stat-rows");
     if (latest) {
+      const diffPct = latestYear !== null ? baselineDiffPct(f, latestYear) : null;
+      const vsBaseline =
+        diffPct === null ? "—" : `${diffPct >= 0 ? "+" : ""}${(diffPct * 100).toFixed(0)}% ${diffPct >= 0 ? "over" : "under"}`;
       const rows = [
         [`Covered emissions (${latestYear})`, fmtNum(latest.covered_emissions) + " t"],
         [`Baseline (${latestYear})`, latest.baseline !== null ? fmtNum(latest.baseline) + " t" : "—"],
+        ["vs baseline", vsBaseline],
         ["Years in scheme", Object.keys(f.years).sort().join(", ")],
       ];
       statRows.innerHTML = rows
