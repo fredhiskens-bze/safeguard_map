@@ -599,7 +599,7 @@
 
   // ---------- boot ----------
 
-  fetch("data/facilities.json")
+  fetch("facilities.json")
     .then((r) => r.json())
     .then((data) => {
       state.data = data;

@@ -1,9 +1,9 @@
 """
 Double-click this file to preview the map locally.
 
-Serves the map/ folder at http://localhost:8765 and opens it in your
-default browser. Leave the console window open while you're viewing the
-map; close it (or press Ctrl+C) when you're done.
+Serves this folder at http://localhost:8765 and opens it in your default
+browser. Leave the console window open while you're viewing the map;
+close it (or press Ctrl+C) when you're done.
 """
 import http.server
 import os

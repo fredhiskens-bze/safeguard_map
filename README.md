@@ -18,11 +18,14 @@ docs/facility_coordinates_review.xlsx  <- send to Fred for manual coordinate che
   |
   v  (Fred edits and returns the workbook)
   v  scripts/import_reviewed_workbook.py   <- writes corrections back into facilities_master.csv
-  |
+  v  scripts/merge_facilities.py           <- one-off manual merges for facilities the
+  |                                           fuzzy-matcher split (ownership/rebrand changes)
   v  scripts/build_map_data.py
-map/data/facilities.json       <- single data file the map app reads
+facilities.json                <- single data file the map app reads (repo root)
   |
-  v  map/index.html + style.css + app.js  (open directly, or host anywhere)
+  v  index.html + style.css + app.js  (open via serve.py locally, or host anywhere --
+                                        e.g. GitHub Pages, since everything the map
+                                        needs lives at the repo root)
 ```
 
 To rebuild everything from scratch after new raw data years are added:
@@ -33,8 +36,12 @@ python scripts/geocode.py
 python scripts/build_review_workbook.py
 # ... send docs/facility_coordinates_review.xlsx to Fred, wait for it back ...
 python scripts/import_reviewed_workbook.py
+python scripts/merge_facilities.py   # edit MERGES in the script first, if there are new ones
 python scripts/build_map_data.py
 ```
+
+To preview locally: double-click `serve.py` (or run `python serve.py`) and it opens
+http://localhost:8765 in your browser.
 
 ## Notes on the data
 

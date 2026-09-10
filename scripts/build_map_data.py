@@ -1,5 +1,5 @@
 """
-Build map/data/facilities.json from the reconciled facility registry +
+Build facilities.json (repo root) from the reconciled facility registry +
 long-format emissions table. This is the single data file the map app loads.
 
 Re-run this any time facilities_master.csv (coordinates) or emissions_long.csv change.
@@ -12,8 +12,6 @@ import pandas as pd
 
 ROOT = Path(__file__).parent.parent
 PROCESSED = ROOT / "data" / "processed"
-MAP_DATA = ROOT / "map" / "data"
-MAP_DATA.mkdir(parents=True, exist_ok=True)
 
 YEAR_ORDER = ["2020-21", "2021-22", "2022-23", "2023-24", "2024-25"]
 
@@ -99,7 +97,7 @@ def main():
         "reformed_years": ["2023-24", "2024-25"],
         "facilities": facilities,
     }
-    out_path = MAP_DATA / "facilities.json"
+    out_path = ROOT / "facilities.json"
     out_path.write_text(json.dumps(out, indent=None, allow_nan=False))
     print(f"Wrote {out_path}: {len(facilities)} facilities, {skipped_no_coords} without coordinates yet")
 
